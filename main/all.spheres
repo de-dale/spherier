@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Placeholder for all",
+    "content": [
+      {
+        "type": "title",
+        "content": "Placeholder"
+      },
+      {
+        "type": "text",
+        "content": "Fausse carte parmettant d'initier la récupération de toutes les cartes du sphérier"
+      }
+    ]
+  }
+]
