@@ -1,14 +1,256 @@
 [
   {
-    "name": "Placeholder for all",
+    "name": "Starter Carrure",
     "content": [
       {
         "type": "title",
-        "content": "Placeholder"
+        "content": "Carrure mineure"
+      },
+      {
+        "type": "field",
+        "header": "Type",
+        "content": "Constellation"
       },
       {
         "type": "text",
-        "content": "Fausse carte parmettant d'initier la récupération de toutes les cartes du sphérier"
+        "content": "Description"
+      },
+      {
+        "type": "field",
+        "header": "Node first",
+        "content": "+5 PV"
+      },
+      {
+        "type": "field",
+        "header": "Node",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node gem",
+        "content": "Gemme(Carrure)"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Port d'armures (I)"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Coup puissant (*)"
+      },
+      {
+        "type": "field",
+        "header": "Node",
+        "content": "+1 PV / Gem"
+      }
+    ]
+  },
+  {
+    "name": "Compétences Carrures",
+    "content": [
+      {
+        "type": "title",
+        "content": "Compétences mineures (Carrure)"
+      },
+      {
+        "type": "field",
+        "header": "Type",
+        "content": "Liste de compétences"
+      },
+      {
+        "type": "text",
+        "content": "Ensemble des compétences que l'on peut choisr sur uen carte ayant un coups en Carrure."
+      },
+      {
+        "type": "field",
+        "header": "Node ability",
+        "content": "Athlétisme"
+      },
+      {
+        "type": "field",
+        "header": "Node ability",
+        "content": "Corps à corps"
+      },
+      {
+        "type": "field",
+        "header": "Node ability",
+        "content": "Manoeuvres"
+      },
+      {
+        "type": "field",
+        "header": "Node ability",
+        "content": "Posture"
+      }
+    ]
+  },
+  {
+    "name": "Attaque en puissance",
+    "content": [
+      {
+        "type": "title",
+        "content": "Attaque en puissance"
+      },
+      {
+        "type": "field",
+        "header": "Type",
+        "content": "Constellation"
+      },
+      {
+        "type": "text",
+        "content": "Description"
+      },
+      {
+        "type": "field",
+        "header": "Node feat first",
+        "content": "Coup puissant (*)"
+      },
+      {
+        "type": "field",
+        "header": "Node",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node gem",
+        "content": "Gemme(Carrure)"
+      },
+      {
+        "type": "field",
+        "header": "Node gem",
+        "content": "Gemme(Carrure)"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Action: Renversement"
+      },
+      {
+        "type": "field",
+        "header": "Node posture",
+        "content": "Posture de puissance"
+      }
+    ]
+  },
+  {
+    "name": "Maître d'armes",
+    "content": [
+      {
+        "type": "title",
+        "content": "Maître d'armes"
+      },
+      {
+        "type": "field",
+        "header": "Type",
+        "content": "Constellation"
+      },
+      {
+        "type": "text",
+        "content": "Compétences de maîtres d'armes pour uen arme donnée"
+      },
+      {
+        "type": "field",
+        "header": "Node feat first",
+        "content": "Maîtrise (arme)"
+      },
+      {
+        "type": "field",
+        "header": "Node ",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node gem",
+        "content": "Gemme(Carrure)"
+      },
+      {
+        "type": "field",
+        "header": "Node gem",
+        "content": "Gemme(Carrure)"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Coup maîtrisé (*)"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Surplus aux dégâts"
+      },
+      {
+        "type": "field",
+        "header": "Node",
+        "content": "Synergie +1"
+      }
+    ]
+  },
+  {
+    "name": "Choc",
+    "content": [
+      {
+        "type": "title",
+        "content": "Choc"
+      },
+      {
+        "type": "field",
+        "header": "Type",
+        "content": "Constellation"
+      },
+      {
+        "type": "text",
+        "content": "Spécialité du renversement permettant de renverser tous les adversaires à portée"
+      },
+      {
+        "type": "field",
+        "header": "Node feat first",
+        "content": "Renversement +2"
+      },
+      {
+        "type": "field",
+        "header": "Node ",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node gem",
+        "content": "Gemme(Carrure)"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Homme à terre (+4)"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Choc (tous) (*)"
+      },
+      {
+        "type": "field",
+        "header": "Node gem",
+        "content": "Gemme(Carrure)"
+      },
+      {
+        "type": "field",
+        "header": "Node ",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node",
+        "content": "+1 Réaction / tour contre un adversaire renversé"
       }
     ]
   }
