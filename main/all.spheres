@@ -1,5 +1,245 @@
 [
   {
+    "name": "Starter Agilité",
+    "content": [
+      {
+        "type": "title",
+        "content": "Agilité mineure"
+      },
+      {
+        "type": "field",
+        "header": "Type",
+        "content": "Constellation"
+      },
+      {
+        "type": "text",
+        "content": "Carte de base, gratuite, pour démarrer le sphérier dans la constellation \"Agilité\""
+      },
+      {
+        "type": "field",
+        "header": "Node first",
+        "content": "Reaction: Esquive"
+      },
+      {
+        "type": "field",
+        "header": "Node",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node gem",
+        "content": "Gemme(Agilité)"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Accélération (*)"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Ambidextrie (I, -10, réduction de -2/Ambidextrie) (*)"
+      },
+      {
+        "type": "field",
+        "header": "Node",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Action: Piocher carte de cachette"
+      }
+    ]
+  },
+  {
+    "name": "Compétences Agilité",
+    "content": [
+      {
+        "type": "title",
+        "content": "Compétences mineures (Agilité)"
+      },
+      {
+        "type": "field",
+        "header": "Type",
+        "content": "Liste de compétences"
+      },
+      {
+        "type": "text",
+        "content": "Ensemble des compétences que l'on peut choisir sur une carte ayant un coups en Agilité."
+      },
+      {
+        "type": "field",
+        "header": "Node ability",
+        "content": "Furtivité"
+      },
+      {
+        "type": "field",
+        "header": "Node ability",
+        "content": "Acrobatie"
+      },
+      {
+        "type": "field",
+        "header": "Node ability",
+        "content": "Maniement d'une famille d'armes"
+      }
+    ]
+  },
+  {
+    "name": "Déplacement",
+    "content": [
+      {
+        "type": "title",
+        "content": "Déplacement"
+      },
+      {
+        "type": "field",
+        "header": "Type",
+        "content": "Constellation"
+      },
+      {
+        "type": "text",
+        "content": "Augmentations des capacités de déplacement d'un personnage"
+      },
+      {
+        "type": "field",
+        "header": "Node feat first",
+        "content": "Sprint (*)"
+      },
+      {
+        "type": "field",
+        "header": "Node",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node gem",
+        "content": "Gemme(Agilité)"
+      },
+      {
+        "type": "field",
+        "header": "Node gem",
+        "content": "Gemme(Agilité)"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Pas léger +1case"
+      },
+      {
+        "type": "field",
+        "header": "Node posture",
+        "content": "Serpenter (Déplacement 1case + Attaque à -5)"
+      }
+    ]
+  },
+  {
+    "name": "Camouflé",
+    "content": [
+      {
+        "type": "title",
+        "content": "Camouflé"
+      },
+      {
+        "type": "field",
+        "header": "Type",
+        "content": "Constellation"
+      },
+      {
+        "type": "text",
+        "content": "Développe des actions/compétences spéciales lors d'une partie de cahce-cache "
+      },
+      {
+        "type": "field",
+        "header": "Node feat first",
+        "content": "Diversion (*)"
+      },
+      {
+        "type": "field",
+        "header": "Node ",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node gem",
+        "content": "Gemme(Agilité)"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Souplesse serpent (*)"
+      },
+      {
+        "type": "field",
+        "header": "Node posture",
+        "content": "Camouflé (ombre, 5%)"
+      },
+      {
+        "type": "field",
+        "header": "Node ",
+        "content": "+3 Compétences"
+      }
+    ]
+  },
+  {
+    "name": "Attaques multiples",
+    "content": [
+      {
+        "type": "title",
+        "content": "Attaques multiples"
+      },
+      {
+        "type": "field",
+        "header": "Type",
+        "content": "Constellation"
+      },
+      {
+        "type": "text",
+        "content": "Développe des actions/compétences permettant d'attquer davantage, sur une passe d'initiative."
+      },
+      {
+        "type": "field",
+        "header": "Node feat first",
+        "content": "Ambidextrie (I, -10, réduction de -2/Ambidextrie)(*)"
+      },
+      {
+        "type": "field",
+        "header": "Node ",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node gem",
+        "content": "Gemme(Agilité)"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Réaction: Attaque double lors d'une opportunité"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Milles entailles (*)"
+      },
+      {
+        "type": "field",
+        "header": "Node posture",
+        "content": "Camouflé (ombre, 5%)"
+      }
+    ]
+  },
+  {
     "name": "Starter Carrure",
     "content": [
       {
@@ -251,246 +491,6 @@
         "type": "field",
         "header": "Node",
         "content": "+1 Réaction / tour contre un adversaire renversé"
-      }
-    ]
-  },
-  {
-    "name": "Starter Agilité",
-    "content": [
-      {
-        "type": "title",
-        "content": "Agilité mineure"
-      },
-      {
-        "type": "field",
-        "header": "Type",
-        "content": "Constellation"
-      },
-      {
-        "type": "text",
-        "content": "Carte de base, gratuite, pour démarrer le sphérier dans la constellation \"Agilité\""
-      },
-      {
-        "type": "field",
-        "header": "Node first",
-        "content": "Reaction: Esquive"
-      },
-      {
-        "type": "field",
-        "header": "Node",
-        "content": "+3 Compétences"
-      },
-      {
-        "type": "field",
-        "header": "Node",
-        "content": "+3 Compétences"
-      },
-      {
-        "type": "field",
-        "header": "Node",
-        "content": "+3 Compétences"
-      },
-      {
-        "type": "field",
-        "header": "Node gem",
-        "content": "Gemme(Agilité)"
-      },
-      {
-        "type": "field",
-        "header": "Node feat",
-        "content": "Accélération (*)"
-      },
-      {
-        "type": "field",
-        "header": "Node feat",
-        "content": "Ambidextrie (I, -10, réduction de -2/Ambidextrie) (*)"
-      },
-      {
-        "type": "field",
-        "header": "Node",
-        "content": "+3 Compétences"
-      },
-      {
-        "type": "field",
-        "header": "Node feat",
-        "content": "Action: Piocher carte de cachette"
-      }
-    ]
-  },
-  {
-    "name": "Compétences Agilité",
-    "content": [
-      {
-        "type": "title",
-        "content": "Compétences mineures (Agilité)"
-      },
-      {
-        "type": "field",
-        "header": "Type",
-        "content": "Liste de compétences"
-      },
-      {
-        "type": "text",
-        "content": "Ensemble des compétences que l'on peut choisir sur une carte ayant un coups en Agilité."
-      },
-      {
-        "type": "field",
-        "header": "Node ability",
-        "content": "Furtivité"
-      },
-      {
-        "type": "field",
-        "header": "Node ability",
-        "content": "Acrobatie"
-      },
-      {
-        "type": "field",
-        "header": "Node ability",
-        "content": "Maniement d'une famille d'armes"
-      }
-    ]
-  },
-  {
-    "name": "Déplacement",
-    "content": [
-      {
-        "type": "title",
-        "content": "Déplacement"
-      },
-      {
-        "type": "field",
-        "header": "Type",
-        "content": "Constellation"
-      },
-      {
-        "type": "text",
-        "content": "Augmentations des capacités de déplacement d'un personnage"
-      },
-      {
-        "type": "field",
-        "header": "Node feat first",
-        "content": "Sprint (*)"
-      },
-      {
-        "type": "field",
-        "header": "Node",
-        "content": "+3 Compétences"
-      },
-      {
-        "type": "field",
-        "header": "Node gem",
-        "content": "Gemme(Agilité)"
-      },
-      {
-        "type": "field",
-        "header": "Node gem",
-        "content": "Gemme(Agilité)"
-      },
-      {
-        "type": "field",
-        "header": "Node feat",
-        "content": "Pas léger +1case"
-      },
-      {
-        "type": "field",
-        "header": "Node posture",
-        "content": "Serpenter (Déplacement 1case + Attaque à -5)"
-      }
-    ]
-  },
-  {
-    "name": "Camouflé",
-    "content": [
-      {
-        "type": "title",
-        "content": "Camouflé"
-      },
-      {
-        "type": "field",
-        "header": "Type",
-        "content": "Constellation"
-      },
-      {
-        "type": "text",
-        "content": "Développe des actions/compétences spéciales lors d'une partie de cahce-cache "
-      },
-      {
-        "type": "field",
-        "header": "Node feat first",
-        "content": "Diversion (*)"
-      },
-      {
-        "type": "field",
-        "header": "Node ",
-        "content": "+3 Compétences"
-      },
-      {
-        "type": "field",
-        "header": "Node gem",
-        "content": "Gemme(Agilité)"
-      },
-      {
-        "type": "field",
-        "header": "Node feat",
-        "content": "Souplesse serpent (*)"
-      },
-      {
-        "type": "field",
-        "header": "Node posture",
-        "content": "Camouflé (ombre, 5%)"
-      },
-      {
-        "type": "field",
-        "header": "Node ",
-        "content": "+3 Compétences"
-      }
-    ]
-  },
-  {
-    "name": "Attaques multiples",
-    "content": [
-      {
-        "type": "title",
-        "content": "Attaques multiples"
-      },
-      {
-        "type": "field",
-        "header": "Type",
-        "content": "Constellation"
-      },
-      {
-        "type": "text",
-        "content": "Développe des actions/compétences permettant d'attquer davantage, sur une passe d'initiative."
-      },
-      {
-        "type": "field",
-        "header": "Node feat first",
-        "content": "Ambidextrie (I, -10, réduction de -2/Ambidextrie)(*)"
-      },
-      {
-        "type": "field",
-        "header": "Node ",
-        "content": "+3 Compétences"
-      },
-      {
-        "type": "field",
-        "header": "Node gem",
-        "content": "Gemme(Agilité)"
-      },
-      {
-        "type": "field",
-        "header": "Node feat",
-        "content": "Réaction: Attaque double lors d'une opportunité"
-      },
-      {
-        "type": "field",
-        "header": "Node feat",
-        "content": "Milles entailles (*)"
-      },
-      {
-        "type": "field",
-        "header": "Node posture",
-        "content": "Camouflé (ombre, 5%)"
       }
     ]
   }
