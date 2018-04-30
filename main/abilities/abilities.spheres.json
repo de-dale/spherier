@@ -1,0 +1,276 @@
+[
+  {
+    "name": "Excédent de dégâts",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Excédent de dégâts"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Lors d'une attaque, les succès excédentaires sont rajoutés aus dégâts."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "name": "Position du tigre",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Posture du tigre"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Posture"
+      },
+      {
+        "type": "text",
+        "content": "TODO: Posture de puissance"
+      },
+      {
+        "type": "field",
+        "header": "(Tests d'équipe)",
+        "content": "SR5 p."
+      }
+    ]
+  },
+  {
+    "name": "Surnombre",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Surnombre"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Permet de bénéficier d'un +1 à l'attaque, par allié adjacent à la cible de l'ataque."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Posture de la mante",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Posture de la mante"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Posture"
+      },
+      {
+        "type": "text",
+        "content": "Permet de bénéficier d'un bonus d'esquive pour un malus à l'attaque."
+      },
+      {
+        "type": "field",
+        "header": "Modificateurs",
+        "content": "+1 en Défense. -2 à tous les jets d'attaque"
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Posture du guépard",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Posture du guépard"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Posture"
+      },
+      {
+        "type": "text",
+        "content": "Permet de bénéficier d'un déplacement accru d'une case."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Ambidextrie",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Ambidextrie"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Permet d'ignorer le maluse à la main non-directrive, dans le cas d'une attaque à plusiuers armes."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Relance d'initiative",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Relance d'initiative"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Permet de relancer son initiative 1 fois par jour."
+      },
+      {
+        "type": "field",
+        "header": "Relance",
+        "content": "1x/j"
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Réaction accrue",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Réaction accrue"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Réduit de 1 le coût d'une `Réaction`. Une réaction ne peut pas un coût inférieur à 1."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Méta-action",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Méta-action"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Permet d'appliquer des effets supplémentaires sur ses actions."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Intuition",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Intuition"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Donne un bonus d'esquive de +1."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Prémonition mineure",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Prémonition mineure"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Donne +1d6 à l'initiative. Les dés d'initiative ne peuvent pas excéder 5d6."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  }
+]
