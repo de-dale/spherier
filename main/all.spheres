@@ -1,5 +1,331 @@
 [
   {
+    "name": "Aide",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Aide"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": "TODO: Permet d'aider un allié"
+      },
+      {
+        "type": "field",
+        "header": "(Tests d'équipe)",
+        "content": "SR5 p."
+      }
+    ]
+  },
+  {
+    "name": "Coup puissant",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Coup puissant"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Gratuite"
+      },
+      {
+        "type": "field",
+        "header": "Coût",
+        "content": "Drain//Maîtrise d'arme (2)"
+      },
+      {
+        "type": "text",
+        "content": "TODO: Au court d'une attaque, le personnage peut d"
+      },
+      {
+        "type": "field",
+        "header": "(Tests d'équipe)",
+        "content": "SR5 p."
+      }
+    ]
+  },
+  {
+    "name": "Renversement",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Renversement"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "(Renversement)",
+        "content": "D&D"
+      }
+    ]
+  },
+  {
+    "name": "Choc",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Choc"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Complexe (2)"
+      },
+      {
+        "type": "text",
+        "content": "Comme lke renversement, mais affecte toutes les cases adjascentes au personnage"
+      },
+      {
+        "type": "field",
+        "header": "(Renversement)",
+        "content": "D&D"
+      }
+    ]
+  },
+  {
+    "name": "Attaques multiples",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Attaques multiples"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Attaque"
+      },
+      {
+        "type": "text",
+        "content": "Au court d'une attaque, le personnage peut choisir de porter un coup avec sa main directrive, et un second coup avec sa main non-directrice. Il répartit les dés lancés entre ses deux mains. Sa main non-directrice subit également un malus de 2 sur ce lancer."
+      },
+      {
+        "type": "field",
+        "header": "(Renversement)",
+        "content": "D&D"
+      }
+    ]
+  },
+  {
+    "name": "Ajuster",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Ajuster"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5"
+      }
+    ]
+  },
+  {
+    "name": "Feu nourri",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Feu nourri"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Attaque"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5"
+      }
+    ]
+  },
+  {
+    "name": "Prendre le lead",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Prendre le lead"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": "La cible accepte le personnage comme leader pour un tour de combat par succès excédentaire."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Leadership (p.144)"
+      }
+    ]
+  },
+  {
+    "name": "Inspirer",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Inspirer"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": "Les succès agissent comme un test d'équipe pour un subordonné."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Leadership (p.144)"
+      }
+    ]
+  },
+  {
+    "name": "Rallier",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Rallier"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": "Tous les subordonnés ajoutent 1 à leur score d'initiative pour chaque 2 succès."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Leadership (p.144)"
+      }
+    ]
+  },
+  {
+    "name": "Effrayer",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Effrayer"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": "Les succès agissent comme un malus contre un adversaire."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "??? Leadership (p.144)"
+      }
+    ]
+  },
+  {
+    "name": "Attaque mentale",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Attaque mentale"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Complexe (2)"
+      },
+      {
+        "type": "text",
+        "content": "Voir attaque"
+      },
+      {
+        "type": "field",
+        "header": "TODO",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "name": "Se déplacer",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Se déplacer"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Gratuite"
+      },
+      {
+        "type": "text",
+        "content": "Un personnage peut `marcher` autant de cases que le montant de sa `vitesse` sur un tour de combat"
+      },
+      {
+        "type": "text",
+        "content": "Un personnage peut `courir` deux fois sa `vitesse` sur un tour de combat. Il subit alors les modificateurs suivants jusqu'au terme du combat."
+      },
+      {
+        "type": "field",
+        "header": "Course",
+        "content": "+2 en Défense. -2 à tous les autres jets"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5 - Déplacement (p.58)"
+      }
+    ]
+  },
+  {
     "name": "Starter Agilité",
     "content": [
       {
