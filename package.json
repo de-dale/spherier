@@ -1,0 +1,26 @@
+{
+  "name": "skills-sphere",
+  "version": "1.0.0",
+  "description": "Règles du sppérier et repository des spheres",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node ./scripts/generate-all.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/de-dale/skills-sphere.git"
+  },
+  "keywords": [
+    "skill-sphere"
+  ],
+  "author": "fhiegel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/de-dale/skills-sphere/issues"
+  },
+  "homepage": "https://github.com/de-dale/skills-sphere#readme",
+  "dependencies": {
+    "find": "^0.2.9"
+  }
+}

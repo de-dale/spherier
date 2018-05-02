@@ -1,5 +1,845 @@
 [
   {
+    "name": "Excédent de dégâts",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Excédent de dégâts"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Lors d'une attaque, les succès excédentaires sont rajoutés aus dégâts."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "name": "Position du tigre",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Posture du tigre"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Posture"
+      },
+      {
+        "type": "text",
+        "content": "TODO: Posture de puissance"
+      },
+      {
+        "type": "field",
+        "header": "(Tests d'équipe)",
+        "content": "SR5 p."
+      }
+    ]
+  },
+  {
+    "name": "Surnombre",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Surnombre"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Permet de bénéficier d'un +1 à l'attaque, par allié adjacent à la cible de l'ataque."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Posture de la mante",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Posture de la mante"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Posture"
+      },
+      {
+        "type": "text",
+        "content": "Permet de bénéficier d'un bonus d'esquive pour un malus à l'attaque."
+      },
+      {
+        "type": "field",
+        "header": "Modificateurs",
+        "content": "+1 en Défense. -2 à tous les jets d'attaque"
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Posture du guépard",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Posture du guépard"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Posture"
+      },
+      {
+        "type": "text",
+        "content": "Permet de bénéficier d'un déplacement accru d'une case."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Ambidextrie",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Ambidextrie"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Permet d'ignorer le maluse à la main non-directrive, dans le cas d'une attaque à plusiuers armes."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Relance d'initiative",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Relance d'initiative"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Permet de relancer son initiative 1 fois par jour."
+      },
+      {
+        "type": "field",
+        "header": "Relance",
+        "content": "1x/j"
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Réaction accrue",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Réaction accrue"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Réduit de 1 le coût d'une `Réaction`. Une réaction ne peut pas un coût inférieur à 1."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Méta-action",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Méta-action"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Permet d'appliquer des effets supplémentaires sur ses actions."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Intuition",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Intuition"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Donne un bonus d'esquive de +1."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Prémonition mineure",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Prémonition mineure"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Donne +1d6 à l'initiative. Les dés d'initiative ne peuvent pas excéder 5d6."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Aide",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Aide"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": "TODO: Permet d'aider un allié"
+      },
+      {
+        "type": "field",
+        "header": "(Tests d'équipe)",
+        "content": "SR5 p."
+      }
+    ]
+  },
+  {
+    "name": "Coup puissant",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Coup puissant"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Gratuite"
+      },
+      {
+        "type": "field",
+        "header": "Coût",
+        "content": "Drain//Maîtrise d'arme (2)"
+      },
+      {
+        "type": "text",
+        "content": "TODO: Au court d'une attaque, le personnage peut d"
+      },
+      {
+        "type": "field",
+        "header": "(Tests d'équipe)",
+        "content": "SR5 p."
+      }
+    ]
+  },
+  {
+    "name": "Renversement",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Renversement"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "(Renversement)",
+        "content": "D&D"
+      }
+    ]
+  },
+  {
+    "name": "Choc",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Choc"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Complexe (2)"
+      },
+      {
+        "type": "text",
+        "content": "Comme lke renversement, mais affecte toutes les cases adjascentes au personnage"
+      },
+      {
+        "type": "field",
+        "header": "(Renversement)",
+        "content": "D&D"
+      }
+    ]
+  },
+  {
+    "name": "Attaques multiples",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Attaques multiples"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Attaque"
+      },
+      {
+        "type": "text",
+        "content": "Au court d'une attaque, le personnage peut choisir de porter un coup avec sa main directrive, et un second coup avec sa main non-directrice. Il répartit les dés lancés entre ses deux mains. Sa main non-directrice subit également un malus de 2 sur ce lancer."
+      },
+      {
+        "type": "field",
+        "header": "(Renversement)",
+        "content": "D&D"
+      }
+    ]
+  },
+  {
+    "name": "Ajuster",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Ajuster"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5"
+      }
+    ]
+  },
+  {
+    "name": "Feu nourri",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Feu nourri"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Attaque"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5"
+      }
+    ]
+  },
+  {
+    "name": "Prendre le lead",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Prendre le lead"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": "La cible accepte le personnage comme leader pour un tour de combat par succès excédentaire."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Leadership (p.144)"
+      }
+    ]
+  },
+  {
+    "name": "Inspirer",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Inspirer"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": "Les succès agissent comme un test d'équipe pour un subordonné."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Leadership (p.144)"
+      }
+    ]
+  },
+  {
+    "name": "Rallier",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Rallier"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": "Tous les subordonnés ajoutent 1 à leur score d'initiative pour chaque 2 succès."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Leadership (p.144)"
+      }
+    ]
+  },
+  {
+    "name": "Effrayer",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Effrayer"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": "Les succès agissent comme un malus contre un adversaire."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "??? Leadership (p.144)"
+      }
+    ]
+  },
+  {
+    "name": "Attaque mentale",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Attaque mentale"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Complexe (2)"
+      },
+      {
+        "type": "text",
+        "content": "Voir attaque"
+      },
+      {
+        "type": "field",
+        "header": "TODO",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "name": "Se déplacer",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Se déplacer"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Gratuite"
+      },
+      {
+        "type": "text",
+        "content": "Un personnage peut `marcher` autant de cases que le montant de sa `vitesse` sur un tour de combat"
+      },
+      {
+        "type": "text",
+        "content": "Un personnage peut `courir` deux fois sa `vitesse` sur un tour de combat. Il subit alors les modificateurs suivants jusqu'au terme du combat."
+      },
+      {
+        "type": "field",
+        "header": "Course",
+        "content": "+2 en Défense. -2 à tous les autres jets"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5 - Déplacement (p.58)"
+      }
+    ]
+  },
+  {
+    "name": "Starter Agilité",
+    "content": [
+      {
+        "type": "title",
+        "content": "Agilité mineure"
+      },
+      {
+        "type": "field",
+        "header": "Type",
+        "content": "Constellation"
+      },
+      {
+        "type": "text",
+        "content": "Carte de base, gratuite, pour démarrer le sphérier dans la constellation \"Agilité\""
+      },
+      {
+        "type": "field",
+        "header": "Node first",
+        "content": "Reaction: Esquive"
+      },
+      {
+        "type": "field",
+        "header": "Node",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node gem",
+        "content": "Gemme(Agilité)"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Accélération (*)"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Ambidextrie (I, -10, réduction de -2/Ambidextrie) (*)"
+      },
+      {
+        "type": "field",
+        "header": "Node",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Action: Piocher carte de cachette"
+      }
+    ]
+  },
+  {
+    "name": "Compétences Agilité",
+    "content": [
+      {
+        "type": "title",
+        "content": "Compétences mineures (Agilité)"
+      },
+      {
+        "type": "field",
+        "header": "Type",
+        "content": "Liste de compétences"
+      },
+      {
+        "type": "text",
+        "content": "Ensemble des compétences que l'on peut choisir sur une carte ayant un coups en Agilité."
+      },
+      {
+        "type": "field",
+        "header": "Node ability",
+        "content": "Furtivité"
+      },
+      {
+        "type": "field",
+        "header": "Node ability",
+        "content": "Acrobatie"
+      },
+      {
+        "type": "field",
+        "header": "Node ability",
+        "content": "Maniement d'une famille d'armes"
+      }
+    ]
+  },
+  {
+    "name": "Déplacement",
+    "content": [
+      {
+        "type": "title",
+        "content": "Déplacement"
+      },
+      {
+        "type": "field",
+        "header": "Type",
+        "content": "Constellation"
+      },
+      {
+        "type": "text",
+        "content": "Augmentations des capacités de déplacement d'un personnage"
+      },
+      {
+        "type": "field",
+        "header": "Node feat first",
+        "content": "Sprint (*)"
+      },
+      {
+        "type": "field",
+        "header": "Node",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node gem",
+        "content": "Gemme(Agilité)"
+      },
+      {
+        "type": "field",
+        "header": "Node gem",
+        "content": "Gemme(Agilité)"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Pas léger +1case"
+      },
+      {
+        "type": "field",
+        "header": "Node posture",
+        "content": "Serpenter (Déplacement 1case + Attaque à -5)"
+      }
+    ]
+  },
+  {
+    "name": "Camouflé",
+    "content": [
+      {
+        "type": "title",
+        "content": "Camouflé"
+      },
+      {
+        "type": "field",
+        "header": "Type",
+        "content": "Constellation"
+      },
+      {
+        "type": "text",
+        "content": "Développe des actions/compétences spéciales lors d'une partie de cahce-cache "
+      },
+      {
+        "type": "field",
+        "header": "Node feat first",
+        "content": "Diversion (*)"
+      },
+      {
+        "type": "field",
+        "header": "Node ",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node gem",
+        "content": "Gemme(Agilité)"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Souplesse serpent (*)"
+      },
+      {
+        "type": "field",
+        "header": "Node posture",
+        "content": "Camouflé (ombre, 5%)"
+      },
+      {
+        "type": "field",
+        "header": "Node ",
+        "content": "+3 Compétences"
+      }
+    ]
+  },
+  {
+    "name": "Attaques multiples",
+    "content": [
+      {
+        "type": "title",
+        "content": "Attaques multiples"
+      },
+      {
+        "type": "field",
+        "header": "Type",
+        "content": "Constellation"
+      },
+      {
+        "type": "text",
+        "content": "Développe des actions/compétences permettant d'attquer davantage, sur une passe d'initiative."
+      },
+      {
+        "type": "field",
+        "header": "Node feat first",
+        "content": "Ambidextrie (I, -10, réduction de -2/Ambidextrie)(*)"
+      },
+      {
+        "type": "field",
+        "header": "Node ",
+        "content": "+3 Compétences"
+      },
+      {
+        "type": "field",
+        "header": "Node gem",
+        "content": "Gemme(Agilité)"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Réaction: Attaque double lors d'une opportunité"
+      },
+      {
+        "type": "field",
+        "header": "Node feat",
+        "content": "Milles entailles (*)"
+      },
+      {
+        "type": "field",
+        "header": "Node posture",
+        "content": "Camouflé (ombre, 5%)"
+      }
+    ]
+  },
+  {
     "name": "Starter Carrure",
     "content": [
       {
@@ -251,246 +1091,6 @@
         "type": "field",
         "header": "Node",
         "content": "+1 Réaction / tour contre un adversaire renversé"
-      }
-    ]
-  },
-  {
-    "name": "Starter Agilité",
-    "content": [
-      {
-        "type": "title",
-        "content": "Agilité mineure"
-      },
-      {
-        "type": "field",
-        "header": "Type",
-        "content": "Constellation"
-      },
-      {
-        "type": "text",
-        "content": "Carte de base, gratuite, pour démarrer le sphérier dans la constellation \"Agilité\""
-      },
-      {
-        "type": "field",
-        "header": "Node first",
-        "content": "Reaction: Esquive"
-      },
-      {
-        "type": "field",
-        "header": "Node",
-        "content": "+3 Compétences"
-      },
-      {
-        "type": "field",
-        "header": "Node",
-        "content": "+3 Compétences"
-      },
-      {
-        "type": "field",
-        "header": "Node",
-        "content": "+3 Compétences"
-      },
-      {
-        "type": "field",
-        "header": "Node gem",
-        "content": "Gemme(Agilité)"
-      },
-      {
-        "type": "field",
-        "header": "Node feat",
-        "content": "Accélération (*)"
-      },
-      {
-        "type": "field",
-        "header": "Node feat",
-        "content": "Ambidextrie (I, -10, réduction de -2/Ambidextrie) (*)"
-      },
-      {
-        "type": "field",
-        "header": "Node",
-        "content": "+3 Compétences"
-      },
-      {
-        "type": "field",
-        "header": "Node feat",
-        "content": "Action: Piocher carte de cachette"
-      }
-    ]
-  },
-  {
-    "name": "Compétences Agilité",
-    "content": [
-      {
-        "type": "title",
-        "content": "Compétences mineures (Agilité)"
-      },
-      {
-        "type": "field",
-        "header": "Type",
-        "content": "Liste de compétences"
-      },
-      {
-        "type": "text",
-        "content": "Ensemble des compétences que l'on peut choisir sur une carte ayant un coups en Agilité."
-      },
-      {
-        "type": "field",
-        "header": "Node ability",
-        "content": "Furtivité"
-      },
-      {
-        "type": "field",
-        "header": "Node ability",
-        "content": "Acrobatie"
-      },
-      {
-        "type": "field",
-        "header": "Node ability",
-        "content": "Maniement d'une famille d'armes"
-      }
-    ]
-  },
-  {
-    "name": "Déplacement",
-    "content": [
-      {
-        "type": "title",
-        "content": "Déplacement"
-      },
-      {
-        "type": "field",
-        "header": "Type",
-        "content": "Constellation"
-      },
-      {
-        "type": "text",
-        "content": "Augmentations des capacités de déplacement d'un personnage"
-      },
-      {
-        "type": "field",
-        "header": "Node feat first",
-        "content": "Sprint (*)"
-      },
-      {
-        "type": "field",
-        "header": "Node",
-        "content": "+3 Compétences"
-      },
-      {
-        "type": "field",
-        "header": "Node gem",
-        "content": "Gemme(Agilité)"
-      },
-      {
-        "type": "field",
-        "header": "Node gem",
-        "content": "Gemme(Agilité)"
-      },
-      {
-        "type": "field",
-        "header": "Node feat",
-        "content": "Pas léger +1case"
-      },
-      {
-        "type": "field",
-        "header": "Node posture",
-        "content": "Serpenter (Déplacement 1case + Attaque à -5)"
-      }
-    ]
-  },
-  {
-    "name": "Camouflé",
-    "content": [
-      {
-        "type": "title",
-        "content": "Camouflé"
-      },
-      {
-        "type": "field",
-        "header": "Type",
-        "content": "Constellation"
-      },
-      {
-        "type": "text",
-        "content": "Développe des actions/compétences spéciales lors d'une partie de cahce-cache "
-      },
-      {
-        "type": "field",
-        "header": "Node feat first",
-        "content": "Diversion (*)"
-      },
-      {
-        "type": "field",
-        "header": "Node ",
-        "content": "+3 Compétences"
-      },
-      {
-        "type": "field",
-        "header": "Node gem",
-        "content": "Gemme(Agilité)"
-      },
-      {
-        "type": "field",
-        "header": "Node feat",
-        "content": "Souplesse serpent (*)"
-      },
-      {
-        "type": "field",
-        "header": "Node posture",
-        "content": "Camouflé (ombre, 5%)"
-      },
-      {
-        "type": "field",
-        "header": "Node ",
-        "content": "+3 Compétences"
-      }
-    ]
-  },
-  {
-    "name": "Attaques multiples",
-    "content": [
-      {
-        "type": "title",
-        "content": "Attaques multiples"
-      },
-      {
-        "type": "field",
-        "header": "Type",
-        "content": "Constellation"
-      },
-      {
-        "type": "text",
-        "content": "Développe des actions/compétences permettant d'attquer davantage, sur une passe d'initiative."
-      },
-      {
-        "type": "field",
-        "header": "Node feat first",
-        "content": "Ambidextrie (I, -10, réduction de -2/Ambidextrie)(*)"
-      },
-      {
-        "type": "field",
-        "header": "Node ",
-        "content": "+3 Compétences"
-      },
-      {
-        "type": "field",
-        "header": "Node gem",
-        "content": "Gemme(Agilité)"
-      },
-      {
-        "type": "field",
-        "header": "Node feat",
-        "content": "Réaction: Attaque double lors d'une opportunité"
-      },
-      {
-        "type": "field",
-        "header": "Node feat",
-        "content": "Milles entailles (*)"
-      },
-      {
-        "type": "field",
-        "header": "Node posture",
-        "content": "Camouflé (ombre, 5%)"
       }
     ]
   }
