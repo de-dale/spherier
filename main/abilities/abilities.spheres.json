@@ -1,5 +1,57 @@
 [
   {
+    "name": "_Introduction : Aptitudes",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Introduction aux aptitudes"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Lors d'une attaque, les succès excédentaires sont rajoutés aus dégâts."
+      },
+      {
+        "type": "text",
+        "content": "\"Aptitude\" comme terme pour représenter : une carte donnant accès à une Action (\"capacité active\") ou un Passif (\"capacité passive\") (e n'utiliserai pas me terme \"capacité\" sur les cartes) "
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "name": "Ambidextrie",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Ambidextrie"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Permet d'ignorer le maluse à la main non-directrive, dans le cas d'une attaque à plusiuers armes."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
     "name": "Excédent de dégâts",
     "theme": "ability",
     "content": [
@@ -24,6 +76,54 @@
     ]
   },
   {
+    "name": "Intuition",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Intuition"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Donne un bonus d'esquive de +1."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Méta-action",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Méta-action"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Permet d'appliquer des effets supplémentaires sur ses actions."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
     "name": "Position du tigre",
     "theme": "ability",
     "content": [
@@ -44,30 +144,6 @@
         "type": "field",
         "header": "(Tests d'équipe)",
         "content": "SR5 p."
-      }
-    ]
-  },
-  {
-    "name": "Surnombre",
-    "theme": "ability",
-    "content": [
-      {
-        "type": "title",
-        "content": "Surnombre"
-      },
-      {
-        "type": "field",
-        "header": "Capacité",
-        "content": "Passive"
-      },
-      {
-        "type": "text",
-        "content": "Permet de bénéficier d'un +1 à l'attaque, par allié adjacent à la cible de l'ataque."
-      },
-      {
-        "type": "field",
-        "header": "SR5",
-        "content": "p.188 Attaque à plusieurs"
       }
     ]
   },
@@ -125,12 +201,12 @@
     ]
   },
   {
-    "name": "Ambidextrie",
+    "name": "Prémonition mineure",
     "theme": "ability",
     "content": [
       {
         "type": "title",
-        "content": "Ambidextrie"
+        "content": "Prémonition mineure"
       },
       {
         "type": "field",
@@ -139,7 +215,31 @@
       },
       {
         "type": "text",
-        "content": "Permet d'ignorer le maluse à la main non-directrive, dans le cas d'une attaque à plusiuers armes."
+        "content": "Donne +1d6 à l'initiative. Les dés d'initiative ne peuvent pas excéder 5d6."
+      },
+      {
+        "type": "field",
+        "header": "SR5",
+        "content": "p.188 Attaque à plusieurs"
+      }
+    ]
+  },
+  {
+    "name": "Réaction accrue",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Réaction accrue"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Réduit de 1 le coût d'une `Réaction`. Une réaction ne peut pas un coût inférieur à 1."
       },
       {
         "type": "field",
@@ -178,12 +278,12 @@
     ]
   },
   {
-    "name": "Réaction accrue",
+    "name": "Surnombre",
     "theme": "ability",
     "content": [
       {
         "type": "title",
-        "content": "Réaction accrue"
+        "content": "Surnombre"
       },
       {
         "type": "field",
@@ -192,79 +292,7 @@
       },
       {
         "type": "text",
-        "content": "Réduit de 1 le coût d'une `Réaction`. Une réaction ne peut pas un coût inférieur à 1."
-      },
-      {
-        "type": "field",
-        "header": "SR5",
-        "content": "p.188 Attaque à plusieurs"
-      }
-    ]
-  },
-  {
-    "name": "Méta-action",
-    "theme": "ability",
-    "content": [
-      {
-        "type": "title",
-        "content": "Méta-action"
-      },
-      {
-        "type": "field",
-        "header": "Capacité",
-        "content": "Passive"
-      },
-      {
-        "type": "text",
-        "content": "Permet d'appliquer des effets supplémentaires sur ses actions."
-      },
-      {
-        "type": "field",
-        "header": "SR5",
-        "content": "p.188 Attaque à plusieurs"
-      }
-    ]
-  },
-  {
-    "name": "Intuition",
-    "theme": "ability",
-    "content": [
-      {
-        "type": "title",
-        "content": "Intuition"
-      },
-      {
-        "type": "field",
-        "header": "Capacité",
-        "content": "Passive"
-      },
-      {
-        "type": "text",
-        "content": "Donne un bonus d'esquive de +1."
-      },
-      {
-        "type": "field",
-        "header": "SR5",
-        "content": "p.188 Attaque à plusieurs"
-      }
-    ]
-  },
-  {
-    "name": "Prémonition mineure",
-    "theme": "ability",
-    "content": [
-      {
-        "type": "title",
-        "content": "Prémonition mineure"
-      },
-      {
-        "type": "field",
-        "header": "Capacité",
-        "content": "Passive"
-      },
-      {
-        "type": "text",
-        "content": "Donne +1d6 à l'initiative. Les dés d'initiative ne peuvent pas excéder 5d6."
+        "content": "Permet de bénéficier d'un +1 à l'attaque, par allié adjacent à la cible de l'ataque."
       },
       {
         "type": "field",

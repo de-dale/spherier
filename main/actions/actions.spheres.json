@@ -1,5 +1,19 @@
 [
   {
+    "name": "_Introduction : Actions",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Introduction : Actions"
+      },
+      {
+        "type": "text",
+        "content": "Décrit les actions du jeu."
+      }
+    ]
+  },
+  {
     "name": "Aide",
     "theme": "action",
     "content": [
