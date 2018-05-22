@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Monstre : Flâner",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "La monstre flâne"
+      },
+      {
+        "type": "text",
+        "content": "Le monstre flâne de manière tout à fait aléatoire. Il ne semble pas alerté par votre présence."
+      }
+    ]
+  },
+  {
+    "name": "Monstre : Chercher",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Le monstre cherche"
+      },
+      {
+        "type": "text",
+        "content": "Le monstre vous recherche de manière active. Il est concentré dans son action et ne semble pas prêter attention aux bruits qui l'entoure."
+      }
+    ]
+  },
+  {
+    "name": "Monstre : Ecouter",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Le monstre écoute"
+      },
+      {
+        "type": "text",
+        "content": "Le monstre écoute son environnement avec attention. Il ne semble pas vous avior repérés."
+      }
+    ]
+  },
+  {
+    "name": "Monstre : Aller vers",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Le monstre se dirige vers vous"
+      },
+      {
+        "type": "text",
+        "content": "Il vous a repéré ! Il se dirige vers vous à grande foulées ! Dépêchez vous de vous cacher !"
+      }
+    ]
+  },
+  {
+    "name": "Personnage : Changer une cachette",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Changer de cachette"
+      },
+      {
+        "type": "text",
+        "content": "Vous vous déplacez le plus discrètement possible, pour vous trouver une autre cachette. Espérons que le monstre ne vous entende pas..."
+      }
+    ]
+  },
+  {
+    "name": "Personnage : Rester à la même place",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Rester à la même cachette"
+      },
+      {
+        "type": "text",
+        "content": "Vous vous terrez à la même cachette, en espérant que le monstre s'en aille. Espérons qu'il ne vous a pas repéré, ni qu'il vous cherche ici..."
+      }
+    ]
+  },
+  {
+    "name": "Personnage : Faire du bruit",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Faire du bruit"
+      },
+      {
+        "type": "text",
+        "content": "Mais vous êtes fous !? Faire du bruit va attirer le monstre dans votre direction !"
+      }
+    ]
+  },
+  {
+    "name": "Personnage : Avancer vers l'objectif",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Avancer vers l'objectif"
+      },
+      {
+        "type": "text",
+        "content": "Vous vous déplacer le plus discrètement possible vers votre objectif. Espérons que le monstre est trop occupé pour vous entendre..."
+      }
+    ]
+  },
+  {
+    "name": "Personnage : Fuir",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Fuir"
+      },
+      {
+        "type": "text",
+        "content": "Vous fuyez le monstre le plus vite et le plus loin possible. Il ne s'attend sûrement pas à ça..."
+      }
+    ]
+  },
+  {
+    "name": "Personnage : Discuter & chuchoter",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Discuter (chuchoter)"
+      },
+      {
+        "type": "text",
+        "content": "Vous échangez avec vos coéquipiers, en chuchotant le plus possible. Espérons que le monstre est trop occupé pour vous entendre..."
+      },
+      {
+        "type": "field",
+        "header": "Difficulté",
+        "content": "Forte"
+      }
+    ]
+  }
+]
