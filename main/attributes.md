@@ -28,6 +28,7 @@ Agilité : _Souplesse naturelle_ Reaction "esquive"
 Traduit la vitesse de d'action et de reaction du pj. 
 
 Réactivité : _Reaction du vivant_ +2 actions, +1 réaction
+Aptitude à consommer 5 points d'initiative pour avoir une Réaction.
 
 > Réactivité : Beaucoup de contres, de réactions, mais aussi d'actions/tour
 
