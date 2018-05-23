@@ -1,11 +1,11 @@
 [
   {
-    "name": "Monstre : Flâner",
+    "name": "Monstre : Flâne",
     "theme": "action",
     "content": [
       {
         "type": "title",
-        "content": "La monstre flâne"
+        "content": "Flâne et erre"
       },
       {
         "type": "field",
@@ -19,12 +19,12 @@
     ]
   },
   {
-    "name": "Monstre : Chercher",
+    "name": "Monstre : Cherche",
     "theme": "action",
     "content": [
       {
         "type": "title",
-        "content": "Le monstre cherche"
+        "content": "Cherche frénétiquement"
       },
       {
         "type": "field",
@@ -38,12 +38,12 @@
     ]
   },
   {
-    "name": "Monstre : Ecouter",
+    "name": "Monstre : Écoute",
     "theme": "action",
     "content": [
       {
         "type": "title",
-        "content": "Le monstre écoute"
+        "content": "Écoute attentivement"
       },
       {
         "type": "field",
@@ -52,7 +52,7 @@
       },
       {
         "type": "text",
-        "content": "Le monstre écoute son environnement avec attention. Il ne semble pas vous avior repérés."
+        "content": "Le monstre écoute son environnement avec attention. Il ne semble pas vous avoir repérés."
       }
     ]
   },
@@ -62,7 +62,7 @@
     "content": [
       {
         "type": "title",
-        "content": "Le monstre se dirige vers vous"
+        "content": "Fonce sur vous !"
       },
       {
         "type": "field",
@@ -76,7 +76,7 @@
     ]
   },
   {
-    "name": "Personnage : Changer une cachette",
+    "name": "Personnage : Changer de cachette",
     "theme": "green-light",
     "content": [
       {
@@ -86,6 +86,16 @@
       {
         "type": "text",
         "content": "Vous vous déplacez le plus discrètement possible, pour vous trouver une autre cachette. Espérons que le monstre ne vous entende pas..."
+      },
+      {
+        "type": "field",
+        "header": "Déplacement",
+        "content": "[1]"
+      },
+      {
+        "type": "field",
+        "header": "Direction",
+        "content": "Au choix"
       }
     ]
   },
@@ -95,11 +105,21 @@
     "content": [
       {
         "type": "title",
-        "content": "Rester à la même cachette"
+        "content": "Se terrer"
       },
       {
         "type": "text",
-        "content": "Vous vous terrez à la même cachette, en espérant que le monstre s'en aille. Espérons qu'il ne vous a pas repéré, ni qu'il vous cherche ici..."
+        "content": "Vous vous terrez à la même cachette, en espérant que le monstre s'en aille. Espérons qu'il ne vous a pas repéré, et qu'il ne vous cherche pas ici..."
+      },
+      {
+        "type": "field",
+        "header": "Déplacement",
+        "content": "[0]"
+      },
+      {
+        "type": "field",
+        "header": "Direction",
+        "content": "n/a"
       }
     ]
   },
@@ -114,6 +134,16 @@
       {
         "type": "text",
         "content": "Mais vous êtes fous !? Faire du bruit va attirer le monstre dans votre direction !"
+      },
+      {
+        "type": "field",
+        "header": "Déplacement",
+        "content": "[0]"
+      },
+      {
+        "type": "field",
+        "header": "Direction",
+        "content": "n/a"
       }
     ]
   },
@@ -127,7 +157,17 @@
       },
       {
         "type": "text",
-        "content": "Vous vous déplacer le plus discrètement possible vers votre objectif. Espérons que le monstre est trop occupé pour vous entendre..."
+        "content": "Vous vous déplacez le plus discrètement possible vers votre objectif. Espérons que le monstre est trop occupé pour vous entendre..."
+      },
+      {
+        "type": "field",
+        "header": "Déplacement",
+        "content": "[2]"
+      },
+      {
+        "type": "field",
+        "header": "Direction",
+        "content": "Au choix"
       }
     ]
   },
@@ -142,6 +182,16 @@
       {
         "type": "text",
         "content": "Vous fuyez le monstre le plus vite et le plus loin possible. Il ne s'attend sûrement pas à ça..."
+      },
+      {
+        "type": "field",
+        "header": "Déplacement",
+        "content": "[3]"
+      },
+      {
+        "type": "field",
+        "header": "Direction",
+        "content": "Opposée à l'objectif"
       }
     ]
   },
