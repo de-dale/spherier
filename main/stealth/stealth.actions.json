@@ -8,6 +8,11 @@
         "content": "La monstre flâne"
       },
       {
+        "type": "field",
+        "header": "",
+        "content": "Monstre"
+      },
+      {
         "type": "text",
         "content": "Le monstre flâne de manière tout à fait aléatoire. Il ne semble pas alerté par votre présence."
       }
@@ -20,6 +25,11 @@
       {
         "type": "title",
         "content": "Le monstre cherche"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Monstre"
       },
       {
         "type": "text",
@@ -36,6 +46,11 @@
         "content": "Le monstre écoute"
       },
       {
+        "type": "field",
+        "header": "",
+        "content": "Monstre"
+      },
+      {
         "type": "text",
         "content": "Le monstre écoute son environnement avec attention. Il ne semble pas vous avior repérés."
       }
@@ -50,14 +65,19 @@
         "content": "Le monstre se dirige vers vous"
       },
       {
+        "type": "field",
+        "header": "",
+        "content": "Monstre"
+      },
+      {
         "type": "text",
-        "content": "Il vous a repéré ! Il se dirige vers vous à grande foulées ! Dépêchez vous de vous cacher !"
+        "content": "Il vous a repéré ! Il se dirige droit sur vous à toute vitesse ! Dépêchez vous de vous cacher !"
       }
     ]
   },
   {
     "name": "Personnage : Changer une cachette",
-    "theme": "action",
+    "theme": "green-light",
     "content": [
       {
         "type": "title",
@@ -71,7 +91,7 @@
   },
   {
     "name": "Personnage : Rester à la même place",
-    "theme": "action",
+    "theme": "green-light",
     "content": [
       {
         "type": "title",
@@ -85,7 +105,7 @@
   },
   {
     "name": "Personnage : Faire du bruit",
-    "theme": "action",
+    "theme": "green-light",
     "content": [
       {
         "type": "title",
@@ -99,7 +119,7 @@
   },
   {
     "name": "Personnage : Avancer vers l'objectif",
-    "theme": "action",
+    "theme": "green-light",
     "content": [
       {
         "type": "title",
@@ -113,7 +133,7 @@
   },
   {
     "name": "Personnage : Fuir",
-    "theme": "action",
+    "theme": "green-light",
     "content": [
       {
         "type": "title",
@@ -127,7 +147,7 @@
   },
   {
     "name": "Personnage : Discuter & chuchoter",
-    "theme": "action",
+    "theme": "green-light",
     "content": [
       {
         "type": "title",
