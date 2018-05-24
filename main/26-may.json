@@ -1,0 +1,1507 @@
+[
+  {
+    "name": "Attaquer",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Attaquer en mêlée"
+      },
+      {
+        "type": "field",
+        "header": "Action (attaque)",
+        "content": "Complexe (2)"
+      },
+      {
+        "type": "field",
+        "header": "Portée",
+        "content": "Corps à corps"
+      },
+      {
+        "type": "text",
+        "content": "Une attaque au corps à corps se résoud par une test de [Compétence de combat]. En cas de succès, vous infligez les dégâts de votre arme."
+      }
+    ]
+  },
+  {
+    "name": "Aider",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Aider"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Complexe (2)"
+      },
+      {
+        "type": "text",
+        "content": "Il est possible d'aider un allié en effecture un test de [Compétence] pour l'action qu'il cherche à mener. L'allié ajoute un nombre de dés à son lancer, égal au nombre de succès obtenus."
+      }
+    ]
+  },  {
+    "name": "Ajuster",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Ajuster"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": "Chaque action ajuster octroie un modicateur de +1 dé à la réserve de dés lors du test d’attaque."
+      },
+      {
+        "type": "text",
+        "content": "Il est possible de cumuler plusieurs actions ajuster successives, mais les bénéfices sont perdus si le personnage effectue n’importe quelle autre action (actions gratuites incluses) avant d’attaquer."
+      },
+      {
+        "type": "text",
+        "content": " Les actions ajuster peuvent être étendues sur de multiples phases d’action et tours de combat."
+      }
+    ]
+  },
+  {
+    "name": "Faire feu (Coup par coup)",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Faire feu (Coup par coup)"
+      },
+      {
+        "type": "field",
+        "header": "Action (attaque)",
+        "content": "Simple"
+      },
+      {
+        "type": "field",
+        "header": "Portée",
+        "content": "Distance"
+      },
+      {
+        "type": "field",
+        "header": "Mode",
+        "content": "Coup par coup (1m)"
+      },
+      {
+        "type": "text",
+        "content": "Faire feu se résoud par un test de [Compétence de combat]. En cas de succès, vous infligez les dégâts de votre arme."
+      },
+      {
+        "type": "text",
+        "content": "Les armes coups par coup ne subissent pas le `Recul` mais empêchent de tirer une seconde fois dans la même phase d'actions."
+      }
+    ]
+  },
+  {
+    "name": "Faire feu (Semi-automatique)",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Faire feu (Semi-automatique)"
+      },
+      {
+        "type": "field",
+        "header": "Action (attaque)",
+        "content": "Simple"
+      },
+      {
+        "type": "field",
+        "header": "Portée",
+        "content": "Distance"
+      },
+      {
+        "type": "field",
+        "header": "Mode",
+        "content": "Semi-automatique (1m)"
+      },
+      {
+        "type": "text",
+        "content": "Faire feu se résoud par un test de [Compétence de combat]. En cas de succès, vous infligez les dégâts de votre arme."
+      },
+      {
+        "type": "text",
+        "content": "Après chaque attaque, on augmente le `Recul` du nombre de balles tirées."
+      }
+    ]
+  },
+  {
+    "name": "Tir en rafale",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Tir en rafale"
+      },
+      {
+        "type": "field",
+        "header": "Action (attaque)",
+        "content": "Simple (1)"
+      },
+      {
+        "type": "field",
+        "header": "Portée",
+        "content": "Distance"
+      },
+      {
+        "type": "field",
+        "header": "Mode",
+        "content": "Tir en rafale (3m)"
+      },
+      {
+        "type": "text",
+        "content": "Un tir en rafale permet de tirer trois balles sur une cible unique. Cela confère un bonus de 1d6 à l'attaque."
+      },
+      {
+        "type": "text",
+        "content": "Après chaque attaque, on augmente le `Recul` du nombre de balles tirées."
+      }
+    ]
+  },  {
+    "name": "Tir en rafale longue",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Tir en rafale longue "
+      },
+      {
+        "type": "field",
+        "header": "Action (attaque)",
+        "content": "Complexe (2)"
+      },
+      {
+        "type": "field",
+        "header": "Portée",
+        "content": "Distance"
+      },
+      {
+        "type": "field",
+        "header": "Mode",
+        "content": "Tir en rafale (6m)"
+      },
+      {
+        "type": "text",
+        "content": "Un tir en rafale longue permet de tirer six balles sur une cible unique, ce qui confère un bonus de 2d6 à l'attaque. "
+      },      {
+        "type": "text",
+        "content": "Si le personnage peut faire des attaques multiples, il est possible de tirer sur deux cibles côtes à côtes. Dans ce cas, pour chaque cible, le personnage bénéficie du bonus du `Tir en rafale`."
+      },
+      {
+        "type": "text",
+        "content": "Après chaque attaque, on augmente le `Recul` du nombre de balles tirées."
+      }
+    ]
+  },
+  {
+    "name": "Recharger",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Éjecter un chargeur"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple (1)"
+      },
+      {
+        "type": "text",
+        "content": "Un personnage peut retirer un chargeur d'une arme prête. Une seconde action simple est nécessaire pour prendre un chargeur plein et l'enficher dans l'arme."
+      },
+      {
+        "type": "title",
+        "content": "Insérer une chargeur"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple (1)"
+      },
+      {
+        "type": "text",
+        "content": "Un personnage peut insérer un chargeur dans une arme à feu prête en une action simple, uniquement après avoir éjecté l'ancien chargeur"
+      }
+    ]
+  },
+  {
+    "name": "Défense totale",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Défense totale"
+      },
+      {
+        "type": "field",
+        "header": "Réaction",
+        "content": "Complexe (2)"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Posture"
+      },
+      {
+        "type": "text",
+        "content": "A n'importe quel moment, le personnage a la possibilité d'utiliser deux réactions pour prendre la posture de `Défense totale`."
+      },
+      {
+        "type": "text",
+        "content": "La `Défense totale` permet de lancer [Compétence de combat] et d'utiliser les succès en bonus à la valeur d'esquive, contre toutes les attaques du tour."
+      }
+    ]
+  },
+  {
+    "name": "Inspirer",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Inspirer"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": "Le personnage effectue un test de [Leadership]. Les succès agissent comme un test d'équipe pour tous les subordonné."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5 (p.144)"
+      }
+    ]
+  },
+  {
+    "name": "Rallier",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Rallier"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": "Le personnage effectue un test de [Leadership]. Tous les subordonnés ajoutent 1 à leur score d'initiative pour chaque 2 succès."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5 (p.144)"
+      }
+    ]
+  },
+  {
+    "name": "Bloquer",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Bloquer"
+      },
+      {
+        "type": "field",
+        "header": "Réaction",
+        "content": "Simple (1)"
+      },
+      {
+        "type": "text",
+        "content": "Lorsque le personnage est la cible d'une attaque au corps à corps, il a la possibilité d'utiliser une réaction pour tenter de `Bloquer` l'attaque de son adversaire."
+      },
+      {
+        "type": "text",
+        "content": "`Bloquer` permet de lancer [Compétence de combat] et d'utiliser les succès comme valeur d'esquive contre l'attaque en cours."
+      }
+    ]
+  },
+  {
+    "name": "Esquiver",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Esquiver"
+      },
+      {
+        "type": "field",
+        "header": "Réaction",
+        "content": "Simple (1)"
+      },
+      {
+        "type": "text",
+        "content": "Lorsque le personnage est la cible d'une attaque, il a la possibilité d'utiliser une réaction pour tenter d'`Esquiver` l'attaque de son adversaire."
+      },
+      {
+        "type": "text",
+        "content": "`Esquiver` permet de lancer [Acrobatie] et d'utiliser les succès comme valeur d'esquive contre l'attaque en cours."
+      }
+    ]
+  },
+  {
+    "name": "Parer",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Parer"
+      },
+      {
+        "type": "field",
+        "header": "Réaction",
+        "content": "Simple (1)"
+      },
+      {
+        "type": "text",
+        "content": "Lorsque le personnage est la cible d'une attaque au corps à corps, il a la possibilité d'utiliser une réaction pour tenter de `Parer` l'attaque de son adversaire."
+      },
+      {
+        "type": "text",
+        "content": "`Parer` permet de lancer [Compétence de combat] et d'utiliser les succès comme valeur d'esquive contre l'attaque en cours."
+      }
+    ]
+  },
+  {
+    "name": "Intercepter",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Intercepter"
+      },
+      {
+        "type": "field",
+        "header": "Réaction",
+        "content": "Simple (1)"
+      },
+      {
+        "type": "field",
+        "header": "Portée",
+        "content": "Corps à corps"
+      },
+      {
+        "type": "text",
+        "content": "Lorsque un adversaire se déplace à proximité du personnage, ce dernier peut utiliser une réaction pour tenter de l'`Intercepter`."
+      },
+      {
+        "type": "text",
+        "content": "`Intercepter` permet au personnage, d'effectuer une attaque contre l'adversaire. En plus des dégats normaux, l'adversaire réduit son deplacement de 1 case par succès."
+      }
+    ]
+  },
+  {
+    "name": "Par défaut",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Par défaut"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Variable"
+      },
+      {
+        "type": "text",
+        "content": "Un personnage ne peut pas faire des actions pour laquelle il n'a pas de formation."
+      },
+      {
+        "type": "text",
+        "content": "Lorsqu'un personnage entreprend une actions facile, pour laquelle il n'a aucune formation ; alors, la résolution de l'action s'effectue par le lancer de `1d6`."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5"
+      }
+    ]
+  },
+  {
+    "name": "Se déplacer",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Se déplacer"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Gratuite"
+      },
+      {
+        "type": "text",
+        "content": "Un personnage peut `marcher` autant de cases que le montant de sa `vitesse` sur un tour de combat"
+      },
+      {
+        "type": "text",
+        "content": "Un personnage peut `courir` deux fois sa `vitesse` sur un tour de combat. Il subit alors les modificateurs suivants jusqu'au terme du combat."
+      },
+      {
+        "type": "field",
+        "header": "Course",
+        "content": "+2 en Défense. -2 à tous les autres jets"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5 (p.58)"
+      }
+    ]
+  },
+  {
+    "name": "Définition d'un personnage",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Personnage"
+      },
+      {
+        "type": "text",
+        "content": "Un personnage possède 1 Point de Santé"
+      },
+      {
+        "type": "text",
+        "content": "Un personnage possède 1 Point de Lucidité"
+      },
+      {
+        "type": "text",
+        "content": "Un personnage possède une Vitesse de déplacement de 6 cases."
+      },
+      {
+        "type": "text",
+        "content": "Un personnage peut utiliser les actions `Par défaut`, `Se déplacer`, `Attaquer`,"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Base"
+      }
+    ]
+  },
+  {
+    "name": "Carrure basique",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Carrure basique"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Le personnage gagne un bonus de 6 Points de Santé."
+      },
+      {
+        "type": "text",
+        "content": "Le personnage peut utiliser l'action `déplacer`"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Base"
+      }
+    ]
+  },
+  {
+    "name": "Compétences Carrure",
+    "content": [
+      {
+        "type": "title",
+        "content": "Compétences (Carrure)"
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "Athlétisme"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "Corps à corps"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "Manoeuvres"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "Posture"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Liste",
+        "content": "Carrure"
+      }
+    ]
+  },
+  {
+    "name": "Agilité basique",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Agilité basique"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Donne accès à l'action `Attaquer`"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Base"
+      }
+    ]
+  },
+  {
+    "name": "Compétences Agilité",
+    "content": [
+      {
+        "type": "title",
+        "content": "Compétences (Agilité)"
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "Armes"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "Acrobatie"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "Furtivité"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "Posture"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Liste",
+        "content": "Agiité"
+      }
+    ]
+  },
+  {
+    "name": "Réaction basique",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Réaction basique"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Permet de payer 5 points d'initiatives pour bénéficier d'une `Réaction`."
+      },
+      {
+        "type": "text",
+        "content": "Donne accès à l'action `Intercepter`"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Base"
+      }
+    ]
+  },
+  {
+    "name": "Compétences Réaction",
+    "content": [
+      {
+        "type": "title",
+        "content": "Compétences (Réaction)"
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "Pilotage"
+      },
+      {
+        "type": "text",
+        "content": "Confère un bonus de +3 en `Pilotage`."
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Liste",
+        "content": "Réaction"
+      }
+    ]
+  },
+  {
+    "name": "Intelligence basique",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Réaction basique"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Donne accès à l'action `Aider un allié`"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Base"
+      }
+    ]
+  },
+  {
+    "name": "Compétences Intelligence",
+    "content": [
+      {
+        "type": "title",
+        "content": "Compétences (Intelligence)"
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "Informatique"
+      },
+      {
+        "type": "text",
+        "content": "Confère un bonus de +3 en `Informatique`."
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Liste",
+        "content": "Intelligence"
+      }
+    ]
+  },
+  {
+    "name": "Perception basique",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Réaction basique"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Donne accès à l'action `Lancer l'initiative`"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Base"
+      }
+    ]
+  },
+  {
+    "name": "Compétences Perception",
+    "content": [
+      {
+        "type": "title",
+        "content": "Compétences (Perception)"
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Liste",
+        "content": "Perception"
+      }
+    ]
+  },
+  {
+    "name": "Charisme basique",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Charisme basique"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Le Personnage bénéficie d'un bonus de 6 Points de Lucidité"
+      },
+      {
+        "type": "text",
+        "content": "Donne accès à l'action ``"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Base"
+      }
+    ]
+  },
+  {
+    "name": "Compétences Charisme",
+    "content": [
+      {
+        "type": "title",
+        "content": "Compétences (Charisme)"
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "Leadership"
+      },
+      {
+        "type": "text",
+        "content": "Confère un bonus de +3 en `Leadership`."
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Compétence",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "Liste",
+        "content": "Réaction"
+      }
+    ]
+  },
+  {
+    "name": "Coup puissant",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Coup puissant"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Donne accès à l'action `Frapper plus fort`"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Carrure"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5"
+      }
+    ]
+  },
+  {
+    "name": "Excédent de dégâts",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Excédent de dégâts"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Lors d'une attaque, les succès excédentaires sont rajoutés aus dégâts."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Carrure"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5"
+      }
+    ]
+  },
+  {
+    "name": "Port des armures",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Port des armures"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Permet au personnage de bénéficier du bonus de l'armure qu'il porte. Le malus de l'armure s'applique toujours."
+      },
+      {
+        "type": "field",
+        "header": "Port des Armures (I)",
+        "content": "[ ]"
+      },
+      {
+        "type": "field",
+        "header": "Port des Armures (II)",
+        "content": "[ ]"
+      },
+      {
+        "type": "field",
+        "header": "Port des Armures (III)",
+        "content": "[ ]"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Carrure"
+      }
+    ]
+  },
+  {
+    "name": "Ambidextrie",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Ambidextrie"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Permet d'ignorer le malus à la main non-directrice, dans le cas d'une attaque à plusiuers armes."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Agilité"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5 (p.188)"
+      }
+    ]
+  },
+  {
+    "name": "Pas léger",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Pas léger"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Permet au personnage d'accroitre sa vitesse de déplacement d'une case."
+      },
+      {
+        "type": "field",
+        "header": "Pas léger (I)",
+        "content": "[ ]"
+      },
+      {
+        "type": "field",
+        "header": "Pas léger (II)",
+        "content": "[ ]"
+      },
+      {
+        "type": "field",
+        "header": "Pas léger (III)",
+        "content": "[ ]"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Agilité"
+      }
+    ]
+  },
+  {
+    "name": "Maîtrise du tir",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Maîtrise du tir"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Donne au personnage l'accès aux différents modes de tir autorisés par son arme."
+      },
+      {
+        "type": "field",
+        "header": "Coup par coup",
+        "content": "[ ]"
+      },
+      {
+        "type": "field",
+        "header": "Semi-automatique",
+        "content": "[ ]"
+      },
+      {
+        "type": "field",
+        "header": "Tir en rafale",
+        "content": "[ ]"
+      },
+      {
+        "type": "field",
+        "header": "Tir automatique",
+        "content": "[ ]"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Agilité"
+      }
+    ]
+  },
+  {
+    "name": "Réaction accrue",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Réaction accrue"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Réduit de 1 le coût d'une `Réaction`. Une réaction ne peut pas un coût inférieur à 1."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Réaction"
+      }
+    ]
+  },
+  {
+    "name": "Relance d'initiative",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Relance d'initiative"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Donne accès à l'action `Relancer son initiative`."
+      },
+      {
+        "type": "field",
+        "header": "Relance",
+        "content": "1x/j"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Réaction"
+      }
+    ]
+  },
+  {
+    "name": "Surnombre",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Surnombre"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Permet de bénéficier d'un +1 à l'attaque, par allié adjacent à la cible de l'ataque."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Intelligence"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5 (p.188)"
+      }
+    ]
+  },  {
+    "name": "Ajuster",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Ajuster"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Donne accès à l'action `Ajuster`. Le bonus octroyé par les actions `Ajuster` successives, est plafonné à 3."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Intelligence"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5 (p.188)"
+      }
+    ]
+  },
+  {
+    "name": "Intuition",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Intuition"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Donne un bonus d'esquive de +1."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Perception"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5"
+      }
+    ]
+  },
+  {
+    "name": "Prémonition mineure",
+    "theme": "ability",
+    "content": [
+      {
+        "type": "title",
+        "content": "Prémonition mineure"
+      },
+      {
+        "type": "field",
+        "header": "Capacité",
+        "content": "Passive"
+      },
+      {
+        "type": "text",
+        "content": "Donne +1d6 à l'initiative. Les dés d'initiative ne peuvent pas excéder 5d6."
+      },
+      {
+        "type": "field",
+        "header": "Prémonition mineure (I)",
+        "content": "[ ]"
+      },
+      {
+        "type": "field",
+        "header": "Prémonition mineure (II)",
+        "content": "[ ]"
+      },
+
+      {
+        "type": "field",
+        "header": "Prémonition mineure (III)",
+        "content": "[ ]"
+      },
+      {
+        "type": "field",
+        "header": "Prémonition mineure (IV)",
+        "content": "[ ]"
+      },
+
+      {
+        "type": "field",
+        "header": "",
+        "content": "Perception"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5"
+      }
+    ]
+  },
+  {
+    "name": "Placeholder",
+    "content": [
+      {
+        "type": "title",
+        "content": "____"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "____"
+      }
+    ]
+  },
+  {
+    "name": "Placeholder",
+    "content": [
+      {
+        "type": "title",
+        "content": "____"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "____"
+      }
+    ]
+  },
+  {
+    "name": "Placeholder",
+    "content": [
+      {
+        "type": "title",
+        "content": "____"
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "____"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "____"
+      }
+    ]
+  }
+]

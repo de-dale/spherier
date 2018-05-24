@@ -42,7 +42,7 @@
       },
       {
         "type": "text",
-        "content": "Permet d'ignorer le maluse à la main non-directrive, dans le cas d'une attaque à plusiuers armes."
+        "content": "Permet d'ignorer le malus à la main non-directrive, dans le cas d'une attaque à plusiuers armes."
       },
       {
         "type": "field",
@@ -70,8 +70,8 @@
       },
       {
         "type": "field",
-        "header": "SR5",
-        "content": ""
+        "header": "",
+        "content": "SR5"
       }
     ]
   },
@@ -94,8 +94,8 @@
       },
       {
         "type": "field",
-        "header": "SR5",
-        "content": "p.188 Attaque à plusieurs"
+        "header": "",
+        "content": "SR5"
       }
     ]
   },
@@ -272,8 +272,8 @@
       },
       {
         "type": "field",
-        "header": "SR5",
-        "content": "p.188 Attaque à plusieurs"
+        "header": "",
+        "content": ""
       }
     ]
   },
@@ -296,8 +296,8 @@
       },
       {
         "type": "field",
-        "header": "SR5",
-        "content": "p.188 Attaque à plusieurs"
+        "header": "",
+        "content": "SR5 (p.188)"
       }
     ]
   }

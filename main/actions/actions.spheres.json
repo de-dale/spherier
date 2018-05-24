@@ -38,6 +38,102 @@
     ]
   },
   {
+    "name": "Ajuster",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Ajuster"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": ""
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "SR5"
+      }
+    ]
+  },
+  {
+    "name": "Attaque mentale",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Attaque mentale"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Complexe (2)"
+      },
+      {
+        "type": "text",
+        "content": "Voir attaque"
+      },
+      {
+        "type": "field",
+        "header": "TODO",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "name": "Attaques multiples",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Attaques multiples"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Attaque"
+      },
+      {
+        "type": "text",
+        "content": "Au cour d'une attaque, le personnage peut choisir de porter un coup avec sa main directrive, et un second coup avec sa main non-directrice. Il répartit les dés lancés entre ses deux mains. Sa main non-directrice subit également un malus de 2 sur ce lancer."
+      },
+      {
+        "type": "field",
+        "header": "(Renversement)",
+        "content": "D&D"
+      }
+    ]
+  },
+  {
+    "name": "Choc",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Choc"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Complexe (2)"
+      },
+      {
+        "type": "text",
+        "content": "Comme le renversement, mais affecte toutes les cases adjascentes au personnage"
+      },
+      {
+        "type": "field",
+        "header": "(Renversement)",
+        "content": "D&D"
+      }
+    ]
+  },
+  {
     "name": "Coup puissant",
     "theme": "action",
     "content": [
@@ -67,12 +163,12 @@
     ]
   },
   {
-    "name": "Renversement",
+    "name": "Effrayer",
     "theme": "action",
     "content": [
       {
         "type": "title",
-        "content": "Renversement"
+        "content": "Effrayer"
       },
       {
         "type": "field",
@@ -81,84 +177,12 @@
       },
       {
         "type": "text",
-        "content": ""
-      },
-      {
-        "type": "field",
-        "header": "(Renversement)",
-        "content": "D&D"
-      }
-    ]
-  },
-  {
-    "name": "Choc",
-    "theme": "action",
-    "content": [
-      {
-        "type": "title",
-        "content": "Choc"
-      },
-      {
-        "type": "field",
-        "header": "Action",
-        "content": "Complexe (2)"
-      },
-      {
-        "type": "text",
-        "content": "Comme lke renversement, mais affecte toutes les cases adjascentes au personnage"
-      },
-      {
-        "type": "field",
-        "header": "(Renversement)",
-        "content": "D&D"
-      }
-    ]
-  },
-  {
-    "name": "Attaques multiples",
-    "theme": "action",
-    "content": [
-      {
-        "type": "title",
-        "content": "Attaques multiples"
-      },
-      {
-        "type": "field",
-        "header": "Action",
-        "content": "Attaque"
-      },
-      {
-        "type": "text",
-        "content": "Au court d'une attaque, le personnage peut choisir de porter un coup avec sa main directrive, et un second coup avec sa main non-directrice. Il répartit les dés lancés entre ses deux mains. Sa main non-directrice subit également un malus de 2 sur ce lancer."
-      },
-      {
-        "type": "field",
-        "header": "(Renversement)",
-        "content": "D&D"
-      }
-    ]
-  },
-  {
-    "name": "Ajuster",
-    "theme": "action",
-    "content": [
-      {
-        "type": "title",
-        "content": "Ajuster"
-      },
-      {
-        "type": "field",
-        "header": "Action",
-        "content": "Simple"
-      },
-      {
-        "type": "text",
-        "content": ""
+        "content": "Les succès agissent comme un malus contre un adversaire."
       },
       {
         "type": "field",
         "header": "",
-        "content": "SR5"
+        "content": "??? Leadership (p.144)"
       }
     ]
   },
@@ -187,30 +211,6 @@
     ]
   },
   {
-    "name": "Prendre le lead",
-    "theme": "action",
-    "content": [
-      {
-        "type": "title",
-        "content": "Prendre le lead"
-      },
-      {
-        "type": "field",
-        "header": "Action",
-        "content": "Simple"
-      },
-      {
-        "type": "text",
-        "content": "La cible accepte le personnage comme leader pour un tour de combat par succès excédentaire."
-      },
-      {
-        "type": "field",
-        "header": "",
-        "content": "Leadership (p.144)"
-      }
-    ]
-  },
-  {
     "name": "Inspirer",
     "theme": "action",
     "content": [
@@ -226,6 +226,30 @@
       {
         "type": "text",
         "content": "Les succès agissent comme un test d'équipe pour un subordonné."
+      },
+      {
+        "type": "field",
+        "header": "",
+        "content": "Leadership (p.144)"
+      }
+    ]
+  },
+  {
+    "name": "Prendre le lead",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Prendre le lead"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple"
+      },
+      {
+        "type": "text",
+        "content": "La cible accepte le personnage comme leader pour un tour de combat par succès excédentaire."
       },
       {
         "type": "field",
@@ -259,12 +283,12 @@
     ]
   },
   {
-    "name": "Effrayer",
+    "name": "Renversement",
     "theme": "action",
     "content": [
       {
         "type": "title",
-        "content": "Effrayer"
+        "content": "Renversement"
       },
       {
         "type": "field",
@@ -273,36 +297,12 @@
       },
       {
         "type": "text",
-        "content": "Les succès agissent comme un malus contre un adversaire."
-      },
-      {
-        "type": "field",
-        "header": "",
-        "content": "??? Leadership (p.144)"
-      }
-    ]
-  },
-  {
-    "name": "Attaque mentale",
-    "theme": "action",
-    "content": [
-      {
-        "type": "title",
-        "content": "Attaque mentale"
-      },
-      {
-        "type": "field",
-        "header": "Action",
-        "content": "Complexe (2)"
-      },
-      {
-        "type": "text",
-        "content": "Voir attaque"
-      },
-      {
-        "type": "field",
-        "header": "TODO",
         "content": ""
+      },
+      {
+        "type": "field",
+        "header": "(Renversement)",
+        "content": "D&D"
       }
     ]
   },
@@ -335,7 +335,26 @@
       {
         "type": "field",
         "header": "",
-        "content": "SR5 - Déplacement (p.58)"
+        "content": "SR5 (p.58)"
+      }
+    ]
+  },
+  {
+    "name": "Encocher une flèche",
+    "theme": "action",
+    "content": [
+      {
+        "type": "title",
+        "content": "Encocher une flèche"
+      },
+      {
+        "type": "field",
+        "header": "Action",
+        "content": "Simple (1)"
+      },
+      {
+        "type": "text",
+        "content": "Un personnage peut encocher une flèche dans un arc prêt. Une seconde action est nécessaire pour tirer."
       }
     ]
   }
