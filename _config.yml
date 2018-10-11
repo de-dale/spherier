@@ -1,1 +1,14 @@
-theme: jekyll-theme-minimal
+title: Le Sphérier
+author: fhiegel
+twitter_username: de-dale
+github_username: de-dale
+slack: de-dale
+rss: rss
+
+theme: minima
+
+# Exclude from processing.
+exclude:
+- Gemfile
+- Gemfile.lock
+- vendor
