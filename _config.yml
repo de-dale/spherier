@@ -14,3 +14,6 @@ exclude:
 - vendor
 - main
 - node_modules
+- scripts
+- src
+- webpack

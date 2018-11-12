@@ -1,0 +1,9 @@
+{%- if page.imports -%}
+<!-- IMPORTS -->
+{%- for import in page.imports -%}
+{% for javascripts in import %}
+<script type="text/javascript" src="assets/js/{{ javascripts[1] }}.js"></script>
+{% endfor %}
+{%- endfor -%}
+{%- endif -%}
+
