@@ -1,29 +1,41 @@
 {
-   "name": "skills-sphere",
+   "name": "@de-dale/spherier",
    "version": "1.0.0",
-   "description": "Règles du sppérier et repository des spheres",
+   "description": "Règles du Sphérier, et repository des Sphères",
    "main": "index.js",
    "author": "fhiegel",
    "license": "ISC",
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/de-dale/skills-sphere.git"
+      "url": "git+https://github.com/de-dale/spherier.git"
    },
    "scripts": {
+      "build": "webpack --mode production",
       "generate": "node ./scripts/generate-all.js",
       "sort-file": "node ./scripts/sort-file.js",
       "test": "echo \"Error: no test specified\" && exit 1"
    },
    "keywords": [
+      "rpg",
       "de-dale",
-      "spherier",
-      "skill-sphere"
+      "spherier"
    ],
    "bugs": {
-      "url": "https://github.com/de-dale/skills-sphere/issues"
+      "url": "https://github.com/de-dale/spherier/issues"
    },
-   "homepage": "https://github.com/de-dale/skills-sphere#readme",
+   "homepage": "https://github.com/de-dale/spherier#readme",
    "dependencies": {
-      "find": "^0.2.9"
+      "@de-dale/cards": "^0.2.0-a"
+   },
+   "devDependencies": {
+      "@babel/core": "^7.1.5",
+      "@babel/preset-env": "^7.1.5",
+      "@babel/preset-react": "^7.0.0",
+      "babel-loader": "^8.0.4",
+      "css-loader": "^1.0.1",
+      "find": "^0.2.9",
+      "style-loader": "^0.23.1",
+      "webpack": "^4.25.0",
+      "webpack-cli": "^3.1.2"
    }
 }
