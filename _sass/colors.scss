@@ -1,0 +1,68 @@
+//
+// Colors utilities
+//
+
+//adjust-hue( $base-color, 20% )
+
+@function map-color-by-light($hue, $saturation) {
+  $lightnesses: (
+          lightest: 98%,
+          lighter: 82.9%,
+          light:74.1%,
+          main-light: 60%,
+          main: 50%,
+          main-dark: 40%,
+          dark: 25.9%,
+          darker: 17.1%,
+          darkest: 9.2%
+  );
+
+  $result: ();
+  @each $name, $lightness in $lightnesses {
+    $result: map-merge($result, ($name: hsl($hue, $saturation, $lightness)))
+  }
+
+  @return $result;
+}
+
+@function map-color($color) {
+  @return (
+          lightest:   lighten($color, 45%),
+          lighter:    lighten($color, 25%),
+          light:      lighten($color, 15%),
+          main-light: lighten($color, 10%),
+          main:       $color,
+          main-dark:  darken($color, 10%),
+          dark:       darken($color, 15%),
+          darker:     darken($color, 25%),
+          darkest:    darken($color, 45%)
+  );
+}
+
+
+@function theme($color) {
+  @return (
+          primary: map-color($color),
+          accent: map-color(hsl(hue($color) + 30, saturation($color), lightness($color))),
+  );
+}
+
+@function get-color($theme, $color, $lightness: "main") {
+  @return map-get(map-get($theme, $color), unquote($lightness));
+}
+
+@mixin colors($colors, $name) {
+  $prefix: if(str-length($name) > 0, "#{$name}-", "");
+  @each $declinaison, $content in $colors {
+    .#{$prefix}#{$declinaison} {
+      background-color: $content;
+    }
+  }
+}
+
+@mixin theme-import($theme, $name) {
+  $prefix: if(str-length($name) > 0, "#{$name}-", "");
+  @each $color-name, $content in $theme {
+    @include colors($content, "#{$prefix}#{$color-name}")
+  }
+}

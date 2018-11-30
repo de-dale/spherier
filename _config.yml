@@ -7,13 +7,17 @@ rss: rss
 
 theme: minima
 
+header_pages:
+ - index.md
+ - cards.md
+
 # Exclude from processing.
 exclude:
-- Gemfile
-- Gemfile.lock
-- vendor
-- main
-- node_modules
-- scripts
-- src
-- webpack
+ - Gemfile
+ - Gemfile.lock
+ - vendor
+ - main
+ - node_modules
+ - scripts
+ - src
+ - webpack
