@@ -25,7 +25,7 @@
    },
    "homepage": "https://github.com/de-dale/spherier#readme",
    "dependencies": {
-      "@de-dale/cards": "^0.2.0-a"
+      "@de-dale/cards": "^0.3.0-wip.3"
    },
    "devDependencies": {
       "@babel/core": "^7.1.5",
