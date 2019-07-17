@@ -1,0 +1,4 @@
+root: ./docs/
+
+structure:
+  readme: ./"Règles De Base"/Sphèrier.md
