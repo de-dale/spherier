@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page]("Règles%20De%20Base"/Sphèrier.md)
+* [Initial page](regles-de-base/spherier.md)
 * [Règles De Base](regles-de-base/README.md)
   * [Sphèrier](regles-de-base/spherier.md)
   * [Sphère](regles-de-base/sphere.md)
