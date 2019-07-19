@@ -1,0 +1,4 @@
+root: .
+
+structure:
+  readme: ./regles-de-base/spherier.md
