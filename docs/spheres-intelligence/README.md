@@ -1,2 +1,1 @@
-# Sphères  Intelligence
-
+# Sphères | Intelligence

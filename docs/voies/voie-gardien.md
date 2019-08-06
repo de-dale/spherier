@@ -1,11 +1,8 @@
-# Voie  Gardien
-
 > Blockers
 
 1. Maniement
-2. Bouclier \(Cpt +3, Lim 6, Bloquer\) 
-3. Contrer
-4. Proteger
-5. Armure
-6. Épée ou Bouclier
-
+1. Bouclier (Cpt +3, Lim 6, Bloquer) 
+1. Contrer
+1. Proteger
+1. Armure
+1. Épée ou Bouclier

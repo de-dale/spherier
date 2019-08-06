@@ -1,2 +1,0 @@
-# Volonté  Force mentale
-

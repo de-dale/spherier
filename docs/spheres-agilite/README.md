@@ -1,2 +1,1 @@
-# Sphères  Agilité
-
+# Sphères | Agilité

@@ -1,49 +1,32 @@
-# Sphèrier
+# Sphérier
 
-## Le Sphèrier
+Chaque Personnage possède un Sphérier, constitué de `Sphères`.
+* Une **[Sphère](https://trello.com/c/ZJVIytbL)** contient des `Facettes`.
+* Chaque **[Facette](https://trello.com/c/nNBTIelT)** apporte une ou plusieurs chose(s) au personnage :
+    * La **[Capacité](https://trello.com/c/EUJsvYrZ)** de faire de nouvelles actions
+    * Une meilleure maîtrise de ses capacités existantes, par un gain de **[Compétences](https://trello.com/c/udzuobSo)**
+    * De l'affinité avec un domaine connu, par l'amélioration des **[Attributs](https://trello.com/c/fNGbnjlR)**
+    > Le personnage progresse dans son Sphérier en achetant des Facettes avec du **Karma**
 
-Le Sphérier est un système de jeu de rôle. Ses règles sont les plus simples possible, afin de pouvoir être découpées, et tenir sur une carte à jouer.
+Physiquement, le Sphérier se compose de cartes,  supposées autosuffisantes: chque carte porte les règles de jeu, qui lui sont propres, et s'appliquent au personnage lorsque ce dernier cherche à les utiliser. 
 
-## Règles de base
+> **NB:**
+Les cartes peuvent porter des mots-clés ou des symboles qui font référence à d'autres cartes. 
+A priori, à l'exception de la recherche de mots-clés, il n'est pas nécessaire de chercher un point de règle qui n'apparaît pas sur le Sphérier.
 
-### Carte
+# Structure
 
-Une carte est un élément de jeu qui explique un point de règle. Elle représente soit :
-
-Idées en vrac Règles De Base Sources Une Sphère Idées en vrac Règles De Base Sources Une Facette : Idées en vrac Règles De Base Sources Une Capacité Idées en vrac Règles De Base Sources Une Affinité Idées en vrac Règles De Base Sources Une `Action` \(Point d'action\) Idées en vrac Règles De Base Sources Une `Réaction` \(Point de Réaction\)
-
-* Une aide de jeu 
-
-  Idées en vrac Règles De Base Sources aide RP
-
-Physiquement, elle se matérialise par une carte à jouer.
-
-Afin de favoriser la concision, les cartes utiliseront au maximum, des Mots-clés et des Symboles.
-
-#### Mot clé
-
-Un mot-clé est un terme clair et précis, qui désigne une définition d'un point de règle.
-
-Un mot clé est défini sur une carte. La carte en question devrait être au plus proche de celui qui l'utilise : elle doit être dans le Sphérier du personnage qui en a besoin.
-
-**Conception du Sphérier** Lorsqu'un terme utilisé dans un point de règle n'est pas clair, il faut l'expliquer et le définir comme un mot-clé, sur une carte dédiée.
-
-#### Symbole
-
-Un symbole est une représentation graphique d'un mot-clé.
-
-### [Personnage](https://trello.com/c/j5txrEnh)
-
-Chaque Personnage possède un Sphérier. Chaque Sphérier est composé de cartes, qui portent les règles de jeu, qui s'appliquent au personnage. A priori, il n'est pas nécessaire de chercher un point de règle qui n'apparaît pas sur le Sphérier.
-
-Plus de détails sur le Personnage.
-
-### [Phases de jeu](https://trello.com/c/PmgRVPin)
-
-Les règles cadrent des phases de jeu, et principalement :
-
-* Le combat
-* Le hors combat
-
-> La majorité des règles ci-dessous sont relatives au combat. Lorsqu'il s'agit de hors combat, cela est précisé dans un encart dédié.
-
+Personnage == Sphérier
+- Sphère A
+    - Facette 1
+        - Capacité active
+        - Capacité active
+    - Facette 2
+        - Capacité passive
+        - Capacité active
+- Sphère B
+    - Facette B1
+        - Capacité active
+    - Facette B2
+        - Capacité passive
+        - Capacité active

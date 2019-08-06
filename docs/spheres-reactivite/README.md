@@ -1,2 +1,1 @@
-# Sphères  Réactivité
-
+# Sphères | Réactivité

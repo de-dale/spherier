@@ -1,2 +1,1 @@
-# Sphères  Perception
-
+# Sphères | Perception

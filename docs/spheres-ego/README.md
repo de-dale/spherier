@@ -1,2 +1,1 @@
-# Sphères  Ego
-
+# Sphères | Ego

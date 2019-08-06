@@ -1,2 +1,1 @@
-# Comprendre un point faible
 

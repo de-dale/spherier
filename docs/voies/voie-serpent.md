@@ -1,9 +1,6 @@
-# Voie  Serpent
-
 1. Maniement
-2. Parer
-3. Contrer
-4. Esquiver
-5. Maniement
-6. Réaction accrue
-
+1. Parer
+1. Contrer
+1. Esquiver
+1. Maniement
+1. Réaction accrue

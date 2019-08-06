@@ -1,6 +1,8 @@
 # Discrétion
 
-> TODO Depuis: D&D, Unchained Connaissances étendues
+> TODO
+> Depuis: D&D, Unchained 
+> Connaissances étendues 
 
 Lorsqu’il possède le nombre de rangs indiqués en Discrétion, le personnage acquiert les avantages suivants.
 
@@ -11,4 +13,3 @@ Lorsqu’il possède le nombre de rangs indiqués en Discrétion, le personnage 
 15 rangs. Si le personnage attaque après avoir utilisé la compétence de Discrétion avec succès, sa cible est privée de son bonus de Dextérité contre toutes les attaques que le personnage lui porte avant la fin de son tour à lui.
 
 20 rangs. Si le personnage attaque après avoir utilisé la compétence de Discrétion avec succès, sa cible est privée de son bonus de Dextérité contre toutes les attaques que le personnage lui porte avant le début de son prochain tour à lui.
-
