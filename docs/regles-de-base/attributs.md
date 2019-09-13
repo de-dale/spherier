@@ -1,10 +1,12 @@
 #  Attributs
-> Fluff
+Les **Attributs** sont un moyen de classer les **Sphères**, **Facettes** et **Capacités**, selon des thèmes.
+Les thèmes permettent servent de ligne conductrice pour les différents Gameplay. 
 
-Un `Attribut` permet de caractériser un personnage, à partir du choix de ses `Facettes`. Les `Attributs` servent de thématique conductrice pour créer ou choisir des `Capacités` en lien avec un Gameplay particulier. 
+~~Un **Attribut** permet de caractériser un personnage, à partir du choix de ses **Facettes**.
+Les **Attributs** servent de thématique conductrice pour créer ou choisir des **Capacités** en lien avec un Gameplay particulier.~~
 
  Un personnage peut avoir une 
-[Affinité](https://trello.com/c/mwxOIKuK) pour un ou plusieurs attributs.
+**[Affinité](https://trello.com/c/mwxOIKuK)** pour un ou plusieurs attributs.
 
 # Attributs de base
 
@@ -20,7 +22,7 @@ Ces Attributs sont disponibles à tous, des le début du jeu.
 
 ## [Perception](https://trello.com/c/grux427F)
 
-## [Ego/Charisme](https://trello.com/c/kg1pDsAh)
+## [Ego](https://trello.com/c/kg1pDsAh)
 
 # Attributs spéciaux
 

@@ -1,4 +1,4 @@
-# Systemes de jeu | Lancés de dés
+# Lancer les dés
 
 Le système de jeu n'est pas figé. 
 La carte peut être agnostique du système de règle

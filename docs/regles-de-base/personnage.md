@@ -11,30 +11,29 @@ Un personnage est défini par ses :
     Chaque personnage commence la partie avec 1 point de vie.
     > **Note: vies**
     > Idée de Quentin: les personnages auraient des vies comme à Mario. À zéro, ils consomment une vie mais restent hors combat. Quand Ils n'ont plus de vie, ils meurent. 
-* **Quota d'actions**
-    Correspond au nombre d'actions que peut faire un personnage durant son `Tour de jeu`.
-    Chaque personnage commence la partie avec 2 `Actions` et 1 `Réaction
-   Voir aussi :  [Agir](https://trello.com/c/ssmJtb4d/)
 * **Sphérier**
-    Le personnage possède un Sphérier, constitué par des `Sphères`.
-    Chaque `Sphère` contient des `Facettes`.
-    Chaque `Facette` permet de disposer de  `Capacité(s)`, ou d'améliorer ses `Affinités`.
-Au final, le Sphérier détermine:
-    * [Attributs](https://trello.com/c/fNGbnjlR/129-personnage-attributs)
-    * [Capacités](https://trello.com/c/EUJsvYrZ/134-personnage-capacit%C3%A9s)
-    * [Compétences](https://trello.com/c/udzuobSo/130-personnage-capacit%C3%A9s-comp%C3%A9tences)
- 
+    Le personnage possède un Sphérier, permettant de lister l'intégralité de ses **Capacités**. 
+    Le Sphérier, est constitué de **Sphères**, elles-mêmes constituées de **Facettes**. Chaque **Facette** donne accès à une ou plusieurs **Capacité(s)**. Au final, le Sphérier permet de présenter :
+    * [Capacités](https://trello.com/c/EUJsvYrZ)
+    * [Compétences](https://trello.com/c/udzuobSo)
+    * [Attributs](https://trello.com/c/fNGbnjlR)
+    Le Sphérier d'un personnage commence avec ses Capacités Naturelles
+
+
 **Capacité Naturelle** 
 
 ? Les personnages commencent le jeu avec quelques Capacités Naturelles. (A moins que ce soit proposé sur les cartes de base, mais il faut un moyen pour que les joueurs puissent se défausser sans sanction de la carte initiale)
 
 Liste: Attaquer, Esquiver, Se déplacer, Courir, Parler
-
 ## Resources
 
 Les personnages disposent de plusieurs ressources : 
 
-- Les **Points de vie**, qui représentent une ressource par combat/scène. 
-    > **Lucidité :** Equivalent des points de vie face aux dommages de Stress (dommages mentaux)
-- Les **Points d'expérience/Karma/Synadn** (Adn de synthèse) qui représente leur progression. Cette reserve permet de progresser indifféremment sur un Sphérier de combat ou hors-combat.
+- **Santé:** Les **Points de vie**, qui représentent une ressource de combat/scène. 
+    > **Lucidité :** Les **Points de vie mentaux** face aux dommages de Stress (dommages mentaux)
+- **Syna:** L'ADN de synthèse, est une ressource d'intermède permettant de progresser sur un Sphérier.
+    > C'est équivalent à des **Points d'expérience**.
 - Les (jetons d')**Affinités**, qui permettent au personnage d'utiliser des actions spéciales
+
+> **Remarque:**
+Appellons "Point de vie" des points de vie, et "Points d'expérience" des points d'expérience... Ce sera plus clair.
