@@ -4,6 +4,9 @@
 
 > Definir le roleplay ? C'est difficile, c'est principalement les phases ou tu incarnes ton personnage
 > _Naveed_
+>
+> Le Roleplay, c'est ce que tu fais à chaque fois que tu fais prendre une décision à ton personnage. 
+> _Sharah_
 
 Dans un RPG, un joueur va sans cesse prendre des décisions pour son personnage. Qu'il décide de combattre ou de fuir, de charmer ou d'intimider, de frapper de taille ou d'estoc, de lancer un dort ou un autre, le joueur fait vivre son personnage . 
 

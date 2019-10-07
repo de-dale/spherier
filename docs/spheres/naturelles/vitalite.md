@@ -3,16 +3,14 @@
 Une créature vivante est...  Vivante. 
 À ce titre, elle possède de la force vitale lui permettant d'exister, et d'un instinct de survie lui intimant de rester en vie. 
 Elle possède les capacités suivantes :
-* **[Apprendre(Vigueur)](###)**
-    > **`+3`** degré de maîtrise, dans la compétence **Vigueur**
-   > **Vigueur** est un ~~**Jet de sauvegarde**~~
-* **[Expertise(Majeure, Vigueur)](https://trello.com/c/0EKOzT2h)**
-    > **`Limite`** de **`<12>`** dans le degré de maîtrise en **Vigueur**.
-* Une Santé de <15> :
-    > **PV = 5 x <Vigueur>`**
+
+**[S'initier(Vigueur)](https://trello.com/c/okzDUbWA)**
+> **Compétence:** _Vigueur<+3, Mineure>_
+
+**[Santé](https://trello.com/c/NXr0lxOh)** de <15> :
+> **Santé =** _5 x <Vigueur>_
 
 > Wording : Vigueur vs. Vitalité
-> Pendant pour le mental? ==> OUI! 😑
 > Voir aussi : **[Endurance](https://trello.com/c/AlqwWdQT)**
 
 > PV

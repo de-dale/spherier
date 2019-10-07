@@ -4,10 +4,10 @@
 > **Déclencheur:** Événement propice (cf. Capacité) et décision du joueur
 > **Effet:** cf. Capacité
 
-> La **Réaction** est le **Geste**, correspondant à l'activation d'une **Capacité réactive**.
+> Une **Réaction** est une **Action**, que l'on ne peut faire qu'en réponse à un **Événement spécifique**. 
 
-Un personnage peut **décider de réagir** en réponse à un événement propice. Il active une **Capacité réactive**, permettant de répondre à l'événement, en payant son **Coût**, et résout alors ses **Effets**. 
+**Réaction :** Le **[Personnage](https://trello.com/c/j5txrEnh)** peut effectuer une **[Action](https://trello.com/c/MPbgE0oE)** en réponse à un **Événement spécifique**, en payant le coût de Réaction à la place du coût d'Action. 
 
-Le personnage peut effectuer une Réaction, uniquement si un événement adapté à l'une de ses Capacités, se déclenche.
+Un **[Personnage](https://trello.com/c/j5txrEnh)** ne peut effectuer de **Réaction**, que s'il possède une **[Capacité Active](https://trello.com/c/seeagtHL)**, permettant de répondre à l'**Événement spécifique**
 
-Le coût d'une Réaction s'exprime en "Point de Réaction" (Carte Réaction, Initiative) : **`R°`**
+Le coût d'une **Réaction** s'exprime en "**Point de Réaction**" (Carte Réaction, Initiative) : **`R°`**.
