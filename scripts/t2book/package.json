@@ -1,0 +1,21 @@
+{
+  "name": "t2book",
+  "version": "1.0.0",
+  "description": "Script for importing Trello as book, compatible with GitBook application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "bin": {
+    "t2b": "./index.js"
+  },
+  "author": "fhiegel",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "commander": "^3.0.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "cards": [
+    {
+      "id": "1234567890abcdefghijklmn",
+      "name": "README",
+      "shortUrl": "https://trello.com/c/1234abcd",
+      "desc": "Cette description doit se retrouver dans le parent",
+      "pos": 12,
+      "list": {
+        "id": "1234567890abcdefghijklmn",
+        "name": "Voies",
+        "closed": false,
+        "idBoard": "1234567890abcdefghijklmn",
+        "pos": 10,
+        "subscribed": false,
+        "softLimit": null
+      }
+    }
+  ]
+}

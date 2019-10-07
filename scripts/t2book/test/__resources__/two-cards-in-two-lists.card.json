@@ -1,0 +1,36 @@
+{
+  "cards": [
+    {
+      "id": "1234567890abcdefghijklmn",
+      "name": "Une carte qsdfqsdfqssimple",
+      "shortUrl": "https://trello.com/c/1234abcd",
+      "desc": "Description succincte de la carte trello",
+      "pos": 12,
+      "list": {
+        "id": "1234567890abcdefghijklmn",
+        "name": "Liste standard",
+        "closed": false,
+        "idBoard": "1234567890abcdefghijklmn",
+        "pos": 10,
+        "subscribed": false,
+        "softLimit": null
+      }
+    },
+    {
+      "id": "1234567890abcdefghijklmn",
+      "name": "Carte provenant d'une autre liste",
+      "shortUrl": "https://trello.com/c/1234abcd",
+      "desc": "Autre carte, autre liste, autres contraintes.",
+      "pos": 12,
+      "list": {
+        "id": "1234567890abcdefghijklmn",
+        "name": "Seconde liste fort différente",
+        "closed": false,
+        "idBoard": "1234567890abcdefghijklmn",
+        "pos": 10,
+        "subscribed": false,
+        "softLimit": null
+      }
+    }
+  ]
+}

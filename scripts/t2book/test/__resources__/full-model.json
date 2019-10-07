@@ -1,0 +1,1230 @@
+{
+  "pages": [
+    {
+      "name": "Voies",
+      "fileName": "voies",
+      "description": "",
+      "position": 68095,
+      "trelloShortUrl": "",
+      "pages": [
+        {
+          "name": "Voie | Soldat",
+          "fileName": "voie-|-soldat",
+          "description": "1. Soldat 1 (Maniement, Bouclier, Armures) \n1. Surnombre\n1. Soldat 2\n1. Soldat 3\n1. Endurance",
+          "position": 65536,
+          "trelloShortUrl": "jPMKPqdU"
+        },
+        {
+          "name": "Voie | Contrôleur de Mana",
+          "fileName": "voie-|-controleur-de-mana",
+          "description": "- Canaliser -> [Lancer] = pool\n    - \\+ Decharge : n(n+1) /2 dégât, Drain de n,  portée 6\n- Résister au drain\n- Hébéter",
+          "position": 49152,
+          "trelloShortUrl": "Hc8yGvjK"
+        },
+        {
+          "name": "Voie | Brute",
+          "fileName": "voie-|-brute",
+          "description": "1. Maniement\n1. Excédent de dégâts\n1. Coup puissant\n1. Posture de rage\n1. \n1. Maniement 2",
+          "position": 98304,
+          "trelloShortUrl": "WQuMsXtB"
+        },
+        {
+          "name": "Scout | Furtif",
+          "fileName": "scout-|-furtif",
+          "description": "> **Rôle:** Hammer / Arm\n> **Stratégie:** Bruiser\n> **Objectif:** Surprendre et attaque r l'adversaire alors qu'il ne s'y attend pas, pour causer un maximum de dommages. \n\n## Disparaître\nInvisible pdt [Lancer]\nDégât x2 si caché, mais casse l'invisibilité. \n\n## Révéler\nDissiper [Lancer] d'invisibilité et d'hologramme\n\n## Disparaître en groupe\nInvisible répartie pdt [Lancer]\nCasse l'invisibilité en cas d'attaque",
+          "position": 14336,
+          "trelloShortUrl": "LyrK0PtL"
+        },
+        {
+          "name": "Veilleur | Accélérateur (Arm Buffer)",
+          "fileName": "veilleur-|-accelerateur-(arm-buffer)",
+          "description": "",
+          "position": 147456,
+          "trelloShortUrl": "05MGSekA"
+        },
+        {
+          "name": "Veilleur | Barrier (Arm Blocker)",
+          "fileName": "veilleur-|-barrier-(arm-blocker)",
+          "description": "",
+          "position": 131072,
+          "trelloShortUrl": "OxFYalnx"
+        },
+        {
+          "name": "Lancier | Abeilles de fer",
+          "fileName": "lancier-|-abeilles-de-fer",
+          "description": "> **Rôle:** Hammer / Anvil \n> **Stratégie:** Sniper / Zoner   \n> **Objectif:** Manipuler une pluie de flèches, pour contrôler les mouvements dans une zone. \n\nSniper/Zoners\n\nAttaque : pluie de flèche, zone, cibles multiples. \n\nImmobiliser dans zones. \nZone(3n+1): 1case, 7cases, 19cases",
+          "position": 15872,
+          "trelloShortUrl": "mFSoc1LA"
+        },
+        {
+          "name": "Scout | Holotype",
+          "fileName": "scout-|-holotype",
+          "description": "# Holotype\n> **Rôle:** Arm / Hammer\n> **Stratégie:** Skirmisher\n> **Objectif:** Manipuler un hologramme permettant de recueillir des informations, et de perturber l'adversaire. \n\n## Manier les armes\n\n* **[Manier les armes(Choix)](https://trello.com/c/8vrAmkjp/121-manier-les-armes-type-darme)**\n    > **Choix parmi:**\nArmes rudimentaires, Lames légères, Armes de jet\n   > **Compétence :**\n**`+3`** en **`[Armes(Type choisi)]`**\n    > **Limite:**\n**`<6>`** en **`[Armes(Type choisi)]`**\n\n\n## Hologramme\n\n* **[Apprendre(Holographie)](https://trello.com/c/okzDUbWA)**\n   > **Compétence:**\n**`+3`** en **`[Holographie]`**\n* **[Expertise(Mineure, Phare)](https://trello.com/c/0EKOzT2h)**\n    > **Limite:**\n**`<6>`** en **Holographie**\n* Évoquer un hologramme <1>\n\n**Évoquer un hologramme:**\nInvoque un hologramme qui possède les mêmes sens que le personnage. En temps réel, le personnage voit en temps entend et ressent de que perçoit l'hologramme.\nL'hologramme possède les mêmes capacités que le personnage, mais ne peut causer aucun dégâts, ne donner aucun bonus ou malus.\nIl possède une esquive de 1, et est détruit s'il subit des dégâts. \nL'hologramme dure 5 actions et ne peut dépenser des actions que lorsque le personnage en pioche. Une fois qu'il a utilisé toutes ses actions, il se dissipe.\n\n## Hologramme 2\nL'hologramme dure [Compétence] × 5 actions. ~~Trop peu~~\n\n## Hologramme 4\nPossible de faire plusieurs hologrammes. \n\n## Tenaille\nLe personnage bénéficie d'un bonus de 1 à l'attaque contre des adversaire adjacent à l'hologramme et à lui-même.\n\n## Tenaille 2\nLes alliés du personnage bénéficient également du bonus. \n\n## Switch\nLe personnage échange sa place avec l'hologramme, qui disparaît.\n\n## Switch 2\nL'hologramme dure 1 action après le Switch.\n\n## Switch 3\nImage miroir tant que l'hologramme est adjacent.\n\n> Idée :\nFaire exploser un hologramme pour causer un dégât. \n\n# Autres\n\n## Éclaireur Novice\n\n## Acrobate\n\n## Pied léger",
+          "position": 10240,
+          "trelloShortUrl": "2ZTUxtAk"
+        },
+        {
+          "name": "Veilleur | Diriger un Phare",
+          "fileName": "veilleur-|-diriger-un-phare",
+          "description": "# Diriger un Phare\n\nLe personnage connait les manipulations de bases des Veilleurs, et sait utiliser la puissance de calcul des Phares pour blesser ses adversaires. \nIl obtient les Capacités suivantes :\n\n* **[Apprendre(Phare)](https://trello.com/c/okzDUbWA)**\n    **[Expertise(Mineure, Phare)](https://trello.com/c/0EKOzT2h)**\n   > *Phare<+3, Novice>* // *Phare<+3, Mineure>*\n**Compétence:** **`+3`** en **`[Phare]`**\n**Limite:** **`<6>`** en **`[Phare]`**\n* **[Attaquer au Phare](https://trello.com/c/9B6oMv2y)**\n    > **3×A°:** il inflige [Phare] dégâts dans une zone de <Phare> cases à <Phare> cases de portée du Phare.",
+          "position": 180224,
+          "trelloShortUrl": "kT0nFtCE"
+        },
+        {
+          "name": "Voie | Veilleur",
+          "fileName": "voie-|-veilleur",
+          "description": "# Veilleur\n\n> **Rôle:** Arm / Anvil \n> **Stratégie:** n.a\n> **Objectif:** Progresser dans le maniement du Phare pour se spécialiser ensuite. \n\nLe Veilleur est celui qui traite les informations du combat, pour en tirer la meilleure partie. Il analyse les informations et fomente des plans, pour mettre en lumière les atouts de ses alliés, ou les faiblesses de ses adversaires.\n\n## [Diriger un Phare](https://trello.com/c/kT0nFtCE) \n\nLe personnage connait les manipulations de bases des Veilleurs, et sait utiliser la puissance de calcul des Phares pour blesser ses adversaires. \n\n> **Compétence:** *Phare<+3, Mineure>*\n> **Capacité:** *Attaquer au Phare*\n\n## [Avantager](https://trello.com/c/NmcyOjkh/203-veilleur-avantager) \nLe Veilleur est capable de donner des avantages à ses alliés.\n\n## Repositionner\n\n> Capacité active | Combat |\n> **Coût:** `A°`\n\nLe Veilleur est capable de positionner efficacement ses alliés. Par une action, il effectue un jet de **`[Phare]`**, et peut déplacer un unique allié consentant, d'autant de cases que de succès obtenus.\n\n> Capacité réactive | Combat |\n> **Coût:** `R°`\n\nLe Veilleur est capable de positionner efficacement ses alliés. Lorsque XXX, par une réaction, il peut déplacer un unique allié consentant d'une case.\n\n=> à donner au Contrôleur\n\n## Accélérer\n\n> Capacité active | Combat |\n> **Coût:** `2xA°`\n\nLe Veilleur est capable d'améliorer considérablement l'efficacité de ses alliés. Par une action, il effectue un jet de **`[Phare]`**, un unique allié bénéficie alors de: \n\n- 1 succès => `+1 A°`\n- 3 succès => `+2 A°`\n- 6 succès => `+3 A°`\n\n> Equilibrage: Limite 6.\n> Faire augmenter la limite, fait augmenter le coût en actions ?",
+          "position": 8192,
+          "trelloShortUrl": "CNH0BuJU"
+        },
+        {
+          "name": "Veilleur | Avantager",
+          "fileName": "veilleur-|-avantager",
+          "description": "# Avantager\n\nDonne accès aux Capacité s suivantes \n* **[Avantager](https://trello.com/c/NLGmyDx1)**\n    > Donne un pool de bonus à repartir entre les alliés à portée.\n\n> **Remarque :**\nLa Facette et la Capacité portent le même nom, ce qui peut être confusant.",
+          "position": 204800,
+          "trelloShortUrl": "NmcyOjkh",
+          "pages": []
+        },
+        {
+          "name": "Veilleur | Attaquer au Phare",
+          "fileName": "veilleur-|-attaquer-au-phare",
+          "description": "# Attaquer au Phare\n\n> Capacité active | Combat |\n> **Coût:** `3×A°`\n\nLors d'un combat, le personnage peut porter une attaque à l'aide de son Phare.\nLe Phare inflige alors **[Phare]** dégâts dans une zone de **<Phare>** cases à **<Phare>** cases de portée du Phare.\n\n> TODO:\n> - test de maîtrise de Phare en amont des dégâts\n> - structure de l'attaque : portée/zone/effet",
+          "position": 196608,
+          "trelloShortUrl": "9B6oMv2y"
+        },
+        {
+          "name": "Veilleur | Analyste",
+          "fileName": "veilleur-|-analyste",
+          "description": "# Veilleur Analyste\n> **Rôle:** Anvil / Arm\n> **Stratégie:** Sapper\n> **Objectif:** Ajouter et accentuer les faiblesses de l'adversaire. \n\n## Groupe de compétences (Phare,...) \n\n## Analyse des faiblesses\n\n## Malédiction\n\n## Révéler les faiblesses\n\n> Capacité active | Combat |\n> **Coût:** `2xA°`\n\nLe Veilleur est capable d'exploiter les faiblesses de ses adversaires. \nPar une action, il effectue un jet de **`[Phare]`**, ses alliés bénéficient d'un bonus à tous leur jets d'attaque contre cet adversaire, selon les tranches suivantes:\n\n- 1 succès => +1\n- 3 succès => +2\n- 6 succès => +3\n\n## Comprendre un point faible\n\n> Capacité active | Combat |\n> **Coût:** `2xA°`\n\nLe Veilleur est capable d'exploiter les faiblesses de ses adversaires. \nPar une action, il effectue un jet de **`[Phare]`**, et gagne le nombre de succès à tous ses jets contre cet adversaire jusqu'à la fin du tour.\n\n> **NB :**\nRévéler les faiblesses et Comprendre un point faible ne bénéficient pas de cette augmentation; @ voir pour un meilleur wording.\n\n> ~~Quand le personnage réussit à identifier une créature, il **gagne un bonus de compétence de +1 aux jets d’attaque, aux tests de caractéristique opposés, aux tests de compétence et aux tests de niveau de lanceur de sorts effectués contre les créatures de la même espèce~~",
+          "position": 114688,
+          "trelloShortUrl": "FjP2vjVi"
+        },
+        {
+          "name": "Lancier | Lance éclair",
+          "fileName": "lancier-|-lance-eclair",
+          "description": "# Lance éclair\n\n> **Rôle:** Hammer / Anvil \n> **Stratégie:** Sniper / Sapper\n> **Objectif:** Manipuler une mz'ce de foudre pour annihiler un unique adversaire. \n\nStylr : Attaque unique,  rayonthunder like\n\nZone d'effet :\n- Cible unique\n- Ciblé + rayon dans l'axe\n- Ciblé + rebond (2nd temps: multiple thunder like) \n\nAffaiblissement :\n- hébétement (Stun) \n- ralentissement\n- étourdissement (Stun) \n- Paralysie",
+          "position": 15360,
+          "trelloShortUrl": "on3wxaae"
+        },
+        {
+          "name": "Veilleur | Fielder (Anvil Zoner)",
+          "fileName": "veilleur-|-fielder-(anvil-zoner)",
+          "description": "",
+          "position": 163840,
+          "trelloShortUrl": "Yq4rdrI0"
+        },
+        {
+          "name": "Scout | Observer",
+          "fileName": "scout-|-observer",
+          "description": "# Éclaireur\n\nUn éclaireur est celui qui observe et récupère les informations du combat. Il sait également se battre, bien que ça ne soit pas sa spécialité. \n\n\n# Observer\n> **Rôle:** Arm / Anvil\n> **Stratégie:** Buffer / Sapper\n> **Objectif:** Connaître et manipuler l'initiative pour garantir que ses alliés jouent au bon moment. \n\n## Connaître l'initiative\n\n[Avoir un pressentiment](https://trello.com/c/vCk355jF) \nRegarder la première carte de la pile. \n\n## Moi d'abord\nAu moment de constituer le deck d'initiative, le personnage garde une de ses cartes et la met sur le dessus du paquet.\n\n**Avantage sur la surprise**\nDégât x2 si attaque un surpris\n\n## Changer l'initiative\nRe ordonner qq cartes d'initiative\n\n## Brouiller les pistes\nMélanger l'initiative",
+          "position": 12288,
+          "trelloShortUrl": "MvwPlKeP"
+        },
+        {
+          "name": "Voie | Gardien",
+          "fileName": "voie-|-gardien",
+          "description": "> Blockers\n\n1. Maniement\n1. Bouclier (Cpt +3, Lim 6, Bloquer) \n1. Contrer\n1. Proteger\n1. Armure\n1. Épée ou Bouclier",
+          "position": 16384,
+          "trelloShortUrl": "jsuOI4FE"
+        },
+        {
+          "name": "Voie | Lancier Dragon",
+          "fileName": "voie-|-lancier-dragon",
+          "description": "1. Maniement\n1. Fente\n1. Autre bout (1/2 att,  1/2 deg) \n1. Enchaîner (3 touches => att gratuite) \n1. Intercepter\n1. Maniement 2",
+          "position": 32768,
+          "trelloShortUrl": "roWbIyST"
+        },
+        {
+          "name": "Voie | Serpent",
+          "fileName": "voie-|-serpent",
+          "description": "1. Maniement\n1. Parer\n1. Contrer\n1. Esquiver\n1. Maniement\n1. Réaction accrue",
+          "position": 81920,
+          "trelloShortUrl": "PVXfFwhv"
+        }
+      ]
+    },
+    {
+      "name": "Règles De Base",
+      "fileName": "regles-de-base",
+      "description": "",
+      "position": 75775,
+      "trelloShortUrl": "",
+      "pages": [
+        {
+          "name": "Phases de jeu | Hors-combat / Intermède",
+          "fileName": "phases-de-jeu-|-hors-combat-/-intermede",
+          "description": ">  [Sphérier](https://trello.com/c/9Yfoopo6) > [Phases de jeu](https://trello.com/c/PmgRVPin)\n\n# Hors-combat / Intermède\n\nHors combat : tout ce qui n'est pas combat. -> Ni du RP du coup (oui, je sais c'est pas clair car le RP n'est pas du combat). Dans cette phase, c'est tout ce qui est Artisanat, Interlude, Exploration, Investigation",
+          "position": 45056,
+          "trelloShortUrl": "LnGMxpKw"
+        },
+        {
+          "name": "Phases de jeu | Roleplay",
+          "fileName": "phases-de-jeu-|-roleplay",
+          "description": ">  [Sphérier](https://trello.com/c/9Yfoopo6) > [Phases de jeu](https://trello.com/c/PmgRVPin)\n\n# Roleplay\n\n> Definir le roleplay ? C'est difficile, c'est principalement les phases ou tu incarnes ton personnage\n> _Naveed_\n\nDans un RPG, un joueur va sans cesse prendre des décisions pour son personnage. Qu'il décide de combattre ou de fuir, de charmer ou d'intimider, de frapper de taille ou d'estoc, de lancer un dort ou un autre, le joueur fait vivre son personnage . \n\nLe Roleplay (RP), est la phase où le personnage prend vie, où son caractère  devient visible, et où il prend la parole.\nElle se caractérise par son **absence** de lancer de dé. \n\nUne phase de roleplay peut faire intervenir plusieurs personnage-joueurs (PJ) entre eux, ou plusieurs personnages-non-joueurs (PNJ), on parlera alors de **Scène RP**, ou entre plusieurs PJ et PNJs, on parlera alors de **Rencontre RP**. \n\n### Scène RP (1)\n> Pour s'amuser, et que le Rôle Play reste du Rôle Play.\n\nUne Scène RP fait intervenir uniquement des PJs.\nUne Scène fait avancer l'histoire des personnages, sans que les actions Maitre-du-Jeu y aient de conséquences.\n\n### Scène RP (2)\n> Parce que derrière chaque rencontre, y a une histoire \n\nUne Scène RP fait intervenir uniquement des PNJs.\n\nUne Scène fait avancer l'histoire de la campagne, sans que les action des Joueurs aient une incidence. \n\n### Rencontre RP\nUne Rencontre RP fait intervenir des PJs et des PNJs.\n\nElle sert une finalité, et chaque camp y arrive avec un objectif. Par exemple, les personnages peuvent chercher à récupérer  des renseignements d'un PNJs, ou le MJ cherche à donner une quête aux joueurs. \n\n> Quand le RP sert une finalité, possède un objectif.\n\n**Résolution RP**\nComment on résout une Scène RP\n\n**Interlude au RP** dans des discussions avec des PNJs, on peut avoir des interlude au RP et utiliser des capacités (et éventuellement jeter des dés).",
+          "position": 46592,
+          "trelloShortUrl": "3waMqLGG"
+        },
+        {
+          "name": "Marqueur (Type, Valeur, Application)",
+          "fileName": "marqueur-(type,-valeur,-application)",
+          "description": "# Marqueur\n\nLes marqueurs représentent des effets à différer dans la temporalité du jeu.\n\nUn marqueur porte les données suivantes :\n\n- Nom\n- Type\n- Valeurs\n- Usage (Application et déclencheur)  => à mettre dans l'appelant? \n\nExemples factices de la syntaxe: \n\n- **Marqueur (Choc, Cumul, [Attaque], +<Choc> à la prochaine attaque)**\n- **Choc: Marqueur(Cumul, [Attaque], +<Cumul> à la prochaine attaque)**\n## Types de marqueur\n**Cumul**\n> (Stack, Canalisation)\n\nLes marqueurs de même nom se cumulent pour une unique utilisation. \n\n**Répartition**\n> Delay/Répartition/Jauge/Réserve/Bassin/Pile\n\nLes marqueur forment un pool et sont retirés au fur et à mesure. Sur ce type de marqueur, il faut préciser la valeur alimentant le pool, et le nombre de marqueur retiré à chaque fois. \n\n\n- Valeurs : fixe ou lancer. \n    Ex: Marqueur (Cumul, [Pistolet], Attaque) \n- Application :\n    +/-1 A° (Accélération,  Étourdissement, Paralysie) \n    +/-1 R°\n    +/-1 Attaque (Rage, Nova, Affaiblir) \n    +/-1 Dégât",
+          "position": 97280,
+          "trelloShortUrl": "B4PJOjfJ"
+        },
+        {
+          "name": "Sphère",
+          "fileName": "sphere",
+          "description": "## Sphère\n\nUne `Sphère` est le regroupement ordonné de plusieurs `Facettes` (généralement entre 6 et 10) selon une thématique donnée.\n\nUne `Sphère` est caractérisée par ses :\n\n- **Nom**\n    Le nom d'une `Sphère` doit permettre de comprendre sa thématique. \n- **Pallier d'Affinités (Pré-requis)**\n    Correspond au nombre d'Affinité qu'il faut avoir pour prétendre à la `Sphère` \n- **Facettes**\n    Choix ordonnés accessibles au personnage possédant la `Sphère`\n\n**Revente d'une Sphère** \n\nll est possible de revendre une `Sphère` et récupérer tous les points de `Karma` qui y ont été investis.\n**Attention :** Une fois une `Sphère` revendue, il n'est plus possible de la racheter par la suite.",
+          "position": 19456,
+          "trelloShortUrl": "ZJVIytbL"
+        },
+        {
+          "name": "Phases de jeu | Combat",
+          "fileName": "phases-de-jeu-|-combat",
+          "description": "# Combat\n\n> La violence est le dernier recours de l'incompétence. \n\n> Ça y'est!  Vous êtes entrés dans une phase de négociation musclée. Il est temps de se mettre sur la figure, : le combat commence. \n\nLorsque les joueurs, ou le maître du jeu,  décident qu'il est temps de réduire l'ennemi en petits bouts plus ou moins comestibles, on déclenche un **Combat**.\n\n~~Lors d'une rencontre entre différents `protagonistes`, c'est à dire des personnages joueurs comme non joueurs, lorsque l'un d'eux montre une velléité de porter atteinte à l'intégrité, physique, ou mentale de l'autre partie, alors on initie une phase de combat.~~\n\n**Protagoniste:** dans un combat, on appelle `protagoniste`, tout personnage, joueur ou non-joueur, prenant part au combat.\n\n**Mise en place :**\n\nOn détermine qui peut agir, on rassemble leurs ressources (cartes Action et Réaction) et on se tient prêt pour la première passe d'initiative.\n\nLe combat est découpé en tours, pour simplifier la gestion de la temporalité. \n\n## Tours de combat\n\nUn tour de combat se découpe de la manière suivante :\n\n- Préparation\n- Passe d'initiative (une ou plusieurs) \n- Fin du tour\n\nUn tour de combat commence avec la **préparation**:\n\n - on mélange le deck d'initiative\n - on distribue les cartes réactions\n\nUne fois la préparation terminée, le tour **continue**; on entame une passe d'initiative, en révélant une carte.\nTant qu'il y a au moins une carte dans le deck d'initiative, le tour **continue** ; on enchaîne les passes d'initiative.\n\nLe tour se **termine** lorsqu'on tente de révéler une carte d'action dans le deck d'initiative, mais que ce dernier est vide. \nÀ ce moment, tous les `protagonistes` perdent leurs actions restantes :\n - les cartes action restantes ne peuvent plus être utilisées\n - les cartes réaction restantes ne peuvent plus être utilisées\nSi le combat n'est pas terminé, on recommence un tour de combat, avec sa préparation.\n\n### Préparation\n\nChaque `protagoniste` dispose d'un certain nombre de points d'**`Actions`**,  matérialisés par des cartes nominatives.\n\nAu début du tour de combat, tous les `protagonistes` mettent en commun leurs cartes **`Actions`** que l'on mélange pour constituer le **`Deck d'initiative`** (wording: Deck d'action ?). \n\nLe tour commence lorsque le MJ (ou n'importe quel autre joueur) révèle la première carte du Deck d'initiative.\n\n## Agir: l'Initiative\n\nUne **`passe d'initiative`** démarre alors.\n\n### Passe d'initiative\n\nUne **`Passe d'initiative`** est la séquence d'événements se déroulants, à partir le moment où une carte du Deck d'initiative est révélée, et ce jusqu'à ce que la passe d'initiative prenne fin.\nUne **`Passe d'initiative`** est la séquence d'événements se déroulants, entre deux pioches de cartes du deck d'initiative. Elle commence avec la première pioche, et se finit avant la seconde.\n\nUne **`Passe d'initiative`** se déroule de la manière suivante :\n\n1. la **pioche:** une carte du Deck d'initiative est révélée. La pioche marque le début de la passe. \n1. l'**action** : le `protagoniste` inscrit sur la carte d'action **possède l'initiative**. Il peut alors:\n     1. **jouer:** il peut consommer tout ou partie des carte d'actions qu'il possède à cet instant, pour utiliser **une unique capacité** ~~des capacités et effectuer des actions~~\n     1. **passer:** il ne fait rien et met alors sa carte d'action face visible devant lui. Il pourra l'utiliser par la suite.  \n1. la **réponse:** les adversaires du `protagoniste` venant de jouer, désignent parmi eux, un `protagoniste`. Ce dernier **possède l'initiative** ; il peut **jouer** ou **passer**.\n    - TODO: Pas de méthode de désignation actuellement définie\n    - Dans le cas où il y à plus de deux factions, le MJ décide quel camp possède la réponse. Préférentiellement, il s'agira de la faction agressée. La réponse à cette réponse suit les mêmes règles. \n1. Les phases de **réponses** se succèdent à moins que deux `protagonistes` passent consécutivement: La passe d'initiative prend fin.\n\nExemples : passe d'initiative possible pour un combats en 1 vs1 entre Alice et Bob. Alice pioche et possède l'initiative.\n\n- ☑ *Alice pioche, Alice passe, Bob passe, fin de la passe.*\n- ☑ *Alice pioche, (Alice passe, Bob joue,)^n Alice passe, Bob passe, fin de la passe.*\n- ☑ *Alice pioche, Alice joue, Bob passe, Alice passe, fin de la passe*\n- ☑ *Alice pioche, (Alice joue, Bob passe,)^n Alice passe, fin de la passe.*\n- ☑ *Alice pioche, Alice joue, Bob joue, Alice passe, Bob passe, fin de la passe.*\n- ☑ *Alice pioche, (Alice joue, Bob joue,)^n Alice passe, Bob passe, fin de la passe.*\n\n```\n            \n    Pioche --> Action: Alice \n                      Joue ---> Réponse: Initiative Bob\n                               Joue -> Réponse Alice\n                               Passe -> Réponse Alice\n                      Passe ---> Réponse: Initiative Bob\n        Initiative Alice \n    \n```\n\nQuestions:\n\n- Si un `protagoniste` passe au cours d'une passe d'action, est-ce qu'il peut rejouer plus tard dans la même passe d'initiative ?\n    - Pro: risque pris récompensé, possibilité de rattraper une situation qui dégénère. Empêcher de rejouer fera tourner le combat en tentative de bloquer les réponses adverses. De plus le nombre de réponse serait une ressource directement indexée le la quantité de protagonistes dans chaque camp. \n    - Cons: peut ralentir la passe d'init, ralenti la détermination du `protagonistes` possédant l'initiative. \n    - **Décision:** oui, s'il passe dans une passe d'initiative, un protagoniste peut répondre plus tard dans la même passe. \n\n~~\nRécupération de \"Agir\".\n\n## Initiative\n### Lancer de dé\nLes acteurs d'un combat lancent un jet d'initiative. Ils jouent ensuite leur tour de combat, dans l'ordre décroissant des initiatives.\nAu début de son tour, un acteur récupère tous ses points d'Action et de Réaction.\n\n### Deck d'actions.\nLes `Actions` des acteurs d'un combat sont représentées par des cartes nominatives. On mélange toutes les cartes et on les tire une par une. \n\nLorsqu'une carte est révélée, elle est rendue à son possesseur. Celui-ci acquiert \"la main\"/l'initiative sur le combat.\nIl peut alors dépenser sa ou ses `Actions` pour activer une `Capacité` connue. Sinon, il peut garder ses Actions pour les dépenser plus tard dans le tour.\n\nUne fois le Deck vidé, c'est la fin du tour. On récupère toutes les cartes, même celles qui n'ont pas été jouées, et on les mélange.\n\n**Actions sur plusieurs tours :** Sais pas 😑\n**Acteur ayant toutes ses cartes en main :** Sais pas 😑\n~~\n\n## Fin du Tour\n\nLe tour se **termine** lorsqu'on tente de révéler une carte d'action dans le deck d'initiative, mais que ce dernier est vide.\n\nÀ ce moment, tous les `protagonistes` perdent leurs actions restantes :\n - les cartes action restantes ne peuvent plus être utilisées\n - les cartes réaction restantes ne peuvent plus être utilisées\nSi le combat n'est pas terminé, on recommence un tour de combat, avec sa préparation.\n\n## Réagir\n\nLa réaction est une interruption du flux normal du combat. Un protagoniste réagit à un **événement** et dépense des **Réaction s** pour intervenir.\n\nChaque `protagoniste` dispose d'un certain nombre de points de **`Réactions`**,  matérialisés par des cartes nominatives. \nAu début du combat, tous les `protagonistes` récupèrent devant eux, autant de carte **`Réactions`** que leur maximum leur permet. \n\n- la **réaction:** où une équipe effectue une action, hors du flot normal d'initiative (c'est une mécanisme de pile)\n  -> ça peut être le déclenchement d'une action préparée\n  -> ça peut être le déclenchement d'une réaction générique face à un événement prévu par une capacité du personnage (exemple D&D: un déplacement d'un personnage A dans une case contrôlé par un personnage B provoque une attaque d'opportunité de B vers A)\n\n\n## Surprise\n\n> modulo la surprise, qui fait partie du combat, mais pour laquelle l'initiative n'est parfois pas encore lancée\n\n## Ressources\n\nLes ressources utilisables en combat :\n- PV\n- (Lucidité) \n- Action\n- Réaction\n- Réserve de dés",
+          "position": 40960,
+          "trelloShortUrl": "uxiA3U2p"
+        },
+        {
+          "name": "Carte",
+          "fileName": "carte",
+          "description": "# Carte\n\nUne carte est un élément de jeu qui explique un point de règle. Elle représente l'un des éléments suivants :\n\n * Sphère\n * Facette\n * Capacité\n * Affinité\n * Un ou plusieur(s) point(s) d'action(s):\n     > **`1×A°`**\n * Un ou plusieur(s) point(s) de réaction(s):\n     > **`1×R°`**\n * Aide de jeu \n * Aide RP\n\nPhysiquement, elle se matérialise par une carte à jouer. \n\nAfin de favoriser la concision, les cartes utiliseront au maximum, des Mots-clés et des Symboles.",
+          "position": 16768,
+          "trelloShortUrl": "dIbm5ynn"
+        },
+        {
+          "name": "README",
+          "fileName": "readme",
+          "description": "# Le Sphérier\n\nLe Sphérier est un système de jeu de rôle.\nSes règles se veulent les plus simples possible, afin de pouvoir être découpées, et tenir sur une **Carte** à jouer.  \n\n> **Note:**\nJe suis preneur de remarques et suggestions sur la formulation des règles, sur le nommage des cartes et des mots-clés. \n\nPhysiquement, le Sphérier se compose de **Cartes**,  supposées autosuffisantes: chaque carte porte les règles de jeu qui lui sont propres, et s'appliquent au personnage lorsque ce dernier cherche à les utiliser. \n\n> **NB:**\nLes cartes peuvent porter des mots-clés ou des symboles qui font référence à d'autres cartes. \nA priori, à l'exception de la recherche de mots-clés, il n'est pas nécessaire de chercher un point de règle qui n'apparaît pas sur le Sphérier.",
+          "position": 16384,
+          "trelloShortUrl": "9Yfoopo6"
+        },
+        {
+          "name": "Affinité",
+          "fileName": "affinite",
+          "description": "---\ntrello:\n  url: https://trello.com/c/mwxOIKuK\n---\n\n# Affinité\n> **Remarque :**\nAffinité et Compétences fonctionnent sur le même principe. L'**Affinité** est probablement obsolète, mais elle sert aujourd'hui, de ressources de pallier pour débloquer les **Sphères** => Je peux probablement m'en passer. \nFluff: l'**Affinité** représente un niveau de compréhension plus profond, voire innée, alors que les **Compétences** représentent un degré de maîtrise et une progression intellectualisée. \n\n\n~~L'**Affinité** correspond à l'investissement d'un personnage dans un ensemble cohérent de compétences, souvent rassemblées sous un\n**Attribut** donné.~~\n\nLes **Affinités** permettent de débloquer des palliers, donnant ainsi accès à de nouvelles `Sphères`. \n> L'**Affinité** pour un **Attribut** détermine le **Pallier** auquel peut prétendre un personnage, lors du choix des nouvelles **Sphères**.\nL'**Affinité** augmente lors de l'achat des **Facette** d'**Affinité**.\n\nL'**Affinité** est parfois utilisée, pour évaluer la puissance ou l'efficacité de certaines capacités.\n\n*Note/Idée : Affinité(Magie(feu))*\n\nL'**Affinité** s'incrémente en achetant les Facettes appropriées. \n> cf. **[Affinité (Attribut)](https://trello.com/c/7uVj3EL5)**",
+          "position": 38272,
+          "trelloShortUrl": "mwxOIKuK"
+        },
+        {
+          "name": "Capacités",
+          "fileName": "capacites",
+          "description": "# Capacité\n\n> **Paradigme :**\nLes **Capacités** déterminent les **Compétences** qu'un personnage possède, et non l'inverse.\n\nUne **Capacité** est l'aptitude d'un personnage à faire quelque chose. Elle peut être ***passive***, ou ***active***.\n\nUne **capacité passive** applique continuellement ses effets. Souvent une capacité passive ne s'applique qu'au personnage la possédant. \n\nUne **capacité active** demande au moins une **Action** ou une **Réaction**, pour que ses effets s'appliquent. Souvent, les effets d'une capacité active sont limités dans le temps.\n\nUne capacité ne prend effet que dans une **Phase de jeu** donnée.\n\nL'efficacité d'une Capacité est souvent indexée sur son degré de maîtrise, et donc sur les points de la **Compétence** associee.",
+          "position": 37632,
+          "trelloShortUrl": "EUJsvYrZ"
+        },
+        {
+          "name": "Lancer les dés",
+          "fileName": "lancer-les-des",
+          "description": "# Lancer les dés\n\nLe système de jeu n'est pas figé. \nLa carte peut être agnostique du système de règle\n\nLorsque vous avez besoin d’accomplir quelque chose de difficile ou d’extraordinaire, vous devez lancer les dés pour déterminer un résultat.\n\nA chaque fois que vous lancez les dés, vous cherchez à obtenir un résultat suffisant pour égaler ou surpasser un **seuil**, ou  **degré de difficulté** (aka. DD).\nLe mode du calcul du résultat, et le degré de difficulté, dépendent du système de jeu que vous choisissez d'utiliser. \n\nLes deux modes de jeu privilégiés sont :\n- Le d6, s'inspirant des règles de SR5\n- Le d20, s'inspirant des règles de D&D / PF\n\n---\n# d6\n\n> Système SR5 like\n> **A ma préférence**\n\n> **SR5:**\n_Chaque fois que vous lancez les dés, vous cherchez à obtenir assez de succès pour égaler ou surpasser un seuil, qui est le nombre de succès dont vous avez besoin pour faire ce que vous essayez de faire._\n\nPour effectuer un **lancer de dés**, on constitue la **réserve de dé**, qui est le nombre de dés à lancer. Ce nombre est égal au degré de maîtrise de la compétence utilisée pour le lancer, ajusté par les différents modificateurs (bonus et malus).\n\nUn **succès** correspond à un 5 ou un 6 sur le résultat d'un dé. On compare ensuite le nombre de succès au DD, pour déterminer si l'action abouti ou échoue. \n\n> Dégât des armes fixe\n\nLe DD pour une action:\n> **Facile:**               1\n> **Moyenne:**          2\n> **Difficile:**             3\n> **Très difficile:**    4\n\n### Tests et limites\n\n>  **Test de réussite**\n> `[% Dressage %] {MENTALE} (2)`\n> Compétence                  Limite          DD\n> utilisée dans               applicable\n> le test \n\n### Tests opposés\n\n>  **Tests opposés**\n> `[% Dressage %] {MENTALE} [% Dressage %]`\n> Compétence                  Limite          Compétence\n> utilisée dans               applicable         opposée\n> le test \n\n### Tests étendus\n\n> **Réussite de test étendu**\n> `[% Mecanique %] {MENTALE} (10, 1h)`\n> Compétence                    Limite           Score total, \n> utilisée dans                 applicable       Intervalle entre\n> le test                                                       deux tests \n\nA chaque test consécutif, on retire un dé de la réserve. \nUne fois que tous les dés sont retirés, on ne peut plus poursuivre le test. \n\n### Tests d'équipe\n\n>  **Test de réussite**\n> `[% Dressage %] {MENTALE} (2)`\n> Compétence                   Limite         DD\n> utilisée dans                applicable\n> le test\n> **+1 par succès        +1 par assistant avec\n> des assistants            1 succès ou plus**\n\n---\n# 3d6\n\n> Système D&D like\n\nLe lancer de dé se caractérise par un jet de base de 3d6, dont on somme les résultats.  Vous y ajoutez ensuite les différents bonus. \n\nLe DD pour une action:\n> **Facile:**               5\n> **Moyenne:**        10\n> **Difficile:**           15\n> **Très difficile:**   20\n\n### Tests et limites\n### Tests opposés\n### Tests étendus\n### Tests d'équipe\n\n---\n# d20\n\n> Système D&D like. Cest le système que l'on utilise pour jouer à D&D3.5 et Pathfinder.\n\n> _Chaque fois que vous lancez les dés, vous cherchez à obtenir un score suffisant pour égaler ou surpasser un seuil, correspondant au total minimal à atteindre pour réussir ce que vous essayez de faire._\n\n> Dans ce système, le personnage lance 1d20, additionne  son degré de maîtrise dans la compétence utilisée, ses bonus, soustrait ses malus,  puis compare le résultat au degré de difficulté. S'il a plus, son action aboutit,  sinon elle échoue. \n\n> Dégât des armes fixe\n\nLe DD pour une action:\n> **Facile:**               5\n> **Moyenne:**        10\n> **Difficile:**           15\n> **Très difficile:**   20\n\n### Tests et limites\n\n>  **Test de réussite**\n> `[% Dressage %] {MENTALE} (10)`\n> Compétence                  Limite          DD\n> utilisée dans               applicable\n> le test \n\n### Tests opposés\n\n>  **Tests opposés**\n> `[% Dressage %] {MENTALE} [% Dressage %]`\n> Compétence                  Limite          Compétence\n> utilisée dans               applicable         opposée\n> le test \n\n### Tests étendus\n\n> **Réussite de test étendu**\n> `[% Mecanique %] {MENTALE} (50, 1h)`\n> Compétence                    Limite           Score total, \n> utilisée dans                 applicable       Intervalle entre\n> le test                                                       deux tests \n\nA chaque test consécutif, on applique un malus de -1 sur le prochain jet.\nUne fois que tous la somme des malus égale le degré de maîtrise du personnage dans la compétence utilisée, on ne peut plus poursuivre le test. \n> Cf. Artisanat \n\n### Tests d'équipe\n\n>  **Test de réussite**\n> `[% Dressage %] {MENTALE} (2)`\n> Compétence                   Limite         DD\n> utilisée dans                applicable\n> le test\n> **+2 par succès        +1 par assistant avec\n> des assistants            1 succès ou plus**",
+          "position": 17056,
+          "trelloShortUrl": "fyO14sIR"
+        },
+        {
+          "name": "Glossaire",
+          "fileName": "glossaire",
+          "description": "> À pour vocation de référencer les mots-clés, et de les associer à une courte définition ainsi qu'à un lien vers leur carte. \n\n# [Personnage](https://trello.com/c/j5txrEnh) \nProjection d'un joueur dans le jeu.",
+          "position": 17128,
+          "trelloShortUrl": "2sDoyFea"
+        },
+        {
+          "name": "Personnage",
+          "fileName": "personnage",
+          "description": "# Personnage\n\nReprésentation d'un joueur dans le jeu.\nUn personnage est défini par ses :\n\n* **Nom**\n    Un personnage possède un nom. \n* **Santé**\n    La santé d'un personnage correspond à ses points de vie. Un personnage à zéro point de vie tombe inconscient.\n    Un personnage meurt lorsque ses points de vie atteignent le négatif équivalent à sa santé. \n    Chaque personnage commence la partie avec 1 point de vie.\n    > **Note: vies**\n    > Idée de Quentin: les personnages auraient des vies comme à Mario. À zéro, ils consomment une vie mais restent hors combat. Quand Ils n'ont plus de vie, ils meurent. \n* **Sphérier**\n    Le personnage possède un Sphérier, permettant de lister l'intégralité de ses **Capacités**. \n    Le Sphérier, est constitué de **Sphères**, elles-mêmes constituées de **Facettes**. Chaque **Facette** donne accès à une ou plusieurs **Capacité(s)**. Au final, le Sphérier permet de présenter :\n    * [Capacités](https://trello.com/c/EUJsvYrZ)\n    * [Compétences](https://trello.com/c/udzuobSo)\n    * [Attributs](https://trello.com/c/fNGbnjlR)\n    Le Sphérier d'un personnage commence avec ses Capacités Naturelles\n\n\n**Capacité Naturelle** \n\n? Les personnages commencent le jeu avec quelques Capacités Naturelles. (A moins que ce soit proposé sur les cartes de base, mais il faut un moyen pour que les joueurs puissent se défausser sans sanction de la carte initiale)\n\nListe: Attaquer, Esquiver, Se déplacer, Courir, Parler\n## Resources\n\nLes personnages disposent de plusieurs ressources : \n\n- **Santé:** Les **Points de vie**, qui représentent une ressource de combat/scène. \n    > **Lucidité :** Les **Points de vie mentaux** face aux dommages de Stress (dommages mentaux)\n- **Syna:** L'ADN de synthèse, est une ressource d'intermède permettant de progresser sur un Sphérier.\n    > C'est équivalent à des **Points d'expérience**.\n- Les (jetons d')**Affinités**, qui permettent au personnage d'utiliser des actions spéciales\n\n> **Remarque:**\nAppellons \"Point de vie\" des points de vie, et \"Points d'expérience\" des points d'expérience... Ce sera plus clair.",
+          "position": 17152,
+          "trelloShortUrl": "j5txrEnh"
+        },
+        {
+          "name": "Sphérier",
+          "fileName": "spherier",
+          "description": "# Sphérier\n\nLe **Sphérier** est l'arbre des **Capacités** que possède un **Personnage**.\n\nChaque **Sphérier** est constitué de **Sphères**.\n* Une **[Sphère](https://trello.com/c/ZJVIytbL)** contient des **Facettes**.\n* Chaque **[Facette](https://trello.com/c/nNBTIelT)** apporte au personnage, une ou plusieurs :\n    * **[Capacité](https://trello.com/c/EUJsvYrZ)** à faire de nouvelles actions\n    * **[Compétences](https://trello.com/c/udzuobSo)**, c'est à dire une meilleure maîtrise de ses capacités existantes\n    * **[Affinités](https://trello.com/c/mwxOIKuK)** avec un domaine connu\n    > Le personnage progresse dans son Sphérier en achetant des Facettes avec du **Karma**\n\nPhysiquement, le Sphérier se compose de cartes,  supposées autosuffisantes: chque carte porte les règles de jeu, qui lui sont propres, et s'appliquent au personnage lorsque ce dernier cherche à les utiliser. \n\n> **NB:**\nLes cartes peuvent porter des mots-clés ou des symboles qui font référence à d'autres cartes. \nA priori, à l'exception de la recherche de mots-clés, il n'est pas nécessaire de chercher un point de règle qui n'apparaît pas sur le Sphérier.\n\n**Capacité Naturelle** \n\n? Les personnages commencent le jeu avec quelques Capacités Naturelles. (A moins que ce soit proposé sur les cartes de base, mais il faut un moyen pour que les joueurs puissent se défausser sans sanction de la carte initiale)\n\nListe: Attaquer, Esquiver, Se déplacer, Courir, Parler\n\n# Structure\n\nPersonnage == Sphérier\n- Sphère A\n    - Facette 1\n        - Capacité active\n        - Capacité active\n    - Facette 2\n        - Capacité passive\n        - Capacité active\n- Sphère B\n    - Facette B1\n        - Capacité active\n    - Facette B2\n        - Capacité passive\n        - Capacité active",
+          "position": 17920,
+          "trelloShortUrl": "bNZnhEeY"
+        },
+        {
+          "name": "Marge de Succès et d'Échec",
+          "fileName": "marge-de-succes-et-d'echec",
+          "description": "# Marge de Succès\nLorsqu'un **Lancer de Dés** est une réussite, la **Marge de Succès** est la différence entre le résultat du **Lancer de Dés** et le **Degré de Difficulté**.\n\n# Marge d'Échec\nLorsqu'un **Lancer de Dés** est un échec, la **Marge d'Échec** est la différence entre le résultat du **Lancer de Dés** et le **Degré de Difficulté**.",
+          "position": 17104,
+          "trelloShortUrl": "cv6v7Y5J"
+        },
+        {
+          "name": "Compétences | Limite",
+          "fileName": "competences-|-limite",
+          "description": "# Limite\n\nLa **Limite** sur un lancer de dés correspond au plafond de la **Marge de Succès**, qu'il est possible d'obtenir sur ce lancer.\n\nLa Limite sur une **Compétence** est le plafond de la **Marge de Succès** qu'il est possible d'obtenir sur tous les lancers de cette Compétence. . \n\n> **NB:**\nLa **Limite** permet de pallier à un manque d'équilibrage dans le jeu, en limitant la puissance des joueurs par des palliers.\nElle est peut-être amenée à disparaître ; il faut voir comment les joueurs font évoluer leurs personnages avec/sans le plafond de puissance.\n\n> Deux options envisagées :\n> - ( ) Limiter le nombre de dés lancés\n> - (x) Limiter le nombre de succès (cf.SR5)",
+          "position": 38144,
+          "trelloShortUrl": "fJHx3joB"
+        },
+        {
+          "name": "Attributs",
+          "fileName": "attributs",
+          "description": "#  Attributs\nLes **Attributs** sont un moyen de classer les **Sphères**, **Facettes** et **Capacités**, selon des thèmes.\nLes thèmes permettent servent de ligne conductrice pour les différents Gameplay. \n\n~~Un **Attribut** permet de caractériser un personnage, à partir du choix de ses **Facettes**.\nLes **Attributs** servent de thématique conductrice pour créer ou choisir des **Capacités** en lien avec un Gameplay particulier.~~\n\n Un personnage peut avoir une \n**[Affinité](https://trello.com/c/mwxOIKuK)** pour un ou plusieurs attributs.\n\n# Attributs de base\n\nCes Attributs sont disponibles à tous, des le début du jeu. \n\n## [Carrure](https://trello.com/c/JBd25wuh)\n\n## [Agilité](https://trello.com/c/aw5UDhjv)\n\n## [Réactivité](https://trello.com/c/ZcVbZiZL)\n\n## [Intelligence](https://trello.com/c/NUsrM9RG)\n\n## [Perception](https://trello.com/c/grux427F)\n\n## [Ego](https://trello.com/c/kg1pDsAh)\n\n# Attributs spéciaux\n\nCes Attributs nécessitent des prérequis avant de pouvoir être sélectionnés. Ils permettent d'accéder à de nouveaux Gameplays.\n\n## Magie\n\n## Chance\n\n## Audace\n\n## Résonance",
+          "position": 38336,
+          "trelloShortUrl": "fNGbnjlR"
+        },
+        {
+          "name": "Compétences",
+          "fileName": "competences",
+          "description": "# Compétences\n\n> Le degré de maîtrise d'une Compétence reflète l'efficacité à utiliser une Capacité \n\n> Une compétence permet d'effectuer plus efficacement une action\n\nLes compétences reflètent la maîtrise du personnage dans une ou plusieurs `Capacités`.\n\n> **Paradigme :**\nCe sont les **Capacités** qui déterminent les **Compétences** qu'un personnage possède, et non l'inverse.\n\nLes compétences sont au service d'une ou plusieurs capacités. C'est à dire que pour utiliser les points investis dans une compétence, il faut au moins avoir investi dans une capacité (active ou passive) permettant de l'exploiter. \n\n> Une Compétence c'est :\n> - un nom\n> - un degré de maîtrise\n> - une expertise\n\n**A quoi servent les compétences?** A mesurer le degré de réussite/échec lors de la réalisation d'une action **déterminante**, dont la résolution est incertaine.\n\n**Y a-t-il des compétences pour tout?** Non. Beaucoup de capacités ne nécessitent pas de compétence.  Certaines capacités partagent des compétences avec d'autres capacités. Enfin, la liste des compétences n'est pas exhaustive. \n\n**Les compétences font elles partie du combat ou du hors-combat ?** Des deux: les compétences servent les capacités. Les capacités sont \"de combat\" ou \"de hors-combat\".\n\n> Actuellement,  je ne sais pas si je cherche à synergiser le combat et le hors-combat, ou si je laisse deux systèmes indépendants. La synergie me paraît difficile à équilibrer.",
+          "position": 37888,
+          "trelloShortUrl": "udzuobSo"
+        },
+        {
+          "name": "Mots-clés et Symboles",
+          "fileName": "mots-cles-et-symboles",
+          "description": "# Mot clé \nUn mot-clé est un terme clair et précis, qui correspond à une unique définition, ou un unique point de règle.\n\nUn mot clé est défini sur une carte.\nLa carte en question devrait être au plus proche de celui qui l'utilise : elle doit être dans le Sphérier du personnage qui en a besoin. \n\n**Conception du Sphérier**\nLorsqu'un terme utilisé dans un point de règle n'est pas clair, il faut l'expliquer et le définir comme un mot-clé, sur une carte dédiée.\n\n**Glossaire**\nL'ensemble des mots-clés devrait être référencé dans le [Glossaire](https://trello.com/c/2sDoyFea) \n\n# Symbole\n\nUn symbole est l'unique représentation graphique d'un mot-clé.",
+          "position": 16960,
+          "trelloShortUrl": "R9XMDT9T"
+        },
+        {
+          "name": "Phases de jeu",
+          "fileName": "phases-de-jeu",
+          "description": "Les règles cadrent des phases de jeu, et principalement :\n- Le combat\n- Le hors combat\n\n> La majorité des règles ci-dessous sont relatives au combat. Lorsqu'il s'agit de hors combat, cela est précisé dans un encart dédié.\n\n\n# Phases de jeu\n\nLe jeu se divise en plusieurs phases. Chacune se définit par un rythme différent, une temporalité différente. \n\nChaque phase encadre un certain nombre de Capacités.\nCorollaire : chaque capacité ne peut d'utiliser que dans un scope/cadre/phase, spécifique.\n\n### [Combat](https://trello.com/c/uxiA3U2p)\n### [Hors-combat / Intermède](https://trello.com/c/LnGMxpKw)\n### [Roleplay](https://trello.com/c/3waMqLGG)\n### [Hors-jeu](https://trello.com/c/ngRJ4EsD)",
+          "position": 38912,
+          "trelloShortUrl": "PmgRVPin"
+        },
+        {
+          "name": "Types de dégâts",
+          "fileName": "types-de-degats",
+          "description": "# Types de dégâts\n\n## Physiques\nLes dégâts physique sont ceux que les personnage reçoivent le plus couramment. \n\nIls peuvent être :\n- Naturels: perforant, tranchant, contondant\n- D'énergie: feu,  froid, électrique ou acide\n\n> Les dégâts physique font diminuer la **Santé** (cf. **[Vitalité]**).\n> Lorsque la **Santé** atteint zéro, le personnage s'évanoui. \n\n## Étourdissants\n> Uniquement si on joue Lucidité\n\nLes dégâts étourdissants sont moins courants ; ils sont infligés le plus souvent, par du Stress,  des attaques me'tales ou des sorts. \n\n> Les dégâts étourdissants font diminuer la **Lucidité** (cf. **Mental**). \n> Lorsque la **Lucidité** atteint zéro\n> - le personnage devient **Hébété**\n> - les dégâts étourdissants font diminuer les points de vie",
+          "position": 113664,
+          "trelloShortUrl": "fuKip7sp"
+        },
+        {
+          "name": "Jets de sauvegarde",
+          "fileName": "jets-de-sauvegarde",
+          "description": "> J'ai beau tourner le truc dans tous les sens, un système transverse de Jets de sauvegarde est nécessaire. \n\nNaturellement, on va décrire un personnage sur trois axes:\n- Vitalité\n- Vitesse\n- Mental\n\nCes trois axes donnent les trois Jets de sauvegarde.",
+          "position": 130048,
+          "trelloShortUrl": "fLU2ScnK"
+        },
+        {
+          "name": "Facette",
+          "fileName": "facette",
+          "description": "# Facette\n\nUne **Facette** est un des éléments d'une **Sphère**. \nElle porte un nombre indéterminé de `Capacité(s)` et/ou `Affinité(s)`.\n> Elle materialise le choix de l'évolution d'un personnage.\n\nUne Facette peut être débloquée par du **Karma**.\nUne fois la Facette débloquée le personnage bénéficie de tous les `Capacité(s)` et/ou `Affinité(s)` qui y sont mentionnées. \n\n> **NB:**\nTerme proche: Talent.",
+          "position": 22528,
+          "trelloShortUrl": "nNBTIelT"
+        },
+        {
+          "name": "Phases de jeu | Hors-jeu",
+          "fileName": "phases-de-jeu-|-hors-jeu",
+          "description": ">  [Sphérier](https://trello.com/c/9Yfoopo6) > [Phases de jeu](https://trello.com/c/PmgRVPin)\n\n# Hors-jeu",
+          "position": 48128,
+          "trelloShortUrl": "ngRJ4EsD"
+        }
+      ]
+    },
+    {
+      "name": "Sphères | Naturelles",
+      "fileName": "spheres-|-naturelles",
+      "description": "",
+      "position": 76031,
+      "trelloShortUrl": "",
+      "pages": [
+        {
+          "name": "Apprendre (Compétences)",
+          "fileName": "apprendre-(competences)",
+          "description": "# Apprendre (Compétences)\n> **Modèle de Facette** |\n> Capacité passive |\nS'applique à: (**Compétence**)\n\n**Condition**\nLe personnage choisi une **`Compétence`** pour laquelle il ne possède aucun degré de maîtrise. \n\nLe personnage bénéficie de **`+3`** degrés de maîtrise supplémentaires, dans la **`[Compétence]`** choisie.",
+          "position": 88704,
+          "trelloShortUrl": "okzDUbWA"
+        },
+        {
+          "name": "Synergie de Compétences",
+          "fileName": "synergie-de-competences",
+          "description": "# Synergie\n> **Modèle de Facette** |\n> Capacité passive\n> S'applique à: (**Compétence**, **Compétence secondaire**)\nUne Compétence se synergise avec une Compétence secondaire\n\n\nUn jet de **`[Compétence]`** permet d'ajouter les succès à un test de **`[Compétence secondaire]`** . \n\n### d20\n\nUn test de **`[Compétence](15)`** permet d'ajouter +2 à un test de **`[Compétence secondaire]`**, et +2 supplémentaire par tranche de 5 points au dessus du DD.",
+          "position": 68224,
+          "trelloShortUrl": "BkyG3VM2"
+        },
+        {
+          "name": "Attaquer",
+          "fileName": "attaquer",
+          "description": "> # WIP:\n> *@voir:* Découper en plusieurs actions. Exemple: Engager le combat + Porter une attaque\n\n\n# Engager le combat\n\n> Capacité active | Combat |\n> **Coût:** `A°`\n\nPour attaquer au corps à corps, il faut avoir engagé le combat avec son adversaire.\nUne fois que les deux adversaires sont engagés,  ils peuvent tous les deux Attaquer, au corps à corps.\n\n> NB : C'est un malus au départ, pour équilibrer avec les malus de tir à distance.\nCette action peut servir de point d'ancrage à différents Gameplays (Iai, contre de l'engagement, effets supplémentaires lors de l'engagement)\n\n# Attaquer\n\n> Capacité active | Combat |\n> **Coût:** `3xA°` (ou `2xA°` si j'utilise \"Engager\") \n\nLors d'un combat, par une action, le personnage peut porter une attaque.\nPour determiner si l'attaque touche, le personnage effectue un test de :\n> **`[% Compétence %] (DD: <Esquive>)`**\nLa compétence de\ncombat associée \nà l'arme qu'il tient \n\nEn cas de succès, le personnage inflige les dégâts de son arme à son adversaire.\n\n> **SandBox:** \nAu corps à corps, les attaques successives subissent malus de 2, cumulatif.\nA distance, les attaques successives subissent le recul, c'est à dire un malus cumulatif de 1.\n\n> **NB:**\nAttaquer coûtait à 3 Actions pour inciter liées joueurs à faire des actions spéciales (Désarmer, etc)\nSi je ramène l'attaque à 2 Actions, il faut pouvoir équilibrer les actions avec l'attaque afin de ne pas se retrouver à frapper comme un sourd comme à D&D...",
+          "position": 22528,
+          "trelloShortUrl": "WjgJTQTG"
+        },
+        {
+          "name": "Manier les armes (Type d'arme)",
+          "fileName": "manier-les-armes-(type-d'arme)",
+          "description": "# Manier les armes\n\n> **Modèle de Facette** |\n> Capacité passive | Combat |\n\nLe personnage choisi un **`Type d'armes`**. Il sait désormais les utiliser.\n\n* Il bénéficie de **[Apprendre(Armes(Type choisi))](https://trello.com/c/okzDUbWA)**\n* Il bénéficie de **[Expertise (Mineure, Armes(Type choisi))](https://trello.com/c/0EKOzT2h)**",
+          "position": 133760,
+          "trelloShortUrl": "8vrAmkjp"
+        },
+        {
+          "name": "Esquiver en réaction (Compétence)",
+          "fileName": "esquiver-en-reaction-(competence)",
+          "description": "# Esquiver en réaction\n\n> **Modèle de Facette** |\n> Capacité réactive | Combat |\n> **Coût:** `R°`\n> S'applique à: (**Compétence**)\n\nEn réaction à une attaque dont il est la cible, le personnage peut dépenser une `Réaction` pour tenter d'`Esquiver` l'attaque de son adversaire. \n\nIl effectue un jet de **`[Compétence]`** et d'utiliser les succès comme **`<Esquive>`** contre l'attaque en cours.\n\n> voir aussi : \n> - [Esquiver](https://trello.com/c/OUGIeI4Y/118) \n> - [Bloquer](https://trello.com/c/djn43Sx7/51)\n> - [Parer](https://trello.com/c/wZfjrBjI/62)",
+          "position": 38656,
+          "trelloShortUrl": "9hAjhUOs"
+        },
+        {
+          "name": "Bloquer (Compétence)",
+          "fileName": "bloquer-(competence)",
+          "description": "# Bloquer\n\n> **Modèle de Facette** |\n> Capacité réactive | Combat |\n> **Coût:** `R°`\n> S'applique à: (**Compétence**)\n\nEn réaction à une attaque dont il est la cible, le personnage peut dépenser une `Réaction` pour tenter de `Bloquer` l'attaque de son adversaire. \n\nIl effectue un jet de **`[Compétence]`** et d'utiliser les succès comme **`<Esquive>`** contre l'attaque en cours.\n\n> voir aussi : \n> - [Esquiver](https://trello.com/c/OUGIeI4Y/118) \n> - [Esquiver en réaction](https://trello.com/c/9hAjhUOs/159)\n> - [Parer](https://trello.com/c/wZfjrBjI/62)",
+          "position": 53440,
+          "trelloShortUrl": "djn43Sx7"
+        },
+        {
+          "name": "Par défaut",
+          "fileName": "par-defaut",
+          "description": "# Agir par défaut\n\n> Capacité active | Combat |\n> **Coût:** `A°` (variable)\n\nPar défaut, un personnage ne peut pas effectuer d'action qu'il ne connaît pas. Les actions qui se passent de formation, se passent de lancer de dé. \n\nLorsqu'un personnage entreprend une actions facile, pour laquelle il est possible de se passer de formation, et qui nécessité réellement un jet de dé ; alors, la résolution de l'action s'effectue par le lancer de `1d6`.",
+          "position": 21888,
+          "trelloShortUrl": "Jk3jnogk"
+        },
+        {
+          "name": "Grouper les compétences (Compétences)",
+          "fileName": "grouper-les-competences-(competences)",
+          "description": "# Grouper les Compétences (Compétences) \n> Cf. SR5\n> **Modèle de Facette** |\n> Capacité passive |\n> S'applique à: (**Compétences**)\n\nLe personnage groupe les **`Compétences`** de la facette.\n\nCela signifie que le degré de maîtrise de ces **`Compétence`**,  est égal à **`<Affinité (Groupe)>`**\n\n**`<Affinité (Groupe)>`** est égal au nombre de Facettes donnant un bonus dans l'une des compétences du groupe. \n> voir Affinité?",
+          "position": 150144,
+          "trelloShortUrl": "cxiZ5mpO"
+        },
+        {
+          "name": "Se déplacer",
+          "fileName": "se-deplacer",
+          "description": "# Se déplacer\n\n> À reworder: Introduire la **Vitesse** comme compétence\n\n> Capacité active | Combat |\n> **Coût:** `A°`\n\nUne créature animée peut se déplacer.\nElle utilise sa **<Vitesse>** pour déterminer la distance dont elle se déplace en une action (**`1×A°`**), et ce, pour chaque mode de déplacement qu'elle possède. \n\n# Bipède\n\nUn bipède possède un **Déplacement** égal à **`2 × <Vitesse>`**.\n\n\n* **[Expertise(Majeure, Vigueur)](https://trello.com/c/0EKOzT2h)**\n    > **`Limite`** de **6** en **Marche**\n## Marcher\n\nLe mode de déplacement de base pour un bipède. \n\nLorsqu'il marche, un personnage peut se déplacer  d'un nombre de cases égal à **`<Déplacement>`**.\n\n### Courir\nQuant il le décide, un personnage peut adopter la `Posture(Course)`.\nIl bénéficie des modificateurs suivants ; \n\n * Il peut se déplacer de deux fois sa `Vitesse` sur un tour de combat\n * `Posture(Course)` ne se quitte qu'à la fin du combat\n * `Posture(Course)` est cumulable avec les autres `Postures`\n\n### Déplacements spécifiques\nQuand le personnage tente un déplacement spécifique tel que `Sauter` ou `Grimper`.\n- Il dépense 1 case de déplacement, et lance 1d6. En cas de réussite, son déplacement se passe correctement. En cas d'échec, il peut recommencer.\n- Pour des obstacles plus conséquents, il lance 2x autant de d6 que le DD du déplacement à effectuer. \n    - Question: cumul ou reset ?\n    - Cummul: il peut recommencer à lancer autant de 2x dé que de succès restant à obtenir, en malus, il retire un dé par tentative jusqu'à ce qu'il ne puisse plus réussir. \n    - Reset : les succès ne se cumulent pas. Il doit relancer autant de 2x dé que le DD tant qu'il n'obtient pas le bon nombre de succès, en retirant un dé par tentative jusqu'à ce qu'il ne puisse plus réussir.",
+          "position": 21488,
+          "trelloShortUrl": "Lde8ahaS"
+        },
+        {
+          "name": "Expertise (Grade, Compétence) | Limite",
+          "fileName": "expertise-(grade,-competence)-|-limite",
+          "description": "# Expertise (Compétence)\n> **Modèle de Facette** |\n> Capacité passive |\n> S'applique à **(Grade, Compétence)**\n> Porte un Grade:\n> - **Mineure, Novice:** 6\n> - **Intermédiaire, Initié:** 9\n> - **Majeure, Maître:** 12\n\nCette capacité impose une [Limite](#limite) de **`<Grade>`** dans le degré de maîtrise en **`[Compétence]`**.\n\n> Expertise(Compétence) est (wip) \n> - le nombre max de dès qu'il est possible de lancer pour une Compétence donnée\n> - le nombre max de succès qu'il est possible de faire pour une Compétence donnée\n\n> **Modèle du mot-clé:**\n**[Expertise (<Grade>, Compétence)](https://trello.com/c/0EKOzT2h)**\n\n> **Exemples:**\n> - Expertise (Mineure, Discrétion)\n> - Expertise (5, Discrétion)\n> - ~~Expertise (<5>, [Discrétion])~~",
+          "position": 84608,
+          "trelloShortUrl": "0EKOzT2h"
+        },
+        {
+          "name": "Attributs Naturels",
+          "fileName": "attributs-naturels",
+          "description": "# Attributs Naturels\n\nNaturellement, un personnage possède les caractéristiques suivantes :\n* **[Vitalité](https://trello.com/c/MA4KblaG)**\n    > `+3 ` en **[Vigueur]**.\n    > **PV = `5 x <Vigueur>`**\n* **[Se déplacer](https://trello.com/c/Lde8ahaS)**\n   > **VD** = 6 cases\n* **[Agir](https://trello.com/c/ssmJtb4d)**\n    >**Actions** = `5xA°`\n    **[Agir par défaut](https://trello.com/c/Jk3jnogk)**\n* **[Réagir](https://trello.com/c/ZWO9M2ej)**\n    > **Réactions** = 5 R°\n    > `5xR°` => `2xA°` pour attaquer immédiatement\n    **[Éviter une attaque](https://trello.com/c/OUGIeI4Y/)**\n* **[Attaquer](https://trello.com/c/WjgJTQTG)**\n    > **Coût:** `3xA°`\n    > Touche: **`[Compétence]<Esquive>`**\n    > Dégâts = <Arme>\n* **[Aider](https://trello.com/c/tS7cKFJd)**\n    > **Coût:** `?xA°`\n    > `+[Compétence]` au prochain jet de la même Compétence d'un allié",
+          "position": 21248,
+          "trelloShortUrl": "Z91XjoGW"
+        },
+        {
+          "name": "Vitalité",
+          "fileName": "vitalite",
+          "description": "# Vitalité\n\nUne créature vivante est...  Vivante. \nÀ ce titre, elle possède de la force vitale lui permettant d'exister, et d'un instinct de survie lui intimant de rester en vie. \nElle possède les capacités suivantes :\n* **[Apprendre(Vigueur)](###)**\n    > **`+3`** degré de maîtrise, dans la compétence **Vigueur**\n   > **Vigueur** est un ~~**Jet de sauvegarde**~~\n* **[Expertise(Majeure, Vigueur)](https://trello.com/c/0EKOzT2h)**\n    > **`Limite`** de **`<12>`** dans le degré de maîtrise en **Vigueur**.\n* Une Santé de <15> :\n    > **PV = 5 x <Vigueur>`**\n\n> Wording : Vigueur vs. Vitalité\n> Pendant pour le mental? ==> OUI! 😑\n> Voir aussi : **[Endurance](https://trello.com/c/AlqwWdQT)**\n\n> PV\nRef\nVol\nVig\nSang-froid\nJauger les intentions\nMémoire\nSoulever/transporter",
+          "position": 21408,
+          "trelloShortUrl": "MA4KblaG"
+        },
+        {
+          "name": "Mentalité",
+          "fileName": "mentalite",
+          "description": "# Mentalité\n\nUne créature intelligente possède une volonté lui permettant d'agir selon son bon vouloir. \n\nElle possède les capacités suivantes :\n* **[Apprendre(Volonté)](###)**\n   > **+3** en **Volonté**\n   > **Volonté<+3>**\n   > **Volonté** est un ~~**Jet de sauvegarde**~~\n* **[Expertise(Majeure, Volonté)](https://trello.com/c/0EKOzT2h)**\n    > **Limite<12>** en **Volonté**.\n* Une Lucidité de **`<15>`**:\n    > **`LC = 5 x <Volonté>`**\n    > Seulement si on joue Lucidité",
+          "position": 21468,
+          "trelloShortUrl": "XfCgf8L1"
+        },
+        {
+          "name": "Vitesse",
+          "fileName": "vitesse",
+          "description": "# Vitesse\n\nUne créature animée possède une vitesse lui permettant de se déplacer. Elle lui permet aussi de reagir pour se sortir d'une situation périlleuse.\n\nElle possède les capacités suivantes :\n* **[Apprendre(Vitesse)](###)**\n    > **`+3`** degré de maîtrise, dans la compétence **Vitesse**\n   > **Vitesse** est un ~~**Jet de sauvegarde**~~\n* **[Expertise(Majeure, Vitesse)](https://trello.com/c/0EKOzT2h)**\n    > **`Limite`** de **`<12>`** dans le degré de maîtrise en **Vitesse**.\n* **[Se déplacer](https://trello.com/c/Lde8ahaS)**\n    > Une vitesse de déplacement de **`<6>`**:\n    >     **`VD = 2 x <Vitesse>`**",
+          "position": 21448,
+          "trelloShortUrl": "OotuaXk7"
+        },
+        {
+          "name": "Agir",
+          "fileName": "agir",
+          "description": "# Agir\n\nUne créature vivante peut prétendre à agir.\nElle prend sa place dans l'ordre d'initiative, et dispose, lors d'un tour de combat, de :\n* 5 Actions (`A°`)\n\nCes `Action` peuvent être utilisées pour activer n'importe quelle `Capacité` connue du personnage.\n\n## Préparer une action\n\n\n**Terminer une action préparée (variable).** Quand le personnage a préparé une action ou une action évoluée, il effectue cette action dès que son déclencheur s’active. Contrairement à ce qui se passe dans le système standard, cela ne modifie pas sa place dans l’ordre d’initiative. Le sous-type de cette réaction est le même que celui de l’action préparée.",
+          "position": 21568,
+          "trelloShortUrl": "ssmJtb4d"
+        },
+        {
+          "name": "Réagir",
+          "fileName": "reagir",
+          "description": "> Wording à affiner.\n\n# Réagir\n\nUne créature vivante peut prétendre à réagir.\nElle prend sa place dans l'ordre d'initiative, et dispose, lors d'un tour de combat, de :\n* 5 Réaction (`R°`)\n\nCes `Réaction` peuvent être utilisées pour activer n'importe quelle `Capacité de réaction` connue du personnage.\n\nIl n'est possible de `Réagir` que lorsque un adversaire **déclenche** un événement \"de réaction\" permettant au personnage de réagir. \nConditions de déclenchement (à affiner) :\n- Lorsque un adversaire se déplace à proximité du personnage,\n\nSauf mention contraire, un événement de réaction ne permet d'activer qu'une seule capacité de réaction à la fois. \n\n### Réagir de base\n\n> Capacité de réaction  | Combat |\n> **Coût:** `5xR°`\n\n`Réagir` donne au personnage 2 `A°`, à  dépenser immédiatement pour activer une capacité de combat au corps à corps, ciblant uniquement l'adversaire ayant déclenché la réaction. Les `A°` non dépensées sont perdues.\n\n> ~~Alternatif:~~\n> - `Réagir` permet au personnage, de dépenser jusqu'à 2 `A°`, pour activer une capacité de combat, ciblant uniquement l'adversaire ayant déclenché la réaction.\n> - `Réagir` permet au personnage, d'activer gratuitement une capacité de combat, coûtant jusqu'à 2 `A°`, et ciblant uniquement l'adversaire ayant déclenché la réaction.\n\n/**En réponse :** lors du pong. \n**En réaction :** intercalé n'importe quand",
+          "position": 21728,
+          "trelloShortUrl": "ZWO9M2ej"
+        },
+        {
+          "name": "Parer (Compétence)",
+          "fileName": "parer-(competence)",
+          "description": "# Parer\n\n> **Modèle de Facette** |\n> Capacité réactive | Combat |\n> **Coût:** `R°`\n> S'applique à: (**Compétence**)\n\nEn réaction à une attaque dont il est la cible, le personnage peut dépenser une `Réaction` pour tenter de `Parer` l'attaque de son adversaire. \n\nIl effectue un jet de **`[Compétence]`** et d'utiliser les succès comme **`<Esquive>`** contre l'attaque en cours.\n\n> voir aussi : \n> - [Esquiver](https://trello.com/c/OUGIeI4Y/118) \n> - [Esquiver en réaction](https://trello.com/c/9hAjhUOs/159)\n> - [Bloquer](https://trello.com/c/djn43Sx7/51)",
+          "position": 60832,
+          "trelloShortUrl": "wZfjrBjI"
+        },
+        {
+          "name": "Esquiver",
+          "fileName": "esquiver",
+          "description": "# Esquiver\n\n> Capacité passive | Combat |\n> **Coût:** `0xR°`\n\nEn réaction à une attaque dont il est la cible, le personnage peut gratuitement tenter d'`Esquiver` l'attaque de son adversaire. \n\nIl utilise alors **`<Esquive>`** comme score minimum que doit faire l'attaquant à son jet d'attaque, pour toucher et espérer causer des dégâts.\n\nSauf mention contraire, chaque personnage possède:\n* `Esquive`: **1**",
+          "position": 28800,
+          "trelloShortUrl": "OUGIeI4Y"
+        },
+        {
+          "name": "Aider un allié",
+          "fileName": "aider-un-allie",
+          "description": "# Aider un allié\n\n> Capacité active | Combat |\n> **Coût:** `A°`\n\nPar une action, il est possible d'aider un allié à faire une action. On considère que le personnage est un **assistant** de l'allié ciblé, pour un **Test en équipe** sur la prochaine action.\n\n> Voir: [Test en équipe](https://trello.com/c/fyO14sIR/135-syst%C3%A8mes-de-jeu)",
+          "position": 25216,
+          "trelloShortUrl": "tS7cKFJd"
+        },
+        {
+          "name": "Affinité (Attribut)",
+          "fileName": "affinite-(attribut)",
+          "description": "# Affinité (Attribut)\n> **Modèle de Facette** |\n> Capacité passive |\nS'applique à: (**Attribut**)\n\nLe personnage choisi un **`Attribut`**\nLe personnage gagne **`+1`** dans le degré **`<Affinité(Attribut)>`**.\n\n> **NB:**\nLa majeure partie du temps, l'Attribut choisi est imposé par la Facette qui porte cette capacité.",
+          "position": 117376,
+          "trelloShortUrl": "7uVj3EL5"
+        },
+        {
+          "name": "Approfondir (Compétences)",
+          "fileName": "approfondir-(competences)",
+          "description": "> Nommage et wording de la carte pourri\n\n# Approfondir (Compétences)\n> **Modèle de Facette** |\n> Capacité passive |\nS'applique à: (**Compétence**)\n\n**Condition**\nLe personnage choisi une **`Compétence`** pour laquelle il possède au moins un degré dé de maîtrise. \n\nIl bénéficie de **`+3`** degrés de maîtrise supplémentaires, dans la **`[Compétence]`** choisie.\n\nVoir aussi [Apprendre](https://trello.com/c/okzDUbWA), qui est la même chose, avec des conditions différentes.",
+          "position": 92800,
+          "trelloShortUrl": "vvsCl8rH"
+        }
+      ]
+    },
+    {
+      "name": "Outils",
+      "fileName": "outils",
+      "description": "",
+      "position": 71935,
+      "trelloShortUrl": "",
+      "pages": [
+        {
+          "name": "Conception | Criticité",
+          "fileName": "conception-|-criticite",
+          "description": "# Criticité\n* **Confort / Fluff:** Élément de jeu dont les joueurs peuvent se passer\n* **Utile:** Élément de jeu permettant aux joueurs d'avancer plus facilement\n* **Nécessaire:** Élément de jeu dont les joueurs ont ou auront besoin pour progresser\n* **Vital:** On ne peut pas jouer sans",
+          "position": 24576,
+          "trelloShortUrl": "CCPcaDCf"
+        },
+        {
+          "name": "Modèle | Voie",
+          "fileName": "modele-|-voie",
+          "description": "# [Titre du modèle]\n\n> **Rôle:** Anvil/Hammer/Arm\n> **Stratégie:**\n>    - Bruiser/Healer,\n>    - Skirmisher/Zoner\n>    - Sniper/Blocker\n>    - Buffer/Sapper\n>\n> **Objectif :** Capacité(s) cibles de la carte\n\nDescription/Fluff de la carte\n\nFacettes:\n1. **[Facette A](https://trello.com/c/e9Clug3G)**\n    > Capacité de base\n    > ++ en Compétence\n    > <%> Limite\n1. Capacité 1\n1. Capacité 1\n1. Capacité 1+\n1. Capacité complémentaires\n1. Maniement 2",
+          "position": 81920,
+          "trelloShortUrl": "e9Clug3G"
+        },
+        {
+          "name": "Charte lexicale",
+          "fileName": "charte-lexicale",
+          "description": "# Légende\n\n* ~~`(×)` : L'action consomme un jeton d'Affinité.~~\n\n* **`R°`**\nUne réaction\n* **`A°`**\nUne action\n* **`[Compétence]`**\n    Jet de la compétence précisée.\n* **`[Compétence](DD)`**\n    Jet de compétence nécessitant au moins `DD` succès. (DD pour degré de difficulté).\n* **`[Compétence][Compétence du defenseur]`**\n    Jets de compétence opposés.\n*  **`<Compétence>`**\n    Valeur brute de la Compétence\n\nIdées :\n> **+3** en **Volonté**\n> **Volonté<+3>**\n> **Limite<12>** en **Volonté**.",
+          "position": 20480,
+          "trelloShortUrl": "RZcZVeUY"
+        },
+        {
+          "name": "Conception | But d'une carte",
+          "fileName": "conception-|-but-d'une-carte",
+          "description": "> **Punchline:** Spécialiser la carte avec son but\n\nPour qu'une carte soit utile, il faut que:\n- Elle soit autosuffisante en terme de capacité utile\n- Elle vienne compléter des capacités déjà existantes\n\nPour qu'une carte soit autosuffisante, il faut savoir quel rôle elle aide à remplir dans le combat. \n- Rôle: Anvil/Hammer/Arm\n- Stratégie: \n    - Bruiser/Healer,\n    - Skirmisher/Zoner\n    - Sniper/Blocker\n    - Buffer/Sapper",
+          "position": 30720,
+          "trelloShortUrl": "5fX68UuN"
+        },
+        {
+          "name": "Conception | Table de Scaling de Puissance",
+          "fileName": "conception-|-table-de-scaling-de-puissance",
+          "description": "# Table d'échelle de puissance\nCorrespondance de scaling entre les puissances :\n```\n|  n | 2n-1 | n(n+1)/2 |  n2 |\n|  1 |    1 |        1 |   1 |\n|  2 |    3 |        3 |   4 |\n|  3 |    5 |        6 |   9 |\n|  4 |    7 |       10 |  16 |\n|  5 |    9 |       15 |  25 |\n|  6 |   11 |       21 |  36 |\n|  7 |   13 |       28 |  49 |\n|  8 |   15 |       36 |  64 |\n|  9 |   17 |       45 |  81 |\n| 10 |   19 |       55 | 100 |\n| 11 |   21 |       66 | 121 |\n| 12 |   23 |       78 | 144 |\n```\n# Évolution des capacités\n\n- Capacité mineur\nPermet de faire un truc, 1 fois\n- Évolution 1\nAjouter d'une compétence\nPermet de faire un truc [Compétences] fois\n- Évolution 2\nLe jet de [Compétences] permet de déterminer la puissance sur la table précédente\n- Compétence 2\nAméliorer la Compétence\nAméliorer la limite",
+          "position": 28672,
+          "trelloShortUrl": "YlhXrgLv"
+        },
+        {
+          "name": "Liens Utiles",
+          "fileName": "liens-utiles",
+          "description": "- Espace de travail Notions (obsolète): https://www.notion.so/spherier/\n- Repertoire de sauvegarde GitHub: https://github.com/de-dale/spherier\n- Présentation GitHub : https://de-dale.github.io/spherier\n- Présentation GitBook:\nhttps://de-dale.gitbook.io/spherier",
+          "position": 16384,
+          "trelloShortUrl": "md24AukU"
+        },
+        {
+          "name": "Méthode | Tester une Capacité",
+          "fileName": "methode-|-tester-une-capacite",
+          "description": "# Encounters / ABTesty\n\nSoit une nouvelle capacité à tester.\n\nDeux points de vues sur la capacité :\n- Un ou plusieurs PJ(s) possèdent la/les capacités à tester face à une rencontre de référence\n- Les PJ(s) rencontrent un ou plusieurs Mobs avec la/les capacités à tester\n\nPour collecter un meilleur feed-back, éviter de faire les deux en même temps.\n\n## Rencontre de référence\n\nPrévoir des rencontres de référence, avec différentes conditions :\n\n- Des rencontres types\n- Des rencontres où la capacité est avantagée\n- Des rencontres où la capacité est désavantagée\n- équipe avec/sans la capacité est avantagée/désavantagée\n\n> Axes des conditions :\n> - Capacité avantagée/désavantagée\n    Par le nombre d'opposants\n    Par des forces/faiblesses spécifiques\n    Par le terrain\n> - Équipe avantagée/désavantagée\n    Par le nombre\n    Par la différence de puissance\n    Par des blessures\n\n# Rapport et conséquences\n\nIl faut pouvoir tracer ce qui a été testé, ce qui a marché/moins bien marché, ce qui s'est bien passé et ce qu'il faut améliorer. \nÉgalement : ce qu'il restera dans les règles.\n\nTracer :\n- Qu'est ce qui a été testé? Dans quelles conditions? \n- Qu'est ce qui a bien/moins bien fonctionné ? Pourquoi? \n- Qu'est ce que les joueurs ont aimé? Qu'est-ce qui les à frustré? Pourquoi? \n- Qu'est ce qu'il faut garder?  Qu'est-ce qu'il faut améliorer? \n- Qu'est ce que l'on garde dans les règles? \n\n# Aller plus loin \n> Récupérer les méthodes de Machine Learning et les adapter pour le cas d'utilisation.",
+          "position": 32768,
+          "trelloShortUrl": "P1CYwbGs"
+        },
+        {
+          "name": "Modèle | Sphère en ASCII",
+          "fileName": "modele-|-sphere-en-ascii",
+          "description": "# Sphère\n\n```\n*******/ \\*********/ \\*********/ \\*************\n*****/     \\*****/     \\*****/     \\***********\n***/         \\*/         \\*/         \\*********\n**|           |           |           |********\n**|           |           |           |********\n**|           |           |           |********\n***\\         / \\         / \\         / \\*******\n*****\\     /     \\     /     \\     /     \\*****\n*******\\ /         \\ /         \\ /         \\***\n********|           |           |           |**\n********|           |           |           |**\n********|           |           |           |**\n*******/ \\         / \\         / \\         /***\n*****/     \\     /     \\     /     \\     /*****\n***/         \\ /         \\ /         \\ /*******\n**|           |           |           |********\n**|           |           |           |********\n**|           |           |           |********\n***\\         / \\         / \\         / \\*******\n*****\\     /     \\     /     \\     /     \\*****\n*******\\ /         \\ /         \\ /         \\***\n********|           |           |           |**\n********|           |           |           |**\n********|           |           |           |**\n*********\\         /*\\         /*\\         /***\n***********\\     /*****\\     /*****\\     /*****\n*************\\ /*********\\ /*********\\ /*******\n\n```",
+          "position": 49152,
+          "trelloShortUrl": "2aGEm1E7"
+        }
+      ]
+    },
+    {
+      "name": "Sphères | Perception",
+      "fileName": "spheres-|-perception",
+      "description": "",
+      "position": 155647,
+      "trelloShortUrl": "",
+      "pages": [
+        {
+          "name": "Intuition",
+          "fileName": "intuition",
+          "description": "# Excédent de dégâts\n\n> Capacité passive | Combat |\n> Compétence/Maîtrise: ?\n> Affinité: Perception\n> Posture\n\nDonne un bonus d'esquive de +1.",
+          "position": 184320,
+          "trelloShortUrl": "lWwsJS5m"
+        },
+        {
+          "name": "Prémonition mineure",
+          "fileName": "premonition-mineure",
+          "description": "# Prémonition mineure\n\n> Capacité passive | Combat |\n> Compétence/Maîtrise: ?\n> Affinité: Perception\n\nDonne +1d6 à l'initiative. Les dés d'initiative ne peuvent pas excéder 5d6.",
+          "position": 200704,
+          "trelloShortUrl": "sm441uDL"
+        },
+        {
+          "name": "Avoir un pressentiment",
+          "fileName": "avoir-un-pressentiment",
+          "description": "# Avoir un pressentiment\n\n> TODO\n> Depuis: D&D, Unchained \n\n> Capacité passive | Interlude au RP |\n\nLe personnage peut analyser de manière instinctive une situation sociale en réussissant un test de Perception DD 20. Il peut ainsi sentir que quelque chose ne va pas ou éprouver une sensation de malaise lorsqu’il interagit avec un imposteur, ou bien sentir que quelqu’un est digne de confiance. Il n’obtient pas pour autant d’informations détaillées. Utilisez la fonction détecter les mensonges quand le personnage tente de déterminer si une affirmation particulière est un mensonge (voir page 63).Action. Une minute.",
+          "position": 217088,
+          "trelloShortUrl": "vCk355jF"
+        },
+        {
+          "name": "Perception | Description",
+          "fileName": "perception-|-description",
+          "description": "# Perception\n\nLa Perception est la capacité du personnage à utiliser tous ses sens pour appréhender et anticiper son environnement. Elle marque la capacité à suivre ses instincts, à faire confiance à ses tripes et à évaluer sur le vif.\n\n### Mots-clés\n\nSens, Détection, Intuition, Instinct, Prescience, Initiative, Précision, Empathie\n\n### Exemples de Gameplay\n\n* Tir de precision: Utilise tous ses sens pour abattre ses ennemis de loin\n* Lecture des pensées: Anticipe les actions d'un adversaire au corps à corps pour éviter tous ses coups et placer les siens",
+          "position": 8192,
+          "trelloShortUrl": "grux427F"
+        },
+        {
+          "name": "Ajuster",
+          "fileName": "ajuster",
+          "description": "# Ajuster\n\n> Capacité active | Combat |\n> **Coût:** `A°`\n\nChaque action `Ajuster` octroie un modicateur de +1 dé à la réserve de dés lors du test d’attaque.\n\nIl est possible de cumuler plusieurs actions ajuster successives, mais les bénéfices sont perdus si le personnage effectue n’importe quelle autre action (actions gratuites incluses) avant d’attaquer. \n\nLes actions ajuster peuvent être étendues sur de multiples phases d’action et tours de combat.",
+          "position": 40448,
+          "trelloShortUrl": "EPDQoQPW"
+        },
+        {
+          "name": "Trouver les faiblesses",
+          "fileName": "trouver-les-faiblesses",
+          "description": "",
+          "position": 249856,
+          "trelloShortUrl": "5eFwZtaX"
+        },
+        {
+          "name": "Fouiller",
+          "fileName": "fouiller",
+          "description": "# Fouiller\n\n> TODO\n> Depuis: D&D, Unchained \n> Action. Action de mouvement. \n> Chacune de ces actions permet au personnage de fouiller une zone de 3 mètres de côté.\n> Nouvelles tentatives. Oui.\n\n> Capacité active | Hors-Combat |\n> **Coût:** `n/a`\n> TODO: pas encore géré ces compétences hors-combat\n\nLe personnage peut fouiller minutieusement une zone à la recherche de pièges et de portes secrètes, entre autres. On applique les mêmes modificateurs au DD de ces tests de Perception qu’à la fonction détecter la présence de créatures et autres détails (ci-dessus).\n\nObjet caché DD du test de PerceptionTrouver une porte moyennement bien dissimulée 15Trouver une porte secrète 20moyennement bien conçue  Trouver un piège Variable en fonction du piège",
+          "position": 233472,
+          "trelloShortUrl": "HajyGEoz"
+        },
+        {
+          "name": "Ajuster (Facette)",
+          "fileName": "ajuster-(facette)",
+          "description": "# Ajuster\n\n> Facette\n> Plafond de maîtrise: 3\n\nDonne accès à l'action `Ajuster`. https://trello.com/c/EPDQoQPW/54-ajuster \n\nLe bonus octroyé par les actions `Ajuster` successives, est plafonné à 3.",
+          "position": 31744,
+          "trelloShortUrl": "Zucnss4M"
+        },
+        {
+          "name": "Relancer d'initiative",
+          "fileName": "relancer-d'initiative",
+          "description": "# Relancer l'initiative \n\n> Capacité active | Combat |\n> **Coût:** `Affinité(Reaction)`\n\nEn consommant une Affinité de Réaction,  le joueur peut relancer son initiative.",
+          "position": 167936,
+          "trelloShortUrl": "ErBZZuz5"
+        }
+      ]
+    },
+    {
+      "name": "Sphères | Agilité",
+      "fileName": "spheres-|-agilite",
+      "description": "",
+      "position": 98303,
+      "trelloShortUrl": "",
+      "pages": [
+        {
+          "name": "Faire feu (coup par coup)",
+          "fileName": "faire-feu-(coup-par-coup)",
+          "description": "# Faire feu\n\n> Capacité active | Combat |\n> **Coût:** `A°`\n\nFaire feu se résoud par un test de [Compétence de combat]. En cas de succès, vous infligez les dégâts de votre arme.\n\nLes armes coups par coup ne subissent pas le `Recul` mais empêchent de tirer une seconde fois dans la même phase d'actions.",
+          "position": 172032,
+          "trelloShortUrl": "MAkoyLw4"
+        },
+        {
+          "name": " Agilité | Description",
+          "fileName": "-agilite-|-description",
+          "description": "# Agilité\n\nL'agilité traduit la capacité du personnage à maîtriser son corps, et le contrôler comme bon lui semble. Elle se manifeste par la réalisation de mouvements fluides, des enchaînements d'actions complexes, et une efficacité accrue de toute action physique. Elle traduit auusi la precision des mouvements précautionneux, comme se déplacer dans son environnement sans le perturber, déplacer délicatement de petits objets, ou rester parfaitement immobile. \n\n### Mots-clés\n\nCoordination, Souplesse, Équilibre, Vitesse, Harmonie, Délicatesse\n\n### Exemples de Gameplay\n\n- Danseur: Très mobile, il a besoin de bouger pour attaquer. Il est très bon pour affaiblir de nombreux ennemi inaccessible.\n- Ambidextre : une arme dans chaque main, il multiplie les enchaînements sur un unique adversaires.\n- Spadassin: Une arme, un adversaire,  excellent en duel, il enchaîne sa cible et esquive proprement\n- Ombre: Vif, surprenant, inattendu, patient, il excelle pour se dissimuler de don adversaire, et lui porter un coup en traître avant de retourner se cacher",
+          "position": 8192,
+          "trelloShortUrl": "aw5UDhjv"
+        },
+        {
+          "name": "Acrobate",
+          "fileName": "acrobate",
+          "description": "#  Acrobate\n\n> Facette |\n\nLe personnage sait exploiter toute la souplesse de son corps pour éviter les attaques. \n\n* **[Apprendre(Acrobatie)](https://trello.com/c/okzDUbWA)**\n    > **`+3`** degré de maîtrise, dans la compétence **`[Acrobatie]`**.\n* **[Expertise(Mineure, Acrobatie)](https://trello.com/c/0EKOzT2h)**\n    > **`Limite`** de **`<6>`** dans le degré de maîtrise en **`[Acrobatie]`**.\n* Tant qu'il a un bouclier en main, il est capable d'utiliser **[Esquiver en réaction(Acrobatie)](https://trello.com/c/9hAjhUOs)**\n    > Réaction:\n    > 1xR° => **`[Acrobatie]`** en **`<Esquive>`**",
+          "position": 13696,
+          "trelloShortUrl": "ZDIlfLQ5"
+        },
+        {
+          "name": "Créer une diversion",
+          "fileName": "creer-une-diversion",
+          "description": "# Créer une diversion\n\n> TODO\n> Depuis: D&D, Unchained \n> Action. Action simple.\n> Nouvelles tentatives. Oui.\n\n> Sphère: **Furtivité**\n> Capacité active | Combat |\n> **Coût:** `A°`\n\nPar une actions, le personnel met [Bluff] marqueurs diversion sur l'adversaire ciblé. \n\nCes marqueurs distraction peuvent être utilisé pour réduire l'attaque / augmenter les dégâts causés par le personnage.",
+          "position": 16936,
+          "trelloShortUrl": "fn33Prj0"
+        },
+        {
+          "name": "Recharger",
+          "fileName": "recharger",
+          "description": "# Recharger\n\n> Capacité active | Combat |\n> **Coût:** `A°`\n\n### Retirer un chargeur\nUn personnage peut retirer un chargeur d'une arme prête. Une seconde action simple est nécessaire pour prendre un chargeur plein et l'enficher dans l'arme.\n\n### Insérer un chargeur\nUn personnage peut insérer un chargeur dans une arme à feu prête en une action simple, uniquement après avoir éjecté l'ancien chargeur",
+          "position": 178176,
+          "trelloShortUrl": "xKef8DkL"
+        },
+        {
+          "name": "Tir en rafale",
+          "fileName": "tir-en-rafale",
+          "description": "# Tir en rafale\n\n> Capacité active | Combat |\n> **Coût:** `A°`\n\nUn tir en rafale permet de tirer trois balles sur une cible unique. Cela confère un bonus de 1d6 à l'attaque.\n\nAprès chaque attaque, on augmente le `Recul` du nombre de balles tirées.",
+          "position": 245760,
+          "trelloShortUrl": "7MrFQWUQ"
+        },
+        {
+          "name": "Ambidextrie",
+          "fileName": "ambidextrie",
+          "description": "# Ambidextrie\n\n> Capacité passive | Combat |\n> Compétence/Maîtrise: ?\n> Affinité: Agilité\n\nPermet d'ignorer jusqu'à `<Affinité(Agilité)>` malus à la main non-directrice, dans le cas d'une attaque à plusiuers armes.",
+          "position": 147456,
+          "trelloShortUrl": "STfqB5Vd"
+        },
+        {
+          "name": "Faire feu (semi)",
+          "fileName": "faire-feu-(semi)",
+          "description": "# Faire feu\n\n> Capacité active | Combat |\n> **Coût:** `A°`\n\nFaire feu se résoud par un test de [Compétence de combat]. En cas de succès, vous infligez les dégâts de votre arme.\n\nAprès chaque attaque, on augmente le `Recul` du nombre de balles tirées.",
+          "position": 176128,
+          "trelloShortUrl": "gYbpppJJ"
+        },
+        {
+          "name": "Tir en rafale longue",
+          "fileName": "tir-en-rafale-longue",
+          "description": "# Tir en rafale longue\n\n> Capacité active | Combat |\n> **Coût:** `A°` `A°`\n\nUn tir en rafale longue permet de tirer six balles sur une cible unique, ce qui confère un bonus de 2d6 à l'attaque.\n\nSi le personnage peut faire des attaques multiples, il est possible de tirer sur deux cibles côtes à côtes. Dans ce cas, pour chaque cible, le personnage bénéficie du bonus du `Tir en rafale`.\n\nAprès chaque attaque, on augmente le `Recul` du nombre de balles tirées.",
+          "position": 311296,
+          "trelloShortUrl": "ZaXnkKqd"
+        },
+        {
+          "name": "Pas léger",
+          "fileName": "pas-leger",
+          "description": "# Pas léger\n\n> Facette |\n\nPermet au personnage d'accroitre sa vitesse de déplacement d'une case par degré de maîtrise.\n\n* **[Apprendre(Course)](https://trello.com/c/okzDUbWA)**\n    > **`+3`** degré de maîtrise, dans la compétence **`[Course]`**.\n* **[Expertise(Mineure, Course)](https://trello.com/c/0EKOzT2h)**\n    > **`Limite`** de **`<6>`** dans le degré de maîtrise en **`[Course]`**.\n* Le personnage voit sa **`<Vitesse>`** de déplacement augmenter de **`1`**\n* Tant qu'il a un bouclier en main, il est capable d'utiliser **[Esquiver en réaction(Acrobatie)](https://trello.com/c/9hAjhUOs)**\n    > Réaction:\n    > 1xR° => **`+[Course]`** en **`<Vitesse>`**\n\nVoir également :\n- [Se déplacer](https://trello.com/c/Lde8ahaS/)",
+          "position": 15424,
+          "trelloShortUrl": "EdzMgFIW"
+        },
+        {
+          "name": "Discrétion étendue",
+          "fileName": "discretion-etendue",
+          "description": "# Discrétion\n\n> TODO\n> Depuis: D&D, Unchained \n> Connaissances étendues \n\nLorsqu’il possède le nombre de rangs indiqués en Discrétion, le personnage acquiert les avantages suivants.\n\n5 rangs. Le personnage subit un malus de -10 seulement au test de Discrétion quand il effectue un tir embusqué.\n\n10 rangs. Les malus aux tests de Discrétion appliqués quand le personnage se déplace rapidement sont diminués de moitié, y compris celui de l’extension à 5 rangs, quand il se déplace à sa vitesse de déplacement normale et quand il crée une diversion pour se cacher.\n\n15 rangs. Si le personnage attaque après avoir utilisé la compétence de Discrétion avec succès, sa cible est privée de son bonus de Dextérité contre toutes les attaques que le personnage lui porte avant la fin de son tour à lui.\n\n20 rangs. Si le personnage attaque après avoir utilisé la compétence de Discrétion avec succès, sa cible est privée de son bonus de Dextérité contre toutes les attaques que le personnage lui porte avant le début de son prochain tour à lui.",
+          "position": 17044,
+          "trelloShortUrl": "NNXC6kU0"
+        },
+        {
+          "name": "Maîtrise des modes de tir",
+          "fileName": "maitrise-des-modes-de-tir",
+          "description": "# Maîtrise des modes de tir\n\n> Facette\n\nDonne au personnage l'accès aux différents modes de tir autorisés par son arme : \n\n* Coup par coup\n* Semi-automatique\n* Tir en rafale\n* Tir en rafale longue\n* Tir automatique",
+          "position": 167936,
+          "trelloShortUrl": "qAzbZCOT"
+        }
+      ]
+    },
+    {
+      "name": "Idées en vrac",
+      "fileName": "idees-en-vrac",
+      "description": "",
+      "position": 65535,
+      "trelloShortUrl": "",
+      "pages": [
+        {
+          "name": "Achievments",
+          "fileName": "achievments",
+          "description": "Faire faire un vote aux joueurs pour déterminer qui est le meilleur truc ou bidule.",
+          "position": 81920,
+          "trelloShortUrl": "A8EkQ4R0"
+        },
+        {
+          "name": "Découper Attaquer en Engager + Mettre un attaque",
+          "fileName": "decouper-attaquer-en-engager-+-mettre-un-attaque",
+          "description": "",
+          "position": 270336,
+          "trelloShortUrl": "jnjhFnbt"
+        },
+        {
+          "name": "Réaction: Pool de 5 + Coût élevé",
+          "fileName": "reaction:-pool-de-5-+-cout-eleve",
+          "description": "",
+          "position": 7168,
+          "trelloShortUrl": "KaBt0kvh"
+        },
+        {
+          "name": "Conception | Actions | Liste des actions",
+          "fileName": "conception-|-actions-|-liste-des-actions",
+          "description": "Consiste a lister toutes les actions disponibles facs le Sphérier. \n\n- Semble trop coûteux avant la realisation\n- A industrialiser à partir du Sphérier avancé\n\n-> Possible à faire à partir de l'API Trello",
+          "position": 49152,
+          "trelloShortUrl": "safONkIy"
+        },
+        {
+          "name": "Synergie: Faire des Sets de dons comme des Sets d'objets.",
+          "fileName": "synergie:-faire-des-sets-de-dons-comme-des-sets-d'objets.",
+          "description": "",
+          "position": 4096,
+          "trelloShortUrl": "3DeM8Hnt"
+        },
+        {
+          "name": "CréerImage d'une GemStone",
+          "fileName": "creerimage-d'une-gemstone",
+          "description": "http://tutvid.com/adobe-illustrator-tutorials/create-polygon-geometric-gemstone-illustrator-cc/",
+          "position": 147456,
+          "trelloShortUrl": "N9ylyQZc"
+        }
+      ]
+    },
+    {
+      "name": "Sources",
+      "fileName": "sources",
+      "description": "",
+      "position": 70655,
+      "trelloShortUrl": "",
+      "pages": [
+        {
+          "name": "Sources | Document de référence | Sphères",
+          "fileName": "sources-|-document-de-reference-|-spheres",
+          "description": "Fichiers de référence sur le Sphérier.\n\nActuellement, bac à sable pour initier les concepts à partir d'autres jeux.",
+          "position": 16384,
+          "trelloShortUrl": "S6y0QT0G"
+        },
+        {
+          "name": "Sources | Attributs | Liste des Attributs",
+          "fileName": "sources-|-attributs-|-liste-des-attributs",
+          "description": "Listes des Attributs venants d'autres jeux.",
+          "position": 65536,
+          "trelloShortUrl": "VPUbLLPh"
+        },
+        {
+          "name": "Sources | Actions | Idées Sharah",
+          "fileName": "sources-|-actions-|-idees-sharah",
+          "description": "Idées lancées sur #sphérier:\n\n> Attaquer : En dépensant le nombre d'action indiqué sur la compétence d'attaque de l'arme, vous attaquez une cible dans la portée de l'arme. pour cela lancez 1d6+compétence de combat. Si vous touchez la cible, vous lui infligez un nombre de points de dégats égaux à ceux indiquez sur l'arme + les dégâts supplémentaires dont vous bénéficiez.\n\n> Epée :\nCoup normal : 1 action / Portée : 1 case / Dégâts 1d6\nCoup tranchant :  actions / Portée : 1 cases / Dégâts : 1d6 / Spécial : touche jusqu'à 3 créatures adjactentes à portée\nArc :\nCoup normal : 1 action / portée : 10 case / Dégâts : 1d6\nTir en cloche : 2 actions / portée 10-30 cases / Dégâts : 3d6\n\n> Coup puissant : Votre coup normal coûte 1 action de plus et inflige 2 fois les dégâts de l'arme.\n\n> Attaque au loin : La portée maximale de vos armes augmente de 1 case par tranche de 5 cases de portée dont elle bénéficie déjà.",
+          "position": 81920,
+          "trelloShortUrl": "eVumaZot"
+        },
+        {
+          "name": "Source | Angry | Eight Monsters strategies",
+          "fileName": "source-|-angry-|-eight-monsters-strategies",
+          "description": "> [In With the Old: Transparency, Design Rationales, and Monster Building](https://theangrygm.com/in-with-the-old-transparency-design-rationales-and-monster-building) \n\nWhich is just fine because D&D is an interactive storytelling game. But you can’t forget that second part. It’s an interactive storytelling GAME. A story archetype is a good starting point for character creation, but ultimately the archetype also has to serve a design purpose.\nWhen you designed a new class, you had to come up with three things: an **archetype** for what the class WAS in the story, the **power source** from which the class derived it’s abilities, and the **role** that the character would play in combat.\n\n\n- Bruisers \n- Snipers \n- Skirmishers \n- Sappers \n- Healers \n- Zoners \n- Blockers \n- Buffers\n\nAnyway, my eight strategies so far.\n\n**Bruisers** are offensive monsters that overpower PC defenses. They have some way of punching through defenses, either by boosting their attack roll or by boosting their damage roll. A lone bruiser is the sort of monster that sets up a combo action. For example, a creature that relies on an ambush attack (which grants bonus damage) is a good example of a bruiser. Group bruisers might be the sorts of creatures that get a bonus to attacks or damage or both when they team up with adjacent allies. Or they might be the sort of monster that grants allies bonuses to attack and damage. That would also be a bruiser strategy, since it is increasing the overall damage of the enemy party to overpower PC defenses. Notice, though, that bruisers aren’t simply creatures with high attack rolls and/or high damage. That’s not a strategy. It’s a stat. And besides, there is nothing interesting about a monster whose only trick is “dealing damage.” That said, of all the offensive monsters, bruisers probably deal the most damage with their basic attacks.\n\n**Snipers** and **Skirmishers** are closely related offensive monsters that specialize in putting damage right where they want it. Snipers rely on ranged attacks which allow them to target distant enemies. Skirmishers are able to avoid, outmaneuver, or disengage from PCs in order to reach priority targets. Both rely on taking out soft or dangerous targets, like squishy PC wizards, healers, or ranged attackers. Lone snipers and skirmishers NEED a defensive strategy to survive long.\n\n**Sappers** are offensive monsters that focus on reducing enemy defenses somehow. They might spit acid that destroys armor or they might curse someone to reduce their saving throws. Lone sappers would probably be combo monsters. They would use one action to knock down a foe, for example, and then the next action would take advantage of the prone foe’s reduced defenses. In fact, lone sappers would be ideal for a second offensive strategy. Set them up then knock them down.\n\n**Healers** should only be used rarely. Healers are defensive monsters that specialize in undoing the progress that the PCs have made. And THAT sucks. Seriously. Given the choice between overcoming 5 HP of damage reduction and watching a monster heal 5 HP of damage, most players would prefer the damage reduction. Healing feels like you’re robbing them of progress. Still, it is a viable strategy for a particularly hateful monster and it does drive strategic thinking (take out the healer first). Healing can include self-healing, regeneration, life drain, or clerical magic. Healers are basically the opposite of Bruisers.\n\n**Zoners** and **Blockers** are bother closely related and exist in the opposite space as Skirmishers and Snipers. Both essentially exist to remove offensive options. Zoners can control movement. They can lock foes down, push them around, slow them down, or create areas of dangerous or difficulty terrain in order to keep the PCs from reaching the prime targets or from escaping the most dangerous offensive monsters. Blockers hamper or control enemy targeting. They might absorb attacks for adjacent allies, they might impose penalties on attacking certain targets, they might use taunts, oaths, or other forced targeting mechanics, and so on.\n\nFinally, **Buffers** serve as the counterpoint to Sappers. Buffers increase their own or their allies’ defenses in some way. They might grant armor bonuses to adjacent allies, they might give temporary hit points (which aren’t the same as healing), or they might grant resistances to specific types of damage, or they might somehow provide cover.",
+          "position": 114688,
+          "trelloShortUrl": "QbO9N8Eg"
+        },
+        {
+          "name": "Sources | Règles Magic",
+          "fileName": "sources-|-regles-magic",
+          "description": "Lien officiel :\nhttps://media.wizards.com/2014/docs/FR_M15_QckStrtBklt_LR_Crop.pdf",
+          "position": 131072,
+          "trelloShortUrl": "OYnLY3RH"
+        },
+        {
+          "name": "Source | ToG: Positions",
+          "fileName": "source-|-tog:-positions",
+          "description": "https://towerofgod.fandom.com/wiki/Position\n\n- FISHERMAN\n    Directly attack the enemies\n- SCOUT\n    Swiftly move and gather information, help Fisherman\n- SPEAR BEARER\n    Use spears to attack from long to short range\n- LIGHT BEARER\n    Observe the field and convey information\n- WAVE CONTROLLER\n    Manipulate Shinsoo to control the flow of battle\n\n\nThere are five basic positions in a common team.[4]\n\n- Fisherman (낚시꾼, nakksikkun; \"Angler\")\n    The main offence of the battle, Fishermen are to dash into the heart of the enemy force and decimate their forces, usually through physical attacks.\n\n- Spear Bearer (창지기, 搶지기; \"changjigi\" or \"Spear Keeper\")\n    Spear Bearers act like snipers for the team, throwing their spears with deadly accuracy, but they can also serve a purpose similar to the Fisherman's by using their spear like a staff for close-combat. Technically speaking, they take all long-range matters into their own hands.\n- Scout (탐색꾼, 探索꾼; \"tamsaegkkun\" or \"Observer\")\n    Scouts will usually run ahead and investigate enemy forces for info, then return and deliver the information to the Light Bearers. They also help the Fishermen with offence.\n- Light Bearer (등대지기, 燈臺; \"deungdaejigi\" or \"Lighthouse Keeper\")\n    Light Bearers store and deliver knowledge to their team-mates while guiding them with the light of their Lighthouse.\n- Wave Controller (파도잡이, 波濤잡이; \"padojabi\" or \"Waver\")\n    Wave Controllers are the directors of the battle, aiding their comrades by healing their wounds, annihilating enemy forces or subtly changing the tide of the battle, all through the use of Shinsoo. There are many variations of this Position.\n\nSpecial Positions\n\n- **Guide** (길잡이, giljab'i; \"Pathfinder\" or \"Assistant\")\n    The Guide is considered a Special Position, but it doesn't seem to be a variation of a main Position. Guides lead the way for the team, they also have excellent analysis skills. It is a very rare Position and they are considered \"blessed\" by The Tower.\n- **Defender** (디펜더, dipendeo)\n    Defender's main aim is to protect the Light Bearer and/or Spear Bearer.\n- **Anima** (부리미, burimi; \"Subjugator\")\n    An Anima controls living beings, commonly Shinheuh. It seems it's more a talent than a technique, as one cannot just become an Anima through learning.\n- **Wonsulsa** (원술사, 圓術師; \"Circle-technique user\" or \"Circler\")\n    A Wonsulsa is able to create a perfect circle of Shinsoo, causing it to gain much greater strength while retaining the same Myun and Soo.\n- **Dansulsa** (斷술사, 단術師; \"Pressure-technique user\"? or \"Pressurer\"?)\n    Dansul is the ability to, from far away, create an area with an enormously large amount of shinsoo pressure. Dansulsa may be a sub-category of Wave Controllers.\n- **Hwayeomsa** (화염사, 火炎師; \"Flame user\" or \"Flamer\")\n    Though never officially confirmed, it seems a Flame user is a person able to somehow form flames from shinsoo currents.\n- **Jeonsulsa** (전술사, 電術師; \"Lightning User\" or \"Lightninger\")\n   Though never officially confirmed, it seems a Lightning user is a person able to somehow form electricity from shinsoo currents.\n\n# Fisherman\n\nFisherman (낚시꾼, nakksikkun or \"Angler\") is said to be the epitome of all Positions.[1] The Position is suited for close to medium-range combatants and the main offence of the team. Fishermen tend to use Reel and Needles. Swords and other flat bladed weaponry are scarce in the Tower the higher the Floor one goes. This is because of their impeding level of drag, a detriment to weapons with larger surface area, in high density shinsoo environments that are common on the higher Floors of the Tower.\n\n### About\n\nA Fisherman generally possess the most destructive power in man-to-man fights. They usually carry light arms, with no heavy weapons. Fishermen are divided into two classes: Reel Fishermen, who use Reel Inventories to attack their enemy at medium range, or Man-to-man Fishermen, who go directly on the offensive at close range. The Fishermen constitute the main offensive force of a team and are usually at the centre of a battle.\n\n### Basic Arming (Ranker)\n\n- 1 to 2 Arms Inventory (medium)\n- 1 Armor Inventory (small)\n- 1 Reel Inventory (20 mun)\n\n# Scout\n> https://towerofgod.fandom.com/wiki/Scout\n\nThe Scout (탐색꾼, 探索꾼, tamsaegkkun) is the Position for literally scouting. They move ahead of the group, observe the environment and situation. They also aid the Fishermen as secondary offence.\n\n### About\n\nScouts are usually lightly armed for the intention to be agile and swift in movement and thinking. They usually play the role of helping the Fishermen regain a foothold or keeping watch of the enemy's movements. However, in terms of frequency and risk of combat, a Scout is a step above the Fisherman as they are often the first to encounter the enemy (e.g. Ship Leesoo encountering the Bull). Scout is a position which regards mental strength as very important, so someone who possesses weak mental strength can't be a Scout.[1]\n\nThey read the change of Shinsoo and collect visible data about the environment and enemies, using Observers, which then transfer gathered information back to the Light Bearers. They are basically divided into two types: The Basic Scouts generally work on gathering information for the Light Bearers and keep watch whilst the Battle Valuing Scouts focus on backing up the Fishermen in close-range combat.\n\n### Basic Arming (Ranker)\n\n- 2 Observers\n    An Observer (옵저버, objeobeo) is a special device used by Scouts. Their main use is to collect visual data and pass the information on to both the Scout[1] themselves and also to allied Light Bearers, who in turn analyse these data and coordinate their own team accordingly.\n- 1 Inventory (small, with the intention of light movement and light weapons)\n\n### Techniques used by Scouts\n\n- **Black Fish:** A much used Shinsoo technique that blocks out light, thereby making the scout \"invisible\". This is both used to hinder the attack of Fishermen and Spear Bearers and is just as important to help the Scout's Observers.\n- **Hologram:** Using an Observer, the Scout can create a hologram of themselves to trap the enemy. The hologram can move like the real thing, but it disappears when it is attacked.\n\n# Spear Bearer \n\nSpear Bearer (창지기, 搶지기, changjigi) is the Position that snipes the opponent and backs up the Fishermen using Spears. Spear Bearers comprise the long range offence of the team.\n\n### About\n\nSpear Bearers do not tend to be very powerful in a melee, but are very valuable due to their pinpoint attacking from a distance. Some carry Needles when in the front, bearing the possibility of a melee in mind, but most don't. They carry inventories, specially created for holding spears, called Pipes which are quite heavy. They are basically divided into two types, the Short-distance type, who use their spears to hit enemy weak points in the midst of a battle, and the Long-distance type, who snipe from far away. The role of a Spear Bearer is to provide backup for the Fishermen by keeping up a constant attack on the enemy's weak points.\n\nWith support of Lighthouse, an accomplished Spear Bearer is able to throw a spear tens of kilometres away. The Lighthouse has a feature which can adjust and guide the trajectory of the spear.\n\n### Basic Arming (Ranker)\n\n- 1 Pipe\n- 1 Armour Inventory(-ies) (medium)\n\n# Light Bearer\n\nLight Bearer (등대지기, 燈臺지기, deungdaejigi; \"one who protects the Lighthouse\" or \"Lighthouse Keeper\") is a Position which uses exploring devices called Lighthouses to gain information on the battle or the surroundings.\n\nAlso, a Light Bearer tends to gather information and formulate plans with the help of such information as they command their Lighthouse. They are also called Lighthouse keepers because they protect the Lighthouse. However, a Light Bearer must still be able to fulfil both roles as there may be times when they are expected to assume another role.\n\n### About\n\nLighthouses are glowing devices made of Suspendium and are used for gathering information to aid the Light Bearer's teammates in battle. The more Suspendium the Lighthouse possess, the better the Lighthouse shall be.[1]Some Lighthouses have an Observer function but as their mobility decreases, they become harder to handle. Light Bearers tends to pair up with Guidesand they provide information and the Guides lead the way.[2] The battles in The Tower are fought mostly in dark places, so it is very hard to battle without Light Bearers. A Light Bearer may take a frontal or rear position.\n\nWhen assuming a frontal position, the Light Bearer participates in combat themselves and gathers information on enemy weaknesses, using Lights. Such Light Bearers must have exceptional Shinsoocontrol and be able to maintain control of their Lighthouses.[3] They must be able to extend the reach of their Light cubes for a good distance, so their Lights can gather information about the environment and the battles which are transmitted to the Lighthouse. As there may be more than 2 to 3 battles at once, their Lights must be extended far enough to be able to attack a large area or cover them so the Light Bearer can analyse the situation.[4]\n\nWhen taking the rear position, the Light Bearer observes battles from a distance and collects data to use in future strategies. They basically control a Lighthouse which serves as a battle command centre. Using information collected by smaller Lighthouses they form strategies to direct and control the tide of a battle. They also issue instructions to their team members and, based on their feedback, decide on the next actions to take.[5] Because of this, a Light Bearer must be very knowledgeable, sharp, resourceful, good at analysing information and be able to come up with alternative strategies if their team is in a tight spot or if a previous plan has failed. Combat ability of these types of Light Bearers can't be lacking as they must be able to defend their Lighthouse if the enemy decides to attack it.\n\n### Basic Arming (Ranker)\n\n- 1 Lighthouse body\n- 3-4 Small Lighthouses\n- 1-2 Armor Inventory(-ies) (medium)\n\n# Wave Controller\n\nWave Controller (파도잡이, 波濤잡이, padojab-i) is a Position where one helps their allies in battles by attacking the enemy or by aiding the team using Shinsoo. Out of all the five ordinary Positions, Wave Controller is the rarest to be chosen for.\n\n### About\n\nEven for a rare Position, the Wave Controller Position comes with extreme individual variations. There are Wave Controllers who recklessly attack the enemy and there are those change the tide of the battle by subtly altering the flow of the Shinsoo.\n\nSince the ability to use raw Shinsoo at a level of efficiency that makes it more powerful than combining it with weaponry is quite rare, there are only handful of Wave Controllers as the traditional meaning, even among the Rankers. Most Wave Controllers lean to the powers of Shinsoo-manipulating items, but there are those who manipulate Shinsoo without any item whatsoever.\n\nThere are basically two types of Wave Controllers: Attacking-type and Support-type, but this kind of categorising is not used much. Wave Controllers are described as the directors of battles. Most of them have direct battle abilities and serve other Positions as well.[1]\n\nNote: Apparently, Wave Controller doesn't necessarily refer to a person who manipulates Shinsoo but the conventional meaning of this term basically is used also in the Outer Tower. In this sense, it probably refers to a non-human like a Shinheuh species or even possibly an artificial organism or anything technological that can manipulate Shinsoo without an item.[1]\n\n### Basic Arming (Ranker)\n\n- A Wand",
+          "position": 98304,
+          "trelloShortUrl": "RaoBTpUm"
+        },
+        {
+          "name": "Sources | Compétences | Liste des compétences",
+          "fileName": "sources-|-competences-|-liste-des-competences",
+          "description": "Liste des compétences issues d'autres jeux.",
+          "position": 49152,
+          "trelloShortUrl": "H9GCpgFO"
+        },
+        {
+          "name": "Sources | Actions | Unchained",
+          "fileName": "sources-|-actions-|-unchained",
+          "description": "Voir pp. 103 et 112 de Unchained",
+          "position": 32768,
+          "trelloShortUrl": "IMxgOJfp"
+        }
+      ]
+    },
+    {
+      "name": "Sphères | Carrure",
+      "fileName": "spheres-|-carrure",
+      "description": "",
+      "position": 81919,
+      "trelloShortUrl": "",
+      "pages": [
+        {
+          "name": "Carrure | Description",
+          "fileName": "carrure-|-description",
+          "description": "# Carrure\n\nLa Carrure représente les prouesses physiques dont votre personnage est capable, et son endurance. Un personnage avec une grande carrure est capable de déployer une grande énergie et de réaliser des prouesses impossibles, ou encore d'encaisser des chocs inhumains et d'ingérer de substances mortelles.\n\n### Mots-clés\n\nForce, Vigueur, Endurance, Puissance, Résistance\n\n### Exemples de Gameplay\n\n- Berserk: frappe peu, mais frappe fort\n- Gardien (Replaceur): repositionne ses ennemis, les met au sol et les empêche de se déplacer, afin de les enchaîner par la suite\n- Gardien (Bouclier) : protege ses alliés et empêche les adversaires de s'en approcher\n- Immortel: encaisse tout les dégâts,  affaiblissements, poisons",
+          "position": 8192,
+          "trelloShortUrl": "JBd25wuh"
+        },
+        {
+          "name": "Endurance",
+          "fileName": "endurance",
+          "description": "# Endurance\n> Facette\n> Capacité passive\n\n~~Le personnage est capable de résister à des effets qui devraient normalement le fatiguer ou affaiblir.~~\n~~Il peut effectuer un lancer de dé pour résister aux poisons, combattre un effet de fatigue.~~\n> **NB:**\nBof. Faudrait trouver une vraie action à faire derrière. La c'est un passif pur, et un must have\nIdée : Lorsqu'il est la cible d'un effet handicapant ses capacités physiques, le personnage à la possibilité de sacrifier **`2 * <Vigueur>`** points de vie. S'il fait ainsi, il peur faire un test de **`[Vigueur]`** pour retirer autant de marqueurs d'handicap que de succès à son jet.\n\n* Il bénéficie de **`+3`** degrés de maîtrise supplémentaires, dans la compétence **`[Vigueur]`**\n* Il bénéficie de **[Expertise(Vigueur, Novice)](https://trello.com/c/0EKOzT2h)**",
+          "position": 14592,
+          "trelloShortUrl": "AlqwWdQT"
+        },
+        {
+          "name": "Excédent de dégâts",
+          "fileName": "excedent-de-degats",
+          "description": "# Excédent de dégâts\n\n> Capacité passive | Combat |\n> Compétence/Maîtrise: ?\n> Affinité: Carrure\n\nLors d'une attaque au corps à corps, jusqu'a **`<Affinité(Carrure)>`** de succès excédentaires sont rajoutés aux dégâts.",
+          "position": 13792,
+          "trelloShortUrl": "8PYv1BMe"
+        },
+        {
+          "name": "Port des armures",
+          "fileName": "port-des-armures",
+          "description": "# Port des armures légères\n\n> Capacité passive | Combat |\n> Compétence/Maîtrise: `Port d'armure`\n\nLe personnage sait porter des armures pour encaisser les attaques. Il bénéficie du bonus de l'armure qu'il porte, dans la limite de son degré de maîtrise. \n\n* **[Apprendre(Armures)](https://trello.com/c/okzDUbWA)**\n    > **`+3`** degré de maîtrise, dans la compétence **`[Armures]`**.\n* **[Expertise(Mineure, Armures)](https://trello.com/c/0EKOzT2h)**\n    > **`Limite`** de **`<6>`** dans le degré de maîtrise en **[Armures]**.\n* Il est capable de porter des **Armures Légères**.\n* Il bénéficie du bonus de son armure, dans la limité de sa maîtrise en **`<Armures>`**\n    > \n    >",
+          "position": 12992,
+          "trelloShortUrl": "fVb5QzNk"
+        },
+        {
+          "name": "Coup puissant",
+          "fileName": "coup-puissant",
+          "description": "# Coup puissant\n\n> **Facette** |\n> Capacité active | Combat |\n> **Coût:** `n A°`\n\nAu cours d'une attaque, vous pouvez effectuer un coup puissant. En dépensant des actions supplémentaires, vous multilpliez les dégâts selon la table suivante :\n- 1 A° => dégâts ×2`\n- 2 A° => dégâts ×3\n- 3 A° => dégâts ×4\n\n> **Variante :**\nAu prix des actions dépensées, vous ajoutez un jet de **`[Compétences]`** aux dégâts.",
+          "position": 18304,
+          "trelloShortUrl": "KmbJ6PWq"
+        },
+        {
+          "name": "Boost d'adrénaline",
+          "fileName": "boost-d'adrenaline",
+          "description": "# Boost d'adrénaline\n> Capacité passive | Combat |\n\nIdées: \n\n* Au début du tour de combat, le personnage peut choisir de mettre une carte à 2 Actions dans le deck d'initiative, au lieu de 2 cartes à 1 Action.\n* Au début du tour de combat, le personnage peut choisir de mettre une carte à 2 Actions(Combat, corps à corps) dans le deck d'initiative,  à la place d'une carte Action.",
+          "position": 344064,
+          "trelloShortUrl": "Qrs70zQ6"
+        },
+        {
+          "name": "Manier les boucliers",
+          "fileName": "manier-les-boucliers",
+          "description": "#  Manier un bouclier\n\n> Facette |\n\nLe personnage sait utiliser un bouclier pour Bloquer les attaques au corps à corps. Il obtient les Capacités suivantes:\n\n* **[Apprendre(Bouclier)](https://trello.com/c/okzDUbWA)**\n    > **`+3`** degré de maîtrise, dans la compétence **`[Bouclier]`**.\n* **[Expertise(Mineure, Bouclier)](https://trello.com/c/0EKOzT2h)**\n    > **`Limite`** de **`<6>`** dans le degré de maîtrise en **`[Bouclier]`**.\n* Tant qu'il a un bouclier en main, il est capable d'utiliser **[Bloquer(Bouclier)](https://trello.com/c/djn43Sx7)**\n    > Réaction:\n    > 1xR° => **`[Bouclier]`** en **`<Esquive>`**",
+          "position": 11392,
+          "trelloShortUrl": "glKnsLER"
+        },
+        {
+          "name": "Jeter un objet",
+          "fileName": "jeter-un-objet",
+          "description": "> Redondant avec Attaquer\n\n# Jeter un objet\n\n> Capacité active | Combat |\n> **Coût:** `A°`\n\nLe personnage est capable de jeter des objets.\n\nLors d'un combat, par ~deux~ actions, le personnage peut jeter un objet ou une arme, sur un adversaire à distance.\nIl effectue un jet de la [Compétence] associée à l'arme qu'il tient en main.\n\nUne attaque à distance se résoud par un test de [Compétence de combat]. En cas de succès, vous infligez les dégâts de votre arme.",
+          "position": 360448,
+          "trelloShortUrl": "YYLpbdjh"
+        }
+      ]
+    },
+    {
+      "name": "Sphères | Réactivité",
+      "fileName": "spheres-|-reactivite",
+      "description": "",
+      "position": 131071,
+      "trelloShortUrl": "",
+      "pages": [
+        {
+          "name": "Réactivité | Description",
+          "fileName": "reactivite-|-description",
+          "description": "# Réactivité\n\nLa Réactivité reflète la vitesse d'action et le temps d'exécution d'un personnage. Elle détermine également ses réflexes, c'est à dire, sa capacité à répondre à des événements se déroulant autour de lui. Elle permet enfin de reporter ce \"dernier moment\", nécessaire pour effectuer des virages serrés, encore plus tard. \n\n### Mots-clés\nRéflexes, Vitesse, Contres, Riposte, Accélération\n\n### Exemples de Gameplay\n- Contres: Parade, Esquives, Riposte et Contre-attaque\n- Rapide: diminue son temps d'exécution de différentes actions\n- Pilote drone: prend le contrôle de robots et les dirige par la pensée.",
+          "position": 8192,
+          "trelloShortUrl": "ZcVbZiZL"
+        },
+        {
+          "name": "Réaction accrue",
+          "fileName": "reaction-accrue",
+          "description": "# Réaction accrue\n\n> Capacité passive | Combat |\n\nLe personnage gagne une Réaction supplémentaire. \n\n# En attention active\n> TODO\n\n> Capacité passive | Combat |\n> Compétence/Maîtrise: ?\n> Posture\n\nTant que le personnage est dans cette posture, réduit de 1 le coût d'une `Réaction`. Une réaction ne peut pas avoir un coût inférieur à 1.",
+          "position": 114688,
+          "trelloShortUrl": "bPoFKNT2"
+        },
+        {
+          "name": "Intercepter",
+          "fileName": "intercepter",
+          "description": "# Intercepter\n\n> Capacité active | Combat |\n> **Coût:** `R°`\n\n> Voir aussi: [Réagir](https://trello.com/c/ZWO9M2ej)\n\nLorsque un adversaire se déplace à proximité du personnage, ce dernier peut utiliser une réaction pour tenter de l'`Intercepter`.\n\n`Intercepter` permet au personnage, d'effectuer une attaque contre l'adversaire. En plus des dégats normaux, l'adversaire réduit son deplacement de 1 case par succès.",
+          "position": 90112,
+          "trelloShortUrl": "3Ll278SU"
+        }
+      ]
+    },
+    {
+      "name": "Spheres",
+      "fileName": "spheres",
+      "description": "",
+      "position": 204799,
+      "trelloShortUrl": "",
+      "pages": [
+        {
+          "name": "Carrure | Soldat",
+          "fileName": "carrure-|-soldat",
+          "description": "# Soldat\n\nPermet de monter un combattant au corps à corps, éclectique, équilibré entre attaque et défense.\n\n# Facettes\n* Manier les armes(Rudimentaires)\n* Manier les armes(Choix)\n    * Choisir parmi :\n    Armes Rudimentaires, Armes de milicien\n    Lames légères,  Lames lourdes, Haches,\n    Armes d'hast, Lances,\n    Masses et massues, Pics et marteaux, Fléaux et chaînes,\n    Combat à main nues, Armes de poing\n* Port des armures légères\n* Maniement du bouclier\n* Endurance\n* Affinité (Carrure)\n* Coup puissant\n* Maîtrise de (Compétences)\n\n```\n    **Manier les \n        armes (Rudimentaires)**\n              |\n          Endurance\n              |\n      Manier les\n         armes (Choix)\n    /         |          \\\n  Port des   Coup    Maniement  \n  Armures   puissant    du\n  Légères             bouclier\n    \\         |          /\n        Affinité(Carrure)\n              |\n            Maîtrise \n        des compétences \n```\nCpt: Athlétisme, Corps à corps, Manoeuvres, Postures\n\nSphère de base de l'attribut Carrure.",
+          "position": 32768,
+          "trelloShortUrl": "BvWCfcJo"
+        },
+        {
+          "name": "Carrure | Immortel",
+          "fileName": "carrure-|-immortel",
+          "description": "# Immortel\n\nImmortel: encaisse tout les dégâts, affaiblissements, poisons",
+          "position": 49152,
+          "trelloShortUrl": "DEVEaMEg"
+        },
+        {
+          "name": "Carrure | Maître d'armes",
+          "fileName": "carrure-|-maitre-d'armes",
+          "description": "> Récupération brute du 1er jet sur cahier\n```\n+3Cpt\nAffinité    Affinité \nSynergie(+1)    Spé Dégâts\nSurplus dégâts\n```",
+          "position": 114688,
+          "trelloShortUrl": "o5AP7iaB"
+        },
+        {
+          "name": "Carrure | Stratégie du renversement",
+          "fileName": "carrure-|-strategie-du-renversement",
+          "description": "> Récupération brute du 1er jet sur cahier\nCette Sphère demande un Pallier (CAR + INT)\nObjectif: bonus alliés\n```\n+3Cpt\nBonus +1/allié (vs. adversaire au sol)\nCulbute: donne Reaction gratuite aux allies\n```",
+          "position": 147456,
+          "trelloShortUrl": "jvkvGk2g"
+        },
+        {
+          "name": "Carrure | Choc",
+          "fileName": "carrure-|-choc",
+          "description": "> Récupération brute du 1er jet sur cahier\n```\nRenversement \n+3Cpt        Bonus(adversaires au sol)\nAffinité      Réaction(adversaire renversé)\nChoc (1d6 dégâts) (×)\nAffinité \n+3Cpt        Réaction(adversaire renversé)\n```",
+          "position": 131072,
+          "trelloShortUrl": "FOSMjSTK"
+        },
+        {
+          "name": "Agilité | \"Déplacement\"",
+          "fileName": "agilite-|-\"deplacement\"",
+          "description": "> Récupération brute du 1er jet sur cahier\n```\nSprint\nDéplacer & Attaquer    +3Cpt\nAffinité    Affinité \nPas léger \n+3Cpt\n```",
+          "position": 180224,
+          "trelloShortUrl": "pAA9xwVl"
+        },
+        {
+          "name": "Agilité | \"Ambidextre\"",
+          "fileName": "agilite-|-\"ambidextre\"",
+          "description": "---\nCoût: 1 AGI\n\n---\n\n# Ambidextre\n\nDébut d'un combattant corps à corps utilisant une arme dans chaque main.\n\n### Facettes\n\n*  Manier les armes(Choix)\n    * Choisir parmi :\n    Armes Rudimentaires, Armes de la pègre\n    Combat à main nues, Armes de poing\n    Lames légères,\n    Masses et massues,",
+          "position": 245760,
+          "trelloShortUrl": "fXovGOyc"
+        },
+        {
+          "name": "Agilité | Chasseur",
+          "fileName": "agilite-|-chasseur",
+          "description": "---\nCoût: 1 AGI\n\n---\n\n# Sentinelle \n\nDébut d'un archer.\n\n### Facettes\n\n*  Manier les armes(Choix)\n    * Choisir parmi :\n    Armes Rudimentaires, Armes de la pègre\n    Combat à main nues, Armes de poing\n    Arbalète, Arcs,",
+          "position": 229376,
+          "trelloShortUrl": "03Jk2bGB"
+        },
+        {
+          "name": "Agilité | \"Derviche danseur\"",
+          "fileName": "agilite-|-\"derviche-danseur\"",
+          "description": "> Récupération brute du 1er jet sur cahier\n```\nMilles entailles\n```",
+          "position": 256000,
+          "trelloShortUrl": "B9NKqUzv"
+        },
+        {
+          "name": "Intelligence | Officier (Base)",
+          "fileName": "intelligence-|-officier-(base)",
+          "description": "> Récupération brute du 1er jet sur cahier\n```\n**Aide**\n    /    |    \\\n+3Cpt +3Cpt +3Cpt\n    |    |\nSurnombre    Affinité\n        Posture(Defense mineure)\n```\nCpt: Expertise combat,  cryptographie, Informatique, Tactique",
+          "position": 276480,
+          "trelloShortUrl": "rMxLAqSW"
+        },
+        {
+          "name": "Ego | Raccolleur (Base)",
+          "fileName": "ego-|-raccolleur-(base)",
+          "description": "> Récupération brute du 1er jet sur cahier\n```\n        **Base**\n            |\n          +3Cpt\n    /       |        \\\n  +3Cpt  Affinité   +3Cpt\n    |       \\\nPeur  Autohypnose\n    |\n Assaut mental\n```",
+          "position": 342016,
+          "trelloShortUrl": "jtPp5v3F"
+        },
+        {
+          "name": "Distance",
+          "fileName": "distance",
+          "description": "> Récupération brute du 1er jet sur cahier\n```\nAction d'attaque supplémentaire si attaque arc (avec malus)\nRéduction malus\nAction feu nourri\n```",
+          "position": 325632,
+          "trelloShortUrl": "qJz2DdUP"
+        },
+        {
+          "name": "Peur",
+          "fileName": "peur",
+          "description": "> Récupération brute du 1er jet sur cahier\n```\nIntimidation\nBonus forcer Intimidation\nAction gratuite contre les cibles intimidés\nIntimidation: bonus/succès\n```",
+          "position": 374784,
+          "trelloShortUrl": "Kt6uXnmU"
+        },
+        {
+          "name": "Réactivité | Croupier (Base)",
+          "fileName": "reactivite-|-croupier-(base)",
+          "description": "# Croupier\n\nPermet de monter un personnage, capable de réagir très vite et de multiplier les mouvements précis en très peu de temps.\n\n> Voir aussi: [Réagir](https://trello.com/c/ZWO9M2ej)\n\n\n```\n        **Intercepter**\n              |\n              |\n      TODO\n    /         |          \\\n  Réagir     TODO  Accélération  \n      vite\n    \\         |          /\n        Affinité(Réactivité)\n               |\n            Réactions\n             supplementaires  \n```\n\n### Autres facettes:\n* **Reagir vite :**\n    Permet de payer 5 points d'initiatives pour bénéficier d'une `Réaction`.\n* Donne accès à l'action `Intercepter`\n* **Meta:**\n    Pour une action, permet de dépenser autant de `R°` que le coût en `A°` de l'action, pour effectuer deux lancers de dés et garder le meilleur. \n* **Accélération:**\n    > Trop puissant pour être débloquée ici\n    \n    Permet de dépenser **`<Affinité (Réactivité)>`** Réaction(s) par tour pour compléter les Actions manquantes pour activer une Capacité.\n    Nécessité de dépenser au moins une Action\n* **Réactions supplementaires:** \n    `+1 R°/<Affinité (Réactivité)>`",
+          "position": 257024,
+          "trelloShortUrl": "wjnZw0OJ"
+        },
+        {
+          "name": "Leadership",
+          "fileName": "leadership",
+          "description": "> Récupération brute du 1er jet sur cahier\n```\nInspiration (×)\nInspiration test+\n+@Initialement\nInspiration: bonus/succès\nRound multiples\nSubordonnés multiples\n```",
+          "position": 358400,
+          "trelloShortUrl": "QBohFZG7"
+        },
+        {
+          "name": "Perception Init",
+          "fileName": "perception-init",
+          "description": "> Récupération brute du 1er jet sur cahier\n```\nRelancer Initiative \nBonus +2/Relance\n+1Init/Affinité\n+1 Passe d'initiative\nPosture(intuition)\n```",
+          "position": 309248,
+          "trelloShortUrl": "Dh5i4gzW"
+        },
+        {
+          "name": "Perception | Guetteur (Base)",
+          "fileName": "perception-|-guetteur-(base)",
+          "description": "> Récupération brute du 1er jet sur cahier\n\n```\n    **Initiative 1d6**\n            |\n          +3Cpt\n    /       |        \\\n  +3Cpt  Affinité   +3Cpt\n    |       \\\n+1 Init/Affinité  Ajuster\n    |\n  +1CA Intuition \n```\n\nhttps://trello.com/c/Zucnss4M/88-ajuster-facette ",
+          "position": 292864,
+          "trelloShortUrl": "irY68HJ0"
+        },
+        {
+          "name": "Opportuniste",
+          "fileName": "opportuniste",
+          "description": "> Récupération brute du 1er jet sur cahier\n```\nDéploiement de Réaction +R° (×)\nCopie de Réaction +÷2 Bonus\nPartage de Réaction\nRéduction malus\n```",
+          "position": 258048,
+          "trelloShortUrl": "FWHXyUnl"
+        },
+        {
+          "name": "Vivacite",
+          "fileName": "vivacite",
+          "description": "> Récupération brute du 1er jet sur cahier\n```\nDéploiement Action +A° (×)\nRéduction malus\nMeta-action +2 \n(Après: ×2//+1/Affinité)\n```",
+          "position": 260096,
+          "trelloShortUrl": "3F2W5oQM"
+        },
+        {
+          "name": "Agilité | Pistolero",
+          "fileName": "agilite-|-pistolero",
+          "description": "---\nCoût: 1 AGI\n\n---\n\n# Pistolero\n\nPremière étape permettant de monter un personnage sachant manier les armes à feu.\n\n### Facettes \n**Manier les pistolets**\n* Manier les Armes (Pistolet)\n* Recharger une arme\n* Faire feu (Coup par coup)\n\n**Manier les Armes (Choix)**\nChoisir parmi :\n * Pistolets \n * Armes automatiques\n * Fusils\n * Armes lourdes\n\n**Mode de tir**\nDans l'ordre: Semi-automatique, Tir en rafale, Tir en rafale longue, Tir automatique\n\n```\n    **Manier les**\n            **Pistolets**\n              |\n              |\n      Manier les\n         armes (Choix)\n    /         |          \\\n      Mode      \n            de tir \n    \\         |          /\n     Affinité(Agilité)\n          |\n            Maîtrise \n        des compétences \n```",
+          "position": 212992,
+          "trelloShortUrl": "Yioki3ip"
+        },
+        {
+          "name": "Agilité | Ombre (\"Camouflé\")",
+          "fileName": "agilite-|-ombre-(\"camoufle\")",
+          "description": "# Ombre\n\nVif, surprenant, inattendu, patient, l'Ombre excelle pour se dissimuler de son adversaire, et lui porter un coup en traître avant de retourner se cacher\n\n> Récupération brute du 1er jet sur cahier\n```\n        **Créer une diversion**\n                |\n                |\n                |\n               /\\\n\n# Todo\nSouplesse serpent\nAttaque éclair\nPosture(camouflage 5%)\n```",
+          "position": 196608,
+          "trelloShortUrl": "34ucHg2a"
+        },
+        {
+          "name": "Agilité | Baladin  (Base)",
+          "fileName": "agilite-|-baladin-(base)",
+          "description": "# Baladin\n\nPermet de monter un acrobate, capable de manier souplement des armes légères de corps à corps, ou des armes à distance. \nUn baladin possède également quelques aptitudes pour se déplacer plus aisément. \n\n# Facettes\n\n* Course\n*  Manier les armes(Choix)\n    * Choisir parmi :\n    Armes Rudimentaires, Armes de la pègre\n    Lames légères,\n    Masses et massues, \n    Combat à main nues, Armes de poing\n    Arbalète, Arcs,\n    Pistolets\n* Pas léger\n* Esquive\n* Affinité (Agilité)\n* Ambidextrie\n* Mode de tir(Coup par coup)\n> Dégager ce qui est lié aux armes\n\n```\n        **Course**\n              |\n          Esquive\n              |\n        Affinité(Agilité)\n    /         |          \\\n  / \\         |          /\n Pas    \n Léger        |\n            Maîtrise \n        des compétences \n```",
+          "position": 163840,
+          "trelloShortUrl": "JL70EuH1"
+        },
+        {
+          "name": "Carrure | Gardien (Bouclier)",
+          "fileName": "carrure-|-gardien-(bouclier)",
+          "description": "# Gardien (Bouclier)\n\nGardien (Bouclier) : protege ses alliés et empêche les adversaires de s'en approcher",
+          "position": 65536,
+          "trelloShortUrl": "6cCyYq7w"
+        },
+        {
+          "name": "Carrure | Berserk",
+          "fileName": "carrure-|-berserk",
+          "description": "# Berserk\n\nBerserk: frappe peu, mais frappe fort\nPeut sacrifier des pvs pour bénéficier d'actions gratuites.\n\n> Récupération brute du 1er jet sur cahier\n\n```\n    **Coup puissant** (×)\n            |\n          +3Cpt\n           / \\\n    Affinité  Affinité\n        |        |\nRenversement  Posture(puissance)\n      +3Cpt    +3Cpt\n```",
+          "position": 98304,
+          "trelloShortUrl": "BIUSJ77v"
+        },
+        {
+          "name": "Carrure | Gardien (Replaceur)",
+          "fileName": "carrure-|-gardien-(replaceur)",
+          "description": "# Gardien (Replaceur)\n\nGardien (Replaceur): repositionne ses ennemis, les met au sol et les empêche de se déplacer, afin de les enchaîner par la suite",
+          "position": 81920,
+          "trelloShortUrl": "kyTP5YF2"
+        },
+        {
+          "name": "Caract: Se dédouanner davantage de D&D",
+          "fileName": "caract:-se-dedouanner-davantage-de-d&d",
+          "description": "L'idée est de définir directement les gameplay, dans se mettre dans une caract ou une autre.\n\nIl faut se recentrer sur ce qui est important : les facettes.\n- une Sphère n'est qu'une projections.\n- une Sphère est un gameplay.\n- les gameplay peuvent se marcher dessus\n- les gameplay peuvent se synergiser",
+          "position": 16384,
+          "trelloShortUrl": "YBIKO8fx"
+        }
+      ]
+    },
+    {
+      "name": "Sphères | Intelligence",
+      "fileName": "spheres-|-intelligence",
+      "description": "",
+      "position": 139263,
+      "trelloShortUrl": "",
+      "pages": [
+        {
+          "name": "Logique | Piratage",
+          "fileName": "logique-|-piratage",
+          "description": "",
+          "position": 32768,
+          "trelloShortUrl": "oNa4W4iJ"
+        },
+        {
+          "name": "Logique | Biotech",
+          "fileName": "logique-|-biotech",
+          "description": "",
+          "position": 65536,
+          "trelloShortUrl": "6qUTIHcR"
+        },
+        {
+          "name": "Defense totale",
+          "fileName": "defense-totale",
+          "description": "# Défense totale\n\n> Capacité active | Combat |\n> **Coût:** `R°` `R°`\n\nA n'importe quel moment, le personnage a la possibilité d'utiliser deux réactions pour prendre la posture de `Défense totale`.\n\nLa `Défense totale` permet de lancer [Compétence de combat] et d'utiliser les succès en bonus à la valeur d'esquive, contre toutes les attaques du tour.",
+          "position": 12032,
+          "trelloShortUrl": "7WF8Fz71"
+        },
+        {
+          "name": "Intelligence | Description",
+          "fileName": "intelligence-|-description",
+          "description": "# Intelligence \n\nL’Intelligence détermine la capacité d’apprentissage et de raisonnement du personnage. Elle mesure la capacité de calcul brute de l’esprit rationnel du personnage, et est indispensable pour développer des attaques et contre-attaques sur le champ de bataille. Elle traduit également la capacité du personnage à se remémorer ses souvenirs et à rappeler ses connaissances.\n\n### Mots-clés\n\nTactique, Recul, Connaissance, Cognition, Logique, Ruse\n\n### Exemples de Gameplay\n\n- Tacticien: aide ses alliés, tire avantage de leur positions, partage avec eux ses connaissances et ses manoeuvres\n- Assassin: utilise ses connaissances pour éliminer au plus efficacement l'ennemi contre lequel il s'est spécialisé",
+          "position": 8192,
+          "trelloShortUrl": "NUsrM9RG"
+        },
+        {
+          "name": "Comprendre un point faible",
+          "fileName": "comprendre-un-point-faible",
+          "description": "",
+          "position": 114688,
+          "trelloShortUrl": "amYXhJFW"
+        },
+        {
+          "name": "Intelligence | Scribe",
+          "fileName": "intelligence-|-scribe",
+          "description": "Accès aux Sphères:\n* Connaissance/Savoir\n* Identification\n* Écriture de parchemins\n* Décryptage\n* Recherche bibliothécaire",
+          "position": 98304,
+          "trelloShortUrl": "mz45BHyu"
+        },
+        {
+          "name": "Identifier Créature  / Connaissances",
+          "fileName": "identifier-creature-/-connaissances",
+          "description": "# Identifier Créature  / Connaissances\n\n> TODO\n> Depuis: D&D, Unchained \n\n#### Identifications des monstres\nLe personnage peut utiliser certaines compétences pour identifier les monstres, leurs pouvoirs spéciaux et leurs vul-nérabilités. Un test réussi lui permet de connaitre quelques informations utiles à propos d’un monstre particulier. Pour chaque tranche de 5 points entre son résultat et le DD du test, il se souvient d’une information utile en plus.\n\n#### Connaissances étendues \n\nLorsqu’il possède le nombre de rangs indiqués en Connaissances, le personnage acquiert les avantages suivants.\n5 rangs. Quand le personnage réussit à identifier une créature, il obtient une information supplémentaire par tranche de 5 rangs possédés dans la compétence de Connaissances appropriée.\n10 rangs. Quand le personnage réussit à identifier une créature, il **gagne un bonus de compétence de +1 aux jets d’attaque, aux tests de caractéristique opposés, aux tests de compétence et aux tests de niveau de lanceur de sorts effectués contre les créatures de la même espèce** (par exemple, contre les démons glabrezus, mais pas contre les autres démons ou extérieurs Mauvais) pendant une minute. Ce bonus augmente de +1 pour chaque tranche de 5 rangs dans la compétence de Connaissances appropriée au-dessus du dixième.\n15 rangs. Quand il rate un test de Connaissances, le personnage peut retenter le test avec un malus de -10. Le bonus de compétence décrit ci-dessus s’applique également aux jets de sauvegarde contre les pouvoirs magiques, extraordinaires ou surnaturels utilisés par les créatures identifiées.\n20 rangs. Chaque fois que le personnage effectue un test de Connaissances, il peut lancer deux fois le dé et conserver le meilleur résultat.",
+          "position": 81920,
+          "trelloShortUrl": "lNfRZHVp"
+        },
+        {
+          "name": "Surnombre",
+          "fileName": "surnombre",
+          "description": "# Surnombre\n\n> Capacité passive | Combat |\n> Compétence/Maîtrise: ?\n> Affinité: Intelligence\n\nPermet de bénéficier d'un +1 à l'attaque, par allié adjacent à la cible de l'ataque.",
+          "position": 11776,
+          "trelloShortUrl": "g6X02qpN"
+        },
+        {
+          "name": "Logique | Électronique",
+          "fileName": "logique-|-electronique",
+          "description": "",
+          "position": 49152,
+          "trelloShortUrl": "M9D7KOwm"
+        }
+      ]
+    },
+    {
+      "name": "Sphères | Ego",
+      "fileName": "spheres-|-ego",
+      "description": "",
+      "position": 196607,
+      "trelloShortUrl": "",
+      "pages": [
+        {
+          "name": "Rallier",
+          "fileName": "rallier",
+          "description": "# Rallier\n\n> Capacité active | Combat |\n> **Coût:** `A°`\n\nLe personnage effectue un test de [Leadership]. Tous les subordonnés ajoutent 1 à leur score d'initiative pour chaque 2 succès.",
+          "position": 14848,
+          "trelloShortUrl": "BR8PhSDe"
+        },
+        {
+          "name": "Démoraliser un adversaire",
+          "fileName": "demoraliser-un-adversaire",
+          "description": "# Démoraliser un adversaire\n\n> TODO\n> Depuis: D&D, Unchained \n\nLe personnage peut secouer un adversaire. Le DD du test est égal à 10 + le nombre de dés de vie de la cible + le modificateur de Sagesse de la cible. En cas de réussite, la cible est secouée pendant 1 round, plus 1 round supplémentaire par tranche de 5 points obtenus au-dessus du DD. Le personnage peut seulement affecter un adversaire situé à 9 mètres ou moins qui peut le voir et l’entendre distinctement. S’il démoralise un ennemi à plusieurs reprises, il ne fait que rallonger la durée de l’effet, il n’augmente pas l’intensité de la peur ressentie.Action. Action simple.Nouvelles tentatives. Oui, mais le DD augmente de 5 à chaque test supplémentaire contre un même adversaire. Il faut laisser une heure s’écouler pour revenir au DD initial.Bonus de taille. Si le personnage est plus grand que sa cible, il obtient un bonus de +4 aux tests pour la démoraliser. S’il est plus petit, il subit un malus de -4.",
+          "position": 131072,
+          "trelloShortUrl": "MjMWf9Qu"
+        },
+        {
+          "name": "Ego | Description",
+          "fileName": "ego-|-description",
+          "description": "# Ego\n\nL'Ego est la force de la personnalité du personnage. Cet attribut représente la confiance en soi, la détermination, son affirmation de soi, mais aussi la capacité à interagir avec les autres. Il s'agit la capacité du personnage à suivre sa propre voie, et à convaincre les autres de le suivre. L'Ego traduit également la facilité du personnage à faire face à l’adversité, et à garder la tête haute après une humiliation.\n\n### Mots-clés\n\nVolonté, Communication, Manipulation, Persuasion, Charme, Intimidation\n\n**Synonyme**\n> Charisme\n\n### Exemples de Gameplay\n\n* Inspiration: donne des bonus à ses alliés\n* Coercition: empêche les adversaires d'agir, et leur dicte leurs actions\n* Feu intérieur: Foi/Rage. Utilise ses ressources intérieures pour déployer une grande puissance",
+          "position": 8192,
+          "trelloShortUrl": "kg1pDsAh"
+        },
+        {
+          "name": "Inspirer",
+          "fileName": "inspirer",
+          "description": "# Inspirer\n\n> Capacité active | Combat |\n\nLe personnage effectue un test de [Leadership]. Les succès agissent comme un test d'équipe pour tous les subordonné.",
+          "position": 13312,
+          "trelloShortUrl": "kb15Ov7D"
+        }
+      ]
+    },
+    {
+      "name": "Chance",
+      "fileName": "chance",
+      "description": "",
+      "position": 212991,
+      "trelloShortUrl": "",
+      "pages": [
+        {
+          "name": "Appel à la Chance",
+          "fileName": "appel-a-la-chance",
+          "description": "En consommant un point de Chance le personnage bénéficie d'un bonus de [Affinite(Chance)] sur sa prochaine action.\n\nDe plus, il peut relancer tous les six, en les comptabilisant dans ses succès.",
+          "position": 16384,
+          "trelloShortUrl": "x8JAF3Qi"
+        }
+      ]
+    }
+  ]
+}
