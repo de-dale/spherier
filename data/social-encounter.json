@@ -1,0 +1,14 @@
+[
+  {
+    "name": "S'intéresser",
+    "content": "Pose des questions sur l'interlocuteur, pour en apprendre davantage sur lui.\n [+1 Respect]"
+  },
+  {
+    "name": "Complimenter",
+    "content": "Fait l'éloge de l'interlocuteur, dans l'espoir de gagner son adhésion.\n [+1 Loyauté]"
+  },
+  {
+    "name": "Rassurer",
+    "content": "Apaise les craintes de l'interlocuteur, dans l'objectif de gagner sa confiance.\n [+1 Confiance]"
+  }
+]
